@@ -1,0 +1,5 @@
+loss,delay,file_match,packets_sent,retransmissions,timeouts,elapsed_ms,throughput_bps
+0.0,0,YES,223,0,0,3.82882,2.97742e+07
+0.05,50,YES,295,72,9,14226.1,8013.47
+0.10,50,YES,345,122,16,16499.3,6909.4
+0.20,100,YES,6971,6748,848,279859,407.347

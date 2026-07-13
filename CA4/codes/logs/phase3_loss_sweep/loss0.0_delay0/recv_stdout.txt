@@ -1,0 +1,9 @@
+[receiver] listening on port 9410 -> output_loss0.0_delay0.txt (loss=0, delay=0ms)
+[receiver] transfer complete
+  bytes written        : 114000
+  packets received     : 224
+  packets accepted     : 223
+  packets dropped(loss): 0
+  corrupt packets      : 0
+  duplicate/out-of-order: 0
+  elapsed time (ms)    : 307.081
