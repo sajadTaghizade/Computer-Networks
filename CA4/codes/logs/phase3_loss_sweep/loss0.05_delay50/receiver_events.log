@@ -1,0 +1,579 @@
+[302.86ms] RECV seq=0 len=512 accepted, expecting seq=1
+[353.08ms] SEND_ACK ack_num=1
+[353.10ms] RECV seq=1 len=512 accepted, expecting seq=2
+[403.32ms] SEND_ACK ack_num=2
+[403.35ms] RECV seq=2 len=512 accepted, expecting seq=3
+[453.51ms] SEND_ACK ack_num=3
+[453.54ms] RECV seq=3 len=512 accepted, expecting seq=4
+[503.76ms] SEND_ACK ack_num=4
+[503.78ms] RECV seq=4 len=512 accepted, expecting seq=5
+[553.99ms] SEND_ACK ack_num=5
+[554.03ms] RECV seq=5 len=512 accepted, expecting seq=6
+[604.25ms] SEND_ACK ack_num=6
+[604.28ms] RECV seq=6 len=512 accepted, expecting seq=7
+[654.51ms] SEND_ACK ack_num=7
+[654.54ms] RECV seq=7 len=512 accepted, expecting seq=8
+[704.76ms] SEND_ACK ack_num=8
+[704.79ms] SIM_LOSS seq=8 dropped artificially
+[704.79ms] RECV_UNEXPECTED seq=9 expected=8 -> duplicate ACK
+[754.98ms] SEND_ACK ack_num=8
+[755.02ms] RECV_UNEXPECTED seq=10 expected=8 -> duplicate ACK
+[805.24ms] SEND_ACK ack_num=8
+[805.26ms] RECV_UNEXPECTED seq=11 expected=8 -> duplicate ACK
+[855.50ms] SEND_ACK ack_num=8
+[855.53ms] RECV_UNEXPECTED seq=12 expected=8 -> duplicate ACK
+[905.73ms] SEND_ACK ack_num=8
+[905.76ms] RECV_UNEXPECTED seq=13 expected=8 -> duplicate ACK
+[955.96ms] SEND_ACK ack_num=8
+[956.00ms] RECV_UNEXPECTED seq=14 expected=8 -> duplicate ACK
+[1006.21ms] SEND_ACK ack_num=8
+[1006.23ms] RECV_UNEXPECTED seq=15 expected=8 -> duplicate ACK
+[1056.47ms] SEND_ACK ack_num=8
+[1056.50ms] RECV seq=8 len=512 accepted, expecting seq=9
+[1106.71ms] SEND_ACK ack_num=9
+[1106.74ms] RECV seq=9 len=512 accepted, expecting seq=10
+[1156.94ms] SEND_ACK ack_num=10
+[1156.97ms] RECV seq=10 len=512 accepted, expecting seq=11
+[1207.20ms] SEND_ACK ack_num=11
+[1207.23ms] RECV seq=11 len=512 accepted, expecting seq=12
+[1257.46ms] SEND_ACK ack_num=12
+[1257.49ms] RECV seq=12 len=512 accepted, expecting seq=13
+[1307.74ms] SEND_ACK ack_num=13
+[1307.77ms] RECV seq=13 len=512 accepted, expecting seq=14
+[1358.00ms] SEND_ACK ack_num=14
+[1358.02ms] RECV seq=14 len=512 accepted, expecting seq=15
+[1408.29ms] SEND_ACK ack_num=15
+[1408.41ms] RECV seq=15 len=512 accepted, expecting seq=16
+[1458.64ms] SEND_ACK ack_num=16
+[1458.67ms] RECV seq=16 len=512 accepted, expecting seq=17
+[1508.98ms] SEND_ACK ack_num=17
+[1509.01ms] RECV seq=17 len=512 accepted, expecting seq=18
+[1559.25ms] SEND_ACK ack_num=18
+[1559.34ms] RECV seq=18 len=512 accepted, expecting seq=19
+[1609.61ms] SEND_ACK ack_num=19
+[1609.64ms] RECV seq=19 len=512 accepted, expecting seq=20
+[1659.87ms] SEND_ACK ack_num=20
+[1659.90ms] RECV seq=20 len=512 accepted, expecting seq=21
+[1710.13ms] SEND_ACK ack_num=21
+[1710.16ms] RECV seq=21 len=512 accepted, expecting seq=22
+[1760.44ms] SEND_ACK ack_num=22
+[1760.47ms] RECV seq=22 len=512 accepted, expecting seq=23
+[1810.71ms] SEND_ACK ack_num=23
+[1810.74ms] RECV seq=23 len=512 accepted, expecting seq=24
+[1860.94ms] SEND_ACK ack_num=24
+[1860.97ms] RECV seq=24 len=512 accepted, expecting seq=25
+[1911.24ms] SEND_ACK ack_num=25
+[1911.28ms] RECV seq=25 len=512 accepted, expecting seq=26
+[1961.56ms] SEND_ACK ack_num=26
+[1961.59ms] RECV seq=26 len=512 accepted, expecting seq=27
+[2011.85ms] SEND_ACK ack_num=27
+[2011.89ms] RECV seq=27 len=512 accepted, expecting seq=28
+[2062.20ms] SEND_ACK ack_num=28
+[2062.23ms] RECV seq=28 len=512 accepted, expecting seq=29
+[2112.51ms] SEND_ACK ack_num=29
+[2112.55ms] RECV seq=29 len=512 accepted, expecting seq=30
+[2162.77ms] SEND_ACK ack_num=30
+[2162.80ms] RECV seq=30 len=512 accepted, expecting seq=31
+[2213.06ms] SEND_ACK ack_num=31
+[2213.14ms] RECV seq=31 len=512 accepted, expecting seq=32
+[2263.41ms] SEND_ACK ack_num=32
+[2263.43ms] RECV seq=32 len=512 accepted, expecting seq=33
+[2313.60ms] SEND_ACK ack_num=33
+[2313.62ms] RECV seq=33 len=512 accepted, expecting seq=34
+[2363.86ms] SEND_ACK ack_num=34
+[2363.89ms] RECV seq=34 len=512 accepted, expecting seq=35
+[2414.16ms] SEND_ACK ack_num=35
+[2414.19ms] RECV seq=35 len=512 accepted, expecting seq=36
+[2464.44ms] SEND_ACK ack_num=36
+[2464.47ms] RECV seq=36 len=512 accepted, expecting seq=37
+[2514.76ms] SEND_ACK ack_num=37
+[2514.80ms] RECV seq=37 len=512 accepted, expecting seq=38
+[2565.12ms] SEND_ACK ack_num=38
+[2565.14ms] RECV seq=38 len=512 accepted, expecting seq=39
+[2615.37ms] SEND_ACK ack_num=39
+[2615.39ms] RECV seq=39 len=512 accepted, expecting seq=40
+[2665.60ms] SEND_ACK ack_num=40
+[2665.62ms] RECV seq=40 len=512 accepted, expecting seq=41
+[2715.84ms] SEND_ACK ack_num=41
+[2715.86ms] RECV seq=41 len=512 accepted, expecting seq=42
+[2766.12ms] SEND_ACK ack_num=42
+[2766.15ms] RECV seq=42 len=512 accepted, expecting seq=43
+[2816.36ms] SEND_ACK ack_num=43
+[2816.39ms] RECV seq=43 len=512 accepted, expecting seq=44
+[2866.67ms] SEND_ACK ack_num=44
+[2866.71ms] RECV seq=44 len=512 accepted, expecting seq=45
+[2916.95ms] SEND_ACK ack_num=45
+[2916.98ms] RECV seq=45 len=512 accepted, expecting seq=46
+[2967.25ms] SEND_ACK ack_num=46
+[2967.28ms] RECV seq=46 len=512 accepted, expecting seq=47
+[3017.47ms] SEND_ACK ack_num=47
+[3017.56ms] RECV seq=47 len=512 accepted, expecting seq=48
+[3067.75ms] SEND_ACK ack_num=48
+[3067.78ms] RECV seq=48 len=512 accepted, expecting seq=49
+[3117.98ms] SEND_ACK ack_num=49
+[3118.00ms] RECV seq=49 len=512 accepted, expecting seq=50
+[3168.21ms] SEND_ACK ack_num=50
+[3168.24ms] RECV seq=50 len=512 accepted, expecting seq=51
+[3218.48ms] SEND_ACK ack_num=51
+[3218.50ms] RECV seq=51 len=512 accepted, expecting seq=52
+[3268.72ms] SEND_ACK ack_num=52
+[3268.75ms] RECV seq=52 len=512 accepted, expecting seq=53
+[3318.99ms] SEND_ACK ack_num=53
+[3319.02ms] RECV seq=53 len=512 accepted, expecting seq=54
+[3369.27ms] SEND_ACK ack_num=54
+[3369.31ms] RECV seq=54 len=512 accepted, expecting seq=55
+[3419.50ms] SEND_ACK ack_num=55
+[3419.52ms] RECV seq=55 len=512 accepted, expecting seq=56
+[3469.70ms] SEND_ACK ack_num=56
+[3469.73ms] RECV seq=56 len=512 accepted, expecting seq=57
+[3519.95ms] SEND_ACK ack_num=57
+[3519.98ms] RECV seq=57 len=512 accepted, expecting seq=58
+[3570.21ms] SEND_ACK ack_num=58
+[3570.23ms] RECV seq=58 len=512 accepted, expecting seq=59
+[3620.45ms] SEND_ACK ack_num=59
+[3620.47ms] RECV seq=59 len=512 accepted, expecting seq=60
+[3670.68ms] SEND_ACK ack_num=60
+[3670.71ms] RECV seq=60 len=512 accepted, expecting seq=61
+[3720.91ms] SEND_ACK ack_num=61
+[3720.93ms] RECV seq=61 len=512 accepted, expecting seq=62
+[3771.17ms] SEND_ACK ack_num=62
+[3771.20ms] RECV seq=62 len=512 accepted, expecting seq=63
+[3821.48ms] SEND_ACK ack_num=63
+[3821.56ms] RECV seq=63 len=512 accepted, expecting seq=64
+[3871.82ms] SEND_ACK ack_num=64
+[3871.85ms] SIM_LOSS seq=64 dropped artificially
+[3871.86ms] RECV_UNEXPECTED seq=65 expected=64 -> duplicate ACK
+[3922.24ms] SEND_ACK ack_num=64
+[3922.27ms] RECV_UNEXPECTED seq=66 expected=64 -> duplicate ACK
+[3972.48ms] SEND_ACK ack_num=64
+[3972.51ms] RECV_UNEXPECTED seq=67 expected=64 -> duplicate ACK
+[4022.78ms] SEND_ACK ack_num=64
+[4022.82ms] RECV_UNEXPECTED seq=68 expected=64 -> duplicate ACK
+[4073.04ms] SEND_ACK ack_num=64
+[4073.07ms] RECV_UNEXPECTED seq=69 expected=64 -> duplicate ACK
+[4123.26ms] SEND_ACK ack_num=64
+[4123.29ms] RECV_UNEXPECTED seq=70 expected=64 -> duplicate ACK
+[4173.48ms] SEND_ACK ack_num=64
+[4173.50ms] RECV_UNEXPECTED seq=71 expected=64 -> duplicate ACK
+[4223.72ms] SEND_ACK ack_num=64
+[4223.75ms] RECV seq=64 len=512 accepted, expecting seq=65
+[4273.98ms] SEND_ACK ack_num=65
+[4274.00ms] RECV seq=65 len=512 accepted, expecting seq=66
+[4324.22ms] SEND_ACK ack_num=66
+[4324.25ms] RECV seq=66 len=512 accepted, expecting seq=67
+[4374.48ms] SEND_ACK ack_num=67
+[4374.51ms] RECV seq=67 len=512 accepted, expecting seq=68
+[4424.68ms] SEND_ACK ack_num=68
+[4424.71ms] RECV seq=68 len=512 accepted, expecting seq=69
+[4474.92ms] SEND_ACK ack_num=69
+[4474.95ms] RECV seq=69 len=512 accepted, expecting seq=70
+[4525.19ms] SEND_ACK ack_num=70
+[4525.22ms] RECV seq=70 len=512 accepted, expecting seq=71
+[4575.44ms] SEND_ACK ack_num=71
+[4575.47ms] RECV seq=71 len=512 accepted, expecting seq=72
+[4625.70ms] SEND_ACK ack_num=72
+[4625.73ms] RECV seq=72 len=512 accepted, expecting seq=73
+[4675.94ms] SEND_ACK ack_num=73
+[4675.97ms] RECV seq=73 len=512 accepted, expecting seq=74
+[4726.23ms] SEND_ACK ack_num=74
+[4726.25ms] RECV seq=74 len=512 accepted, expecting seq=75
+[4776.48ms] SEND_ACK ack_num=75
+[4776.57ms] RECV seq=75 len=512 accepted, expecting seq=76
+[4826.81ms] SEND_ACK ack_num=76
+[4826.84ms] RECV seq=76 len=512 accepted, expecting seq=77
+[4877.09ms] SEND_ACK ack_num=77
+[4877.12ms] RECV seq=77 len=512 accepted, expecting seq=78
+[4927.40ms] SEND_ACK ack_num=78
+[4927.43ms] RECV seq=78 len=512 accepted, expecting seq=79
+[4977.64ms] SEND_ACK ack_num=79
+[4977.72ms] RECV seq=79 len=512 accepted, expecting seq=80
+[5027.94ms] SEND_ACK ack_num=80
+[5027.97ms] RECV seq=80 len=512 accepted, expecting seq=81
+[5078.20ms] SEND_ACK ack_num=81
+[5078.23ms] RECV seq=81 len=512 accepted, expecting seq=82
+[5128.42ms] SEND_ACK ack_num=82
+[5128.44ms] RECV seq=82 len=512 accepted, expecting seq=83
+[5178.63ms] SEND_ACK ack_num=83
+[5178.66ms] RECV seq=83 len=512 accepted, expecting seq=84
+[5228.90ms] SEND_ACK ack_num=84
+[5228.93ms] RECV seq=84 len=512 accepted, expecting seq=85
+[5279.13ms] SEND_ACK ack_num=85
+[5279.16ms] RECV seq=85 len=512 accepted, expecting seq=86
+[5329.36ms] SEND_ACK ack_num=86
+[5329.38ms] RECV seq=86 len=512 accepted, expecting seq=87
+[5379.61ms] SEND_ACK ack_num=87
+[5379.64ms] RECV seq=87 len=512 accepted, expecting seq=88
+[5429.85ms] SEND_ACK ack_num=88
+[5429.87ms] RECV seq=88 len=512 accepted, expecting seq=89
+[5480.10ms] SEND_ACK ack_num=89
+[5480.13ms] SIM_LOSS seq=89 dropped artificially
+[5480.13ms] RECV_UNEXPECTED seq=90 expected=89 -> duplicate ACK
+[5530.36ms] SEND_ACK ack_num=89
+[5530.39ms] RECV_UNEXPECTED seq=91 expected=89 -> duplicate ACK
+[5580.62ms] SEND_ACK ack_num=89
+[5580.65ms] RECV_UNEXPECTED seq=92 expected=89 -> duplicate ACK
+[5630.83ms] SEND_ACK ack_num=89
+[5630.85ms] RECV_UNEXPECTED seq=93 expected=89 -> duplicate ACK
+[5681.14ms] SEND_ACK ack_num=89
+[5681.17ms] RECV_UNEXPECTED seq=94 expected=89 -> duplicate ACK
+[5731.40ms] SEND_ACK ack_num=89
+[5731.43ms] RECV_UNEXPECTED seq=95 expected=89 -> duplicate ACK
+[5781.62ms] SEND_ACK ack_num=89
+[5781.65ms] RECV_UNEXPECTED seq=96 expected=89 -> duplicate ACK
+[5831.87ms] SEND_ACK ack_num=89
+[5831.90ms] RECV seq=89 len=512 accepted, expecting seq=90
+[5882.15ms] SEND_ACK ack_num=90
+[5882.18ms] RECV seq=90 len=512 accepted, expecting seq=91
+[5932.40ms] SEND_ACK ack_num=91
+[5932.43ms] RECV seq=91 len=512 accepted, expecting seq=92
+[5982.67ms] SEND_ACK ack_num=92
+[5982.70ms] RECV seq=92 len=512 accepted, expecting seq=93
+[6032.90ms] SEND_ACK ack_num=93
+[6032.93ms] RECV seq=93 len=512 accepted, expecting seq=94
+[6083.17ms] SEND_ACK ack_num=94
+[6083.20ms] RECV seq=94 len=512 accepted, expecting seq=95
+[6133.41ms] SEND_ACK ack_num=95
+[6133.48ms] RECV seq=95 len=512 accepted, expecting seq=96
+[6183.70ms] SEND_ACK ack_num=96
+[6183.73ms] RECV seq=96 len=512 accepted, expecting seq=97
+[6233.98ms] SEND_ACK ack_num=97
+[6234.01ms] RECV seq=97 len=512 accepted, expecting seq=98
+[6284.24ms] SEND_ACK ack_num=98
+[6284.27ms] SIM_LOSS seq=98 dropped artificially
+[6284.27ms] RECV_UNEXPECTED seq=99 expected=98 -> duplicate ACK
+[6334.48ms] SEND_ACK ack_num=98
+[6334.53ms] RECV_UNEXPECTED seq=100 expected=98 -> duplicate ACK
+[6384.77ms] SEND_ACK ack_num=98
+[6384.79ms] RECV_UNEXPECTED seq=101 expected=98 -> duplicate ACK
+[6435.06ms] SEND_ACK ack_num=98
+[6435.09ms] RECV_UNEXPECTED seq=102 expected=98 -> duplicate ACK
+[6485.30ms] SEND_ACK ack_num=98
+[6485.33ms] RECV_UNEXPECTED seq=103 expected=98 -> duplicate ACK
+[6535.54ms] SEND_ACK ack_num=98
+[6535.57ms] RECV_UNEXPECTED seq=104 expected=98 -> duplicate ACK
+[6585.76ms] SEND_ACK ack_num=98
+[6585.78ms] RECV_UNEXPECTED seq=105 expected=98 -> duplicate ACK
+[6636.06ms] SEND_ACK ack_num=98
+[6636.09ms] RECV seq=98 len=512 accepted, expecting seq=99
+[6686.33ms] SEND_ACK ack_num=99
+[6686.37ms] RECV seq=99 len=512 accepted, expecting seq=100
+[6736.59ms] SEND_ACK ack_num=100
+[6736.62ms] RECV seq=100 len=512 accepted, expecting seq=101
+[6786.94ms] SEND_ACK ack_num=101
+[6786.97ms] RECV seq=101 len=512 accepted, expecting seq=102
+[6837.19ms] SEND_ACK ack_num=102
+[6837.22ms] RECV seq=102 len=512 accepted, expecting seq=103
+[6887.43ms] SEND_ACK ack_num=103
+[6887.46ms] RECV seq=103 len=512 accepted, expecting seq=104
+[6937.69ms] SEND_ACK ack_num=104
+[6937.72ms] RECV seq=104 len=512 accepted, expecting seq=105
+[6987.97ms] SEND_ACK ack_num=105
+[6988.00ms] RECV seq=105 len=512 accepted, expecting seq=106
+[7038.25ms] SEND_ACK ack_num=106
+[7038.28ms] RECV seq=106 len=512 accepted, expecting seq=107
+[7088.50ms] SEND_ACK ack_num=107
+[7088.53ms] RECV seq=107 len=512 accepted, expecting seq=108
+[7138.75ms] SEND_ACK ack_num=108
+[7138.80ms] RECV seq=108 len=512 accepted, expecting seq=109
+[7189.03ms] SEND_ACK ack_num=109
+[7189.05ms] RECV seq=109 len=512 accepted, expecting seq=110
+[7239.27ms] SEND_ACK ack_num=110
+[7239.29ms] RECV seq=110 len=512 accepted, expecting seq=111
+[7289.46ms] SEND_ACK ack_num=111
+[7289.51ms] RECV seq=111 len=512 accepted, expecting seq=112
+[7339.75ms] SEND_ACK ack_num=112
+[7339.78ms] RECV seq=112 len=512 accepted, expecting seq=113
+[7390.01ms] SEND_ACK ack_num=113
+[7390.04ms] RECV seq=113 len=512 accepted, expecting seq=114
+[7440.26ms] SEND_ACK ack_num=114
+[7440.28ms] RECV seq=114 len=512 accepted, expecting seq=115
+[7490.47ms] SEND_ACK ack_num=115
+[7490.50ms] RECV seq=115 len=512 accepted, expecting seq=116
+[7540.71ms] SEND_ACK ack_num=116
+[7540.75ms] RECV seq=116 len=512 accepted, expecting seq=117
+[7590.99ms] SEND_ACK ack_num=117
+[7591.01ms] RECV seq=117 len=512 accepted, expecting seq=118
+[7641.27ms] SEND_ACK ack_num=118
+[7641.30ms] RECV seq=118 len=512 accepted, expecting seq=119
+[7691.56ms] SEND_ACK ack_num=119
+[7691.59ms] RECV seq=119 len=512 accepted, expecting seq=120
+[7741.76ms] SEND_ACK ack_num=120
+[7741.79ms] RECV seq=120 len=512 accepted, expecting seq=121
+[7792.05ms] SEND_ACK ack_num=121
+[7792.08ms] RECV seq=121 len=512 accepted, expecting seq=122
+[7842.31ms] SEND_ACK ack_num=122
+[7842.34ms] RECV seq=122 len=512 accepted, expecting seq=123
+[7892.60ms] SEND_ACK ack_num=123
+[7892.63ms] SIM_LOSS seq=123 dropped artificially
+[7892.63ms] RECV_UNEXPECTED seq=124 expected=123 -> duplicate ACK
+[7942.89ms] SEND_ACK ack_num=123
+[7942.91ms] SIM_LOSS seq=125 dropped artificially
+[7942.92ms] RECV_UNEXPECTED seq=126 expected=123 -> duplicate ACK
+[7993.17ms] SEND_ACK ack_num=123
+[7993.19ms] RECV_UNEXPECTED seq=127 expected=123 -> duplicate ACK
+[8043.40ms] SEND_ACK ack_num=123
+[8043.43ms] RECV_UNEXPECTED seq=128 expected=123 -> duplicate ACK
+[8093.66ms] SEND_ACK ack_num=123
+[8093.69ms] RECV_UNEXPECTED seq=129 expected=123 -> duplicate ACK
+[8143.92ms] SEND_ACK ack_num=123
+[8143.95ms] RECV_UNEXPECTED seq=130 expected=123 -> duplicate ACK
+[8194.14ms] SEND_ACK ack_num=123
+[8194.16ms] RECV seq=123 len=512 accepted, expecting seq=124
+[8244.41ms] SEND_ACK ack_num=124
+[8244.45ms] RECV seq=124 len=512 accepted, expecting seq=125
+[8294.68ms] SEND_ACK ack_num=125
+[8294.70ms] RECV seq=125 len=512 accepted, expecting seq=126
+[8344.94ms] SEND_ACK ack_num=126
+[8344.97ms] RECV seq=126 len=512 accepted, expecting seq=127
+[8395.21ms] SEND_ACK ack_num=127
+[8395.27ms] RECV seq=127 len=512 accepted, expecting seq=128
+[8445.65ms] SEND_ACK ack_num=128
+[8445.69ms] RECV seq=128 len=512 accepted, expecting seq=129
+[8495.95ms] SEND_ACK ack_num=129
+[8495.98ms] RECV seq=129 len=512 accepted, expecting seq=130
+[8546.21ms] SEND_ACK ack_num=130
+[8546.23ms] RECV seq=130 len=512 accepted, expecting seq=131
+[8596.46ms] SEND_ACK ack_num=131
+[8596.49ms] RECV seq=131 len=512 accepted, expecting seq=132
+[8646.70ms] SEND_ACK ack_num=132
+[8646.72ms] RECV seq=132 len=512 accepted, expecting seq=133
+[8696.96ms] SEND_ACK ack_num=133
+[8696.99ms] RECV seq=133 len=512 accepted, expecting seq=134
+[8747.19ms] SEND_ACK ack_num=134
+[8747.25ms] RECV seq=134 len=512 accepted, expecting seq=135
+[8797.43ms] SEND_ACK ack_num=135
+[8797.47ms] RECV seq=135 len=512 accepted, expecting seq=136
+[8847.70ms] SEND_ACK ack_num=136
+[8847.75ms] RECV seq=136 len=512 accepted, expecting seq=137
+[8898.05ms] SEND_ACK ack_num=137
+[8898.09ms] RECV seq=137 len=512 accepted, expecting seq=138
+[8948.35ms] SEND_ACK ack_num=138
+[8948.40ms] RECV seq=138 len=512 accepted, expecting seq=139
+[8998.75ms] SEND_ACK ack_num=139
+[8998.80ms] RECV seq=139 len=512 accepted, expecting seq=140
+[9049.02ms] SEND_ACK ack_num=140
+[9049.06ms] RECV seq=140 len=512 accepted, expecting seq=141
+[9099.33ms] SEND_ACK ack_num=141
+[9099.37ms] RECV seq=141 len=512 accepted, expecting seq=142
+[9149.59ms] SEND_ACK ack_num=142
+[9149.63ms] RECV seq=142 len=512 accepted, expecting seq=143
+[9199.84ms] SEND_ACK ack_num=143
+[9199.92ms] RECV seq=143 len=512 accepted, expecting seq=144
+[9250.12ms] SEND_ACK ack_num=144
+[9250.16ms] RECV seq=144 len=512 accepted, expecting seq=145
+[9300.38ms] SEND_ACK ack_num=145
+[9300.41ms] RECV seq=145 len=512 accepted, expecting seq=146
+[9350.73ms] SEND_ACK ack_num=146
+[9350.80ms] RECV seq=146 len=512 accepted, expecting seq=147
+[9401.09ms] SEND_ACK ack_num=147
+[9401.14ms] RECV seq=147 len=512 accepted, expecting seq=148
+[9451.40ms] SEND_ACK ack_num=148
+[9451.44ms] RECV seq=148 len=512 accepted, expecting seq=149
+[9501.73ms] SEND_ACK ack_num=149
+[9501.77ms] RECV seq=149 len=512 accepted, expecting seq=150
+[9552.02ms] SEND_ACK ack_num=150
+[9552.07ms] RECV seq=150 len=512 accepted, expecting seq=151
+[9602.38ms] SEND_ACK ack_num=151
+[9602.43ms] RECV seq=151 len=512 accepted, expecting seq=152
+[9652.74ms] SEND_ACK ack_num=152
+[9652.78ms] RECV seq=152 len=512 accepted, expecting seq=153
+[9703.05ms] SEND_ACK ack_num=153
+[9703.10ms] RECV seq=153 len=512 accepted, expecting seq=154
+[9753.30ms] SEND_ACK ack_num=154
+[9753.34ms] RECV seq=154 len=512 accepted, expecting seq=155
+[9803.52ms] SEND_ACK ack_num=155
+[9803.55ms] RECV seq=155 len=512 accepted, expecting seq=156
+[9853.80ms] SEND_ACK ack_num=156
+[9853.84ms] RECV seq=156 len=512 accepted, expecting seq=157
+[9904.09ms] SEND_ACK ack_num=157
+[9904.12ms] SIM_LOSS seq=157 dropped artificially
+[9904.12ms] RECV_UNEXPECTED seq=158 expected=157 -> duplicate ACK
+[9954.29ms] SEND_ACK ack_num=157
+[9954.32ms] RECV_UNEXPECTED seq=159 expected=157 -> duplicate ACK
+[10004.57ms] SEND_ACK ack_num=157
+[10004.61ms] RECV_UNEXPECTED seq=160 expected=157 -> duplicate ACK
+[10054.83ms] SEND_ACK ack_num=157
+[10054.86ms] RECV_UNEXPECTED seq=161 expected=157 -> duplicate ACK
+[10105.13ms] SEND_ACK ack_num=157
+[10105.16ms] RECV_UNEXPECTED seq=162 expected=157 -> duplicate ACK
+[10155.37ms] SEND_ACK ack_num=157
+[10155.40ms] SIM_LOSS seq=163 dropped artificially
+[10155.41ms] RECV_UNEXPECTED seq=164 expected=157 -> duplicate ACK
+[10205.65ms] SEND_ACK ack_num=157
+[10205.67ms] RECV seq=157 len=512 accepted, expecting seq=158
+[10255.95ms] SEND_ACK ack_num=158
+[10255.99ms] RECV seq=158 len=512 accepted, expecting seq=159
+[10306.17ms] SEND_ACK ack_num=159
+[10306.25ms] RECV seq=159 len=512 accepted, expecting seq=160
+[10356.44ms] SEND_ACK ack_num=160
+[10356.48ms] SIM_LOSS seq=160 dropped artificially
+[10356.48ms] RECV_UNEXPECTED seq=161 expected=160 -> duplicate ACK
+[10406.75ms] SEND_ACK ack_num=160
+[10406.78ms] SIM_LOSS seq=162 dropped artificially
+[10406.79ms] RECV_UNEXPECTED seq=163 expected=160 -> duplicate ACK
+[10457.02ms] SEND_ACK ack_num=160
+[10457.05ms] RECV_UNEXPECTED seq=164 expected=160 -> duplicate ACK
+[10507.34ms] SEND_ACK ack_num=160
+[10507.37ms] RECV_UNEXPECTED seq=165 expected=160 -> duplicate ACK
+[10557.64ms] SEND_ACK ack_num=160
+[10557.67ms] RECV_UNEXPECTED seq=166 expected=160 -> duplicate ACK
+[10607.88ms] SEND_ACK ack_num=160
+[10607.91ms] RECV_UNEXPECTED seq=167 expected=160 -> duplicate ACK
+[10658.11ms] SEND_ACK ack_num=160
+[10658.14ms] RECV seq=160 len=512 accepted, expecting seq=161
+[10708.35ms] SEND_ACK ack_num=161
+[10708.38ms] RECV seq=161 len=512 accepted, expecting seq=162
+[10758.70ms] SEND_ACK ack_num=162
+[10758.74ms] RECV seq=162 len=512 accepted, expecting seq=163
+[10809.01ms] SEND_ACK ack_num=163
+[10809.10ms] RECV seq=163 len=512 accepted, expecting seq=164
+[10859.32ms] SEND_ACK ack_num=164
+[10859.35ms] RECV seq=164 len=512 accepted, expecting seq=165
+[10909.60ms] SEND_ACK ack_num=165
+[10909.64ms] RECV seq=165 len=512 accepted, expecting seq=166
+[10959.90ms] SEND_ACK ack_num=166
+[10959.93ms] RECV seq=166 len=512 accepted, expecting seq=167
+[11010.15ms] SEND_ACK ack_num=167
+[11010.18ms] RECV seq=167 len=512 accepted, expecting seq=168
+[11060.40ms] SEND_ACK ack_num=168
+[11060.44ms] RECV seq=168 len=512 accepted, expecting seq=169
+[11110.68ms] SEND_ACK ack_num=169
+[11110.72ms] RECV seq=169 len=512 accepted, expecting seq=170
+[11160.93ms] SEND_ACK ack_num=170
+[11160.97ms] SIM_LOSS seq=170 dropped artificially
+[11160.97ms] RECV_UNEXPECTED seq=171 expected=170 -> duplicate ACK
+[11211.19ms] SEND_ACK ack_num=170
+[11211.22ms] RECV_UNEXPECTED seq=172 expected=170 -> duplicate ACK
+[11261.47ms] SEND_ACK ack_num=170
+[11261.50ms] RECV_UNEXPECTED seq=173 expected=170 -> duplicate ACK
+[11311.72ms] SEND_ACK ack_num=170
+[11311.76ms] RECV_UNEXPECTED seq=174 expected=170 -> duplicate ACK
+[11361.97ms] SEND_ACK ack_num=170
+[11362.00ms] RECV_UNEXPECTED seq=175 expected=170 -> duplicate ACK
+[11412.25ms] SEND_ACK ack_num=170
+[11412.29ms] RECV_UNEXPECTED seq=176 expected=170 -> duplicate ACK
+[11462.49ms] SEND_ACK ack_num=170
+[11462.52ms] RECV_UNEXPECTED seq=177 expected=170 -> duplicate ACK
+[11512.76ms] SEND_ACK ack_num=170
+[11512.81ms] RECV seq=170 len=512 accepted, expecting seq=171
+[11563.02ms] SEND_ACK ack_num=171
+[11563.05ms] RECV seq=171 len=512 accepted, expecting seq=172
+[11613.24ms] SEND_ACK ack_num=172
+[11613.28ms] RECV seq=172 len=512 accepted, expecting seq=173
+[11663.48ms] SEND_ACK ack_num=173
+[11663.54ms] SIM_LOSS seq=173 dropped artificially
+[11663.54ms] RECV_UNEXPECTED seq=174 expected=173 -> duplicate ACK
+[11713.78ms] SEND_ACK ack_num=173
+[11713.81ms] RECV_UNEXPECTED seq=175 expected=173 -> duplicate ACK
+[11763.98ms] SEND_ACK ack_num=173
+[11764.01ms] RECV_UNEXPECTED seq=176 expected=173 -> duplicate ACK
+[11814.20ms] SEND_ACK ack_num=173
+[11814.23ms] RECV_UNEXPECTED seq=177 expected=173 -> duplicate ACK
+[11864.42ms] SEND_ACK ack_num=173
+[11864.46ms] RECV_UNEXPECTED seq=178 expected=173 -> duplicate ACK
+[11914.74ms] SEND_ACK ack_num=173
+[11914.77ms] RECV_UNEXPECTED seq=179 expected=173 -> duplicate ACK
+[11964.93ms] SEND_ACK ack_num=173
+[11964.96ms] RECV_UNEXPECTED seq=180 expected=173 -> duplicate ACK
+[12015.18ms] SEND_ACK ack_num=173
+[12015.21ms] RECV seq=173 len=512 accepted, expecting seq=174
+[12065.48ms] SEND_ACK ack_num=174
+[12065.54ms] RECV seq=174 len=512 accepted, expecting seq=175
+[12115.82ms] SEND_ACK ack_num=175
+[12115.89ms] RECV seq=175 len=512 accepted, expecting seq=176
+[12166.14ms] SEND_ACK ack_num=176
+[12166.18ms] RECV seq=176 len=512 accepted, expecting seq=177
+[12216.41ms] SEND_ACK ack_num=177
+[12216.45ms] RECV seq=177 len=512 accepted, expecting seq=178
+[12266.68ms] SEND_ACK ack_num=178
+[12266.71ms] RECV seq=178 len=512 accepted, expecting seq=179
+[12316.92ms] SEND_ACK ack_num=179
+[12316.95ms] RECV seq=179 len=512 accepted, expecting seq=180
+[12367.17ms] SEND_ACK ack_num=180
+[12367.21ms] RECV seq=180 len=512 accepted, expecting seq=181
+[12417.39ms] SEND_ACK ack_num=181
+[12417.42ms] RECV seq=181 len=512 accepted, expecting seq=182
+[12467.63ms] SEND_ACK ack_num=182
+[12467.67ms] RECV seq=182 len=512 accepted, expecting seq=183
+[12517.91ms] SEND_ACK ack_num=183
+[12517.95ms] RECV seq=183 len=512 accepted, expecting seq=184
+[12568.19ms] SEND_ACK ack_num=184
+[12568.23ms] RECV seq=184 len=512 accepted, expecting seq=185
+[12618.41ms] SEND_ACK ack_num=185
+[12618.46ms] RECV seq=185 len=512 accepted, expecting seq=186
+[12668.67ms] SEND_ACK ack_num=186
+[12668.71ms] RECV seq=186 len=512 accepted, expecting seq=187
+[12718.98ms] SEND_ACK ack_num=187
+[12719.02ms] RECV seq=187 len=512 accepted, expecting seq=188
+[12769.28ms] SEND_ACK ack_num=188
+[12769.31ms] RECV seq=188 len=512 accepted, expecting seq=189
+[12819.57ms] SEND_ACK ack_num=189
+[12819.60ms] RECV seq=189 len=512 accepted, expecting seq=190
+[12869.80ms] SEND_ACK ack_num=190
+[12869.83ms] RECV seq=190 len=512 accepted, expecting seq=191
+[12920.16ms] SEND_ACK ack_num=191
+[12920.23ms] RECV seq=191 len=512 accepted, expecting seq=192
+[12970.41ms] SEND_ACK ack_num=192
+[12970.47ms] RECV seq=192 len=512 accepted, expecting seq=193
+[13020.69ms] SEND_ACK ack_num=193
+[13020.72ms] RECV seq=193 len=512 accepted, expecting seq=194
+[13070.96ms] SEND_ACK ack_num=194
+[13070.99ms] RECV seq=194 len=512 accepted, expecting seq=195
+[13121.24ms] SEND_ACK ack_num=195
+[13121.29ms] RECV seq=195 len=512 accepted, expecting seq=196
+[13171.57ms] SEND_ACK ack_num=196
+[13171.65ms] RECV seq=196 len=512 accepted, expecting seq=197
+[13221.89ms] SEND_ACK ack_num=197
+[13221.92ms] RECV seq=197 len=512 accepted, expecting seq=198
+[13272.14ms] SEND_ACK ack_num=198
+[13272.17ms] RECV seq=198 len=512 accepted, expecting seq=199
+[13322.47ms] SEND_ACK ack_num=199
+[13322.51ms] RECV seq=199 len=512 accepted, expecting seq=200
+[13372.72ms] SEND_ACK ack_num=200
+[13372.75ms] RECV seq=200 len=512 accepted, expecting seq=201
+[13422.98ms] SEND_ACK ack_num=201
+[13423.01ms] RECV seq=201 len=512 accepted, expecting seq=202
+[13473.21ms] SEND_ACK ack_num=202
+[13473.24ms] RECV seq=202 len=512 accepted, expecting seq=203
+[13523.46ms] SEND_ACK ack_num=203
+[13523.50ms] RECV seq=203 len=512 accepted, expecting seq=204
+[13573.69ms] SEND_ACK ack_num=204
+[13573.73ms] RECV seq=204 len=512 accepted, expecting seq=205
+[13623.94ms] SEND_ACK ack_num=205
+[13623.97ms] RECV seq=205 len=512 accepted, expecting seq=206
+[13674.17ms] SEND_ACK ack_num=206
+[13674.21ms] RECV seq=206 len=512 accepted, expecting seq=207
+[13724.47ms] SEND_ACK ack_num=207
+[13724.70ms] RECV seq=207 len=512 accepted, expecting seq=208
+[13774.88ms] SEND_ACK ack_num=208
+[13774.92ms] RECV seq=208 len=512 accepted, expecting seq=209
+[13825.14ms] SEND_ACK ack_num=209
+[13825.18ms] RECV seq=209 len=512 accepted, expecting seq=210
+[13875.46ms] SEND_ACK ack_num=210
+[13875.49ms] RECV seq=210 len=512 accepted, expecting seq=211
+[13925.79ms] SEND_ACK ack_num=211
+[13925.83ms] RECV seq=211 len=512 accepted, expecting seq=212
+[13976.00ms] SEND_ACK ack_num=212
+[13976.04ms] RECV seq=212 len=512 accepted, expecting seq=213
+[14026.22ms] SEND_ACK ack_num=213
+[14026.26ms] RECV seq=213 len=512 accepted, expecting seq=214
+[14076.47ms] SEND_ACK ack_num=214
+[14076.50ms] RECV seq=214 len=512 accepted, expecting seq=215
+[14126.71ms] SEND_ACK ack_num=215
+[14126.74ms] RECV seq=215 len=512 accepted, expecting seq=216
+[14176.93ms] SEND_ACK ack_num=216
+[14176.96ms] RECV seq=216 len=512 accepted, expecting seq=217
+[14227.15ms] SEND_ACK ack_num=217
+[14227.19ms] RECV seq=217 len=512 accepted, expecting seq=218
+[14277.39ms] SEND_ACK ack_num=218
+[14277.42ms] RECV seq=218 len=512 accepted, expecting seq=219
+[14327.59ms] SEND_ACK ack_num=219
+[14327.63ms] RECV seq=219 len=512 accepted, expecting seq=220
+[14377.81ms] SEND_ACK ack_num=220
+[14377.84ms] RECV seq=220 len=512 accepted, expecting seq=221
+[14428.02ms] SEND_ACK ack_num=221
+[14428.05ms] RECV seq=221 len=512 accepted, expecting seq=222
+[14478.22ms] SEND_ACK ack_num=222
+[14478.25ms] RECV seq=222 len=336 accepted, expecting seq=223
+[14528.46ms] SEND_ACK ack_num=223
+[14528.64ms] FIN received FIN, sending FIN-ACK
