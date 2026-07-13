@@ -1,0 +1,1174 @@
+[0.09ms] SEND seq=0 len=512
+[0.33ms] ACK ack_num=1 cwnd=2.000000 ssthresh=16.000000
+[0.36ms] SEND seq=1 len=512
+[0.37ms] SEND seq=2 len=512
+[0.42ms] ACK ack_num=2 cwnd=3.000000 ssthresh=16.000000
+[0.46ms] SEND seq=3 len=512
+[0.46ms] SEND seq=4 len=512
+[0.47ms] ACK ack_num=3 cwnd=4.000000 ssthresh=16.000000
+[0.47ms] SEND seq=5 len=512
+[0.47ms] SEND seq=6 len=512
+[0.48ms] ACK ack_num=4 cwnd=5.000000 ssthresh=16.000000
+[0.48ms] SEND seq=7 len=512
+[0.48ms] SEND seq=8 len=512
+[0.49ms] ACK ack_num=5 cwnd=6.000000 ssthresh=16.000000
+[0.49ms] SEND seq=9 len=512
+[0.49ms] SEND seq=10 len=512
+[0.50ms] ACK ack_num=6 cwnd=7.000000 ssthresh=16.000000
+[0.50ms] SEND seq=11 len=512
+[0.50ms] SEND seq=12 len=512
+[0.51ms] ACK ack_num=7 cwnd=8.000000 ssthresh=16.000000
+[0.51ms] SEND seq=13 len=512
+[0.52ms] SEND seq=14 len=512
+[0.52ms] ACK ack_num=8 cwnd=9.000000 ssthresh=16.000000
+[0.52ms] SEND seq=15 len=512
+[0.52ms] SEND seq=16 len=512
+[0.53ms] ACK ack_num=9 cwnd=10.000000 ssthresh=16.000000
+[0.53ms] SEND seq=17 len=512
+[0.53ms] SEND seq=18 len=512
+[0.54ms] ACK ack_num=10 cwnd=11.000000 ssthresh=16.000000
+[0.54ms] SEND seq=19 len=512
+[0.55ms] SEND seq=20 len=512
+[0.55ms] ACK ack_num=11 cwnd=12.000000 ssthresh=16.000000
+[0.55ms] SEND seq=21 len=512
+[0.55ms] SEND seq=22 len=512
+[0.56ms] ACK ack_num=12 cwnd=13.000000 ssthresh=16.000000
+[0.56ms] SEND seq=23 len=512
+[0.56ms] SEND seq=24 len=512
+[0.57ms] ACK ack_num=13 cwnd=14.000000 ssthresh=16.000000
+[0.57ms] SEND seq=25 len=512
+[0.57ms] SEND seq=26 len=512
+[0.57ms] ACK ack_num=14 cwnd=15.000000 ssthresh=16.000000
+[0.58ms] SEND seq=27 len=512
+[0.58ms] SEND seq=28 len=512
+[0.58ms] ACK ack_num=15 cwnd=16.000000 ssthresh=16.000000
+[0.58ms] SEND seq=29 len=512
+[0.59ms] SEND seq=30 len=512
+[0.61ms] ACK ack_num=16 cwnd=16.062500 ssthresh=16.000000
+[0.62ms] SEND seq=31 len=512
+[0.63ms] ACK ack_num=17 cwnd=16.124757 ssthresh=16.000000
+[0.63ms] SEND seq=32 len=512
+[0.64ms] ACK ack_num=18 cwnd=16.186773 ssthresh=16.000000
+[0.64ms] SEND seq=33 len=512
+[0.65ms] ACK ack_num=19 cwnd=16.248552 ssthresh=16.000000
+[0.65ms] SEND seq=34 len=512
+[0.66ms] ACK ack_num=20 cwnd=16.310096 ssthresh=16.000000
+[0.66ms] SEND seq=35 len=512
+[0.66ms] ACK ack_num=21 cwnd=16.371408 ssthresh=16.000000
+[0.67ms] SEND seq=36 len=512
+[0.67ms] ACK ack_num=22 cwnd=16.432490 ssthresh=16.000000
+[0.67ms] SEND seq=37 len=512
+[0.68ms] ACK ack_num=23 cwnd=16.493345 ssthresh=16.000000
+[0.68ms] SEND seq=38 len=512
+[0.69ms] ACK ack_num=24 cwnd=16.553975 ssthresh=16.000000
+[0.69ms] SEND seq=39 len=512
+[0.70ms] ACK ack_num=25 cwnd=16.614384 ssthresh=16.000000
+[0.70ms] SEND seq=40 len=512
+[0.70ms] ACK ack_num=26 cwnd=16.674573 ssthresh=16.000000
+[0.71ms] SEND seq=41 len=512
+[0.71ms] ACK ack_num=27 cwnd=16.734544 ssthresh=16.000000
+[0.71ms] SEND seq=42 len=512
+[0.72ms] ACK ack_num=28 cwnd=16.794301 ssthresh=16.000000
+[0.72ms] SEND seq=43 len=512
+[0.73ms] ACK ack_num=29 cwnd=16.853845 ssthresh=16.000000
+[0.73ms] SEND seq=44 len=512
+[0.73ms] ACK ack_num=30 cwnd=16.913179 ssthresh=16.000000
+[0.74ms] SEND seq=45 len=512
+[0.74ms] ACK ack_num=31 cwnd=16.972304 ssthresh=16.000000
+[0.74ms] SEND seq=46 len=512
+[0.75ms] ACK ack_num=32 cwnd=17.031224 ssthresh=16.000000
+[0.75ms] SEND seq=47 len=512
+[0.75ms] SEND seq=48 len=512
+[0.75ms] ACK ack_num=33 cwnd=17.089939 ssthresh=16.000000
+[0.76ms] SEND seq=49 len=512
+[0.76ms] ACK ack_num=34 cwnd=17.148453 ssthresh=16.000000
+[0.76ms] SEND seq=50 len=512
+[0.77ms] ACK ack_num=35 cwnd=17.206767 ssthresh=16.000000
+[0.77ms] SEND seq=51 len=512
+[0.77ms] ACK ack_num=36 cwnd=17.264884 ssthresh=16.000000
+[0.78ms] SEND seq=52 len=512
+[0.78ms] ACK ack_num=37 cwnd=17.322805 ssthresh=16.000000
+[0.78ms] SEND seq=53 len=512
+[0.79ms] ACK ack_num=38 cwnd=17.380533 ssthresh=16.000000
+[0.79ms] SEND seq=54 len=512
+[0.80ms] ACK ack_num=39 cwnd=17.438068 ssthresh=16.000000
+[0.80ms] SEND seq=55 len=512
+[0.80ms] ACK ack_num=40 cwnd=17.495414 ssthresh=16.000000
+[0.81ms] SEND seq=56 len=512
+[0.81ms] ACK ack_num=41 cwnd=17.552572 ssthresh=16.000000
+[0.81ms] SEND seq=57 len=512
+[0.82ms] ACK ack_num=42 cwnd=17.609544 ssthresh=16.000000
+[0.82ms] SEND seq=58 len=512
+[0.82ms] ACK ack_num=43 cwnd=17.666331 ssthresh=16.000000
+[0.82ms] SEND seq=59 len=512
+[0.83ms] ACK ack_num=44 cwnd=17.722936 ssthresh=16.000000
+[0.83ms] SEND seq=60 len=512
+[0.83ms] ACK ack_num=45 cwnd=17.779360 ssthresh=16.000000
+[0.84ms] SEND seq=61 len=512
+[0.84ms] ACK ack_num=46 cwnd=17.835605 ssthresh=16.000000
+[0.84ms] SEND seq=62 len=512
+[0.85ms] ACK ack_num=47 cwnd=17.891672 ssthresh=16.000000
+[0.85ms] SEND seq=63 len=512
+[0.85ms] ACK ack_num=48 cwnd=17.947564 ssthresh=16.000000
+[0.86ms] SEND seq=64 len=512
+[0.86ms] ACK ack_num=49 cwnd=18.003282 ssthresh=16.000000
+[0.87ms] SEND seq=65 len=512
+[0.87ms] SEND seq=66 len=512
+[0.87ms] ACK ack_num=50 cwnd=18.058828 ssthresh=16.000000
+[0.88ms] SEND seq=67 len=512
+[0.88ms] ACK ack_num=51 cwnd=18.114202 ssthresh=16.000000
+[0.88ms] SEND seq=68 len=512
+[0.89ms] ACK ack_num=52 cwnd=18.169408 ssthresh=16.000000
+[0.89ms] SEND seq=69 len=512
+[0.89ms] ACK ack_num=53 cwnd=18.224445 ssthresh=16.000000
+[0.90ms] SEND seq=70 len=512
+[0.90ms] ACK ack_num=54 cwnd=18.279316 ssthresh=16.000000
+[0.90ms] SEND seq=71 len=512
+[0.91ms] ACK ack_num=55 cwnd=18.334023 ssthresh=16.000000
+[0.91ms] SEND seq=72 len=512
+[0.91ms] ACK ack_num=56 cwnd=18.388567 ssthresh=16.000000
+[0.92ms] SEND seq=73 len=512
+[0.92ms] ACK ack_num=57 cwnd=18.442948 ssthresh=16.000000
+[0.92ms] SEND seq=74 len=512
+[0.93ms] ACK ack_num=58 cwnd=18.497169 ssthresh=16.000000
+[0.93ms] SEND seq=75 len=512
+[0.93ms] ACK ack_num=59 cwnd=18.551232 ssthresh=16.000000
+[0.94ms] SEND seq=76 len=512
+[0.94ms] ACK ack_num=60 cwnd=18.605136 ssthresh=16.000000
+[0.94ms] SEND seq=77 len=512
+[0.95ms] ACK ack_num=61 cwnd=18.658885 ssthresh=16.000000
+[0.95ms] SEND seq=78 len=512
+[0.96ms] ACK ack_num=62 cwnd=18.712479 ssthresh=16.000000
+[0.96ms] SEND seq=79 len=512
+[0.96ms] ACK ack_num=63 cwnd=18.765919 ssthresh=16.000000
+[0.96ms] SEND seq=80 len=512
+[0.97ms] ACK ack_num=64 cwnd=18.819207 ssthresh=16.000000
+[0.97ms] SEND seq=81 len=512
+[0.97ms] ACK ack_num=65 cwnd=18.872344 ssthresh=16.000000
+[0.98ms] SEND seq=82 len=512
+[0.98ms] ACK ack_num=66 cwnd=18.925332 ssthresh=16.000000
+[0.98ms] SEND seq=83 len=512
+[0.99ms] ACK ack_num=67 cwnd=18.978171 ssthresh=16.000000
+[0.99ms] SEND seq=84 len=512
+[0.99ms] ACK ack_num=68 cwnd=19.030863 ssthresh=16.000000
+[1.00ms] SEND seq=85 len=512
+[1.00ms] SEND seq=86 len=512
+[1.00ms] ACK ack_num=69 cwnd=19.083410 ssthresh=16.000000
+[1.01ms] SEND seq=87 len=512
+[1.01ms] ACK ack_num=70 cwnd=19.135811 ssthresh=16.000000
+[1.02ms] SEND seq=88 len=512
+[1.02ms] ACK ack_num=71 cwnd=19.188069 ssthresh=16.000000
+[1.02ms] SEND seq=89 len=512
+[1.03ms] ACK ack_num=72 cwnd=19.240185 ssthresh=16.000000
+[1.03ms] SEND seq=90 len=512
+[1.03ms] ACK ack_num=73 cwnd=19.292159 ssthresh=16.000000
+[1.04ms] SEND seq=91 len=512
+[1.04ms] ACK ack_num=74 cwnd=19.343994 ssthresh=16.000000
+[1.04ms] SEND seq=92 len=512
+[1.05ms] ACK ack_num=75 cwnd=19.395690 ssthresh=16.000000
+[1.05ms] SEND seq=93 len=512
+[1.05ms] ACK ack_num=76 cwnd=19.447247 ssthresh=16.000000
+[1.06ms] SEND seq=94 len=512
+[1.06ms] ACK ack_num=77 cwnd=19.498669 ssthresh=16.000000
+[1.06ms] SEND seq=95 len=512
+[1.07ms] ACK ack_num=78 cwnd=19.549954 ssthresh=16.000000
+[1.07ms] SEND seq=96 len=512
+[1.07ms] ACK ack_num=79 cwnd=19.601105 ssthresh=16.000000
+[1.07ms] SEND seq=97 len=512
+[1.08ms] ACK ack_num=80 cwnd=19.652123 ssthresh=16.000000
+[1.08ms] SEND seq=98 len=512
+[1.09ms] ACK ack_num=81 cwnd=19.703008 ssthresh=16.000000
+[1.09ms] SEND seq=99 len=512
+[1.09ms] ACK ack_num=82 cwnd=19.753761 ssthresh=16.000000
+[1.10ms] SEND seq=100 len=512
+[1.10ms] ACK ack_num=83 cwnd=19.804385 ssthresh=16.000000
+[1.10ms] SEND seq=101 len=512
+[1.11ms] ACK ack_num=84 cwnd=19.854879 ssthresh=16.000000
+[1.11ms] SEND seq=102 len=512
+[1.12ms] ACK ack_num=85 cwnd=19.905244 ssthresh=16.000000
+[1.12ms] SEND seq=103 len=512
+[1.13ms] ACK ack_num=86 cwnd=19.955482 ssthresh=16.000000
+[1.13ms] SEND seq=104 len=512
+[1.13ms] ACK ack_num=87 cwnd=20.005594 ssthresh=16.000000
+[1.13ms] SEND seq=105 len=512
+[1.14ms] SEND seq=106 len=512
+[1.14ms] ACK ack_num=88 cwnd=20.055580 ssthresh=16.000000
+[1.14ms] SEND seq=107 len=512
+[1.26ms] ACK ack_num=89 cwnd=20.105441 ssthresh=16.000000
+[1.27ms] SEND seq=108 len=512
+[1.28ms] ACK ack_num=90 cwnd=20.155179 ssthresh=16.000000
+[1.29ms] SEND seq=109 len=512
+[1.29ms] ACK ack_num=91 cwnd=20.204794 ssthresh=16.000000
+[1.29ms] SEND seq=110 len=512
+[1.30ms] ACK ack_num=92 cwnd=20.254287 ssthresh=16.000000
+[1.30ms] SEND seq=111 len=512
+[1.30ms] ACK ack_num=93 cwnd=20.303659 ssthresh=16.000000
+[1.31ms] SEND seq=112 len=512
+[1.31ms] ACK ack_num=94 cwnd=20.352912 ssthresh=16.000000
+[1.31ms] SEND seq=113 len=512
+[1.32ms] ACK ack_num=95 cwnd=20.402045 ssthresh=16.000000
+[1.32ms] SEND seq=114 len=512
+[1.32ms] ACK ack_num=96 cwnd=20.451059 ssthresh=16.000000
+[1.33ms] SEND seq=115 len=512
+[1.33ms] ACK ack_num=97 cwnd=20.499957 ssthresh=16.000000
+[1.33ms] SEND seq=116 len=512
+[1.34ms] ACK ack_num=98 cwnd=20.548737 ssthresh=16.000000
+[1.34ms] SEND seq=117 len=512
+[1.35ms] ACK ack_num=99 cwnd=20.597402 ssthresh=16.000000
+[1.35ms] SEND seq=118 len=512
+[1.35ms] ACK ack_num=100 cwnd=20.645952 ssthresh=16.000000
+[1.36ms] SEND seq=119 len=512
+[1.36ms] ACK ack_num=101 cwnd=20.694387 ssthresh=16.000000
+[1.36ms] SEND seq=120 len=512
+[1.37ms] ACK ack_num=102 cwnd=20.742710 ssthresh=16.000000
+[1.37ms] SEND seq=121 len=512
+[1.38ms] ACK ack_num=103 cwnd=20.790919 ssthresh=16.000000
+[1.38ms] SEND seq=122 len=512
+[1.38ms] ACK ack_num=104 cwnd=20.839017 ssthresh=16.000000
+[1.38ms] SEND seq=123 len=512
+[1.39ms] ACK ack_num=105 cwnd=20.887004 ssthresh=16.000000
+[1.39ms] SEND seq=124 len=512
+[1.39ms] ACK ack_num=106 cwnd=20.934881 ssthresh=16.000000
+[1.40ms] SEND seq=125 len=512
+[1.40ms] ACK ack_num=107 cwnd=20.982648 ssthresh=16.000000
+[1.40ms] SEND seq=126 len=512
+[1.41ms] ACK ack_num=108 cwnd=21.030306 ssthresh=16.000000
+[1.41ms] SEND seq=127 len=512
+[1.41ms] SEND seq=128 len=512
+[1.42ms] ACK ack_num=109 cwnd=21.077857 ssthresh=16.000000
+[1.42ms] SEND seq=129 len=512
+[1.42ms] ACK ack_num=110 cwnd=21.125300 ssthresh=16.000000
+[1.43ms] SEND seq=130 len=512
+[1.43ms] ACK ack_num=111 cwnd=21.172637 ssthresh=16.000000
+[1.43ms] SEND seq=131 len=512
+[1.46ms] ACK ack_num=112 cwnd=21.219867 ssthresh=16.000000
+[1.46ms] SEND seq=132 len=512
+[1.47ms] ACK ack_num=113 cwnd=21.266993 ssthresh=16.000000
+[1.47ms] SEND seq=133 len=512
+[1.48ms] ACK ack_num=114 cwnd=21.314014 ssthresh=16.000000
+[1.48ms] SEND seq=134 len=512
+[1.49ms] ACK ack_num=115 cwnd=21.360932 ssthresh=16.000000
+[1.49ms] SEND seq=135 len=512
+[1.49ms] ACK ack_num=116 cwnd=21.407746 ssthresh=16.000000
+[1.49ms] SEND seq=136 len=512
+[1.50ms] ACK ack_num=117 cwnd=21.454458 ssthresh=16.000000
+[1.50ms] SEND seq=137 len=512
+[1.51ms] ACK ack_num=118 cwnd=21.501069 ssthresh=16.000000
+[1.51ms] SEND seq=138 len=512
+[1.51ms] ACK ack_num=119 cwnd=21.547578 ssthresh=16.000000
+[1.52ms] SEND seq=139 len=512
+[1.52ms] ACK ack_num=120 cwnd=21.593987 ssthresh=16.000000
+[1.52ms] SEND seq=140 len=512
+[1.53ms] ACK ack_num=121 cwnd=21.640296 ssthresh=16.000000
+[1.53ms] SEND seq=141 len=512
+[1.53ms] ACK ack_num=122 cwnd=21.686506 ssthresh=16.000000
+[1.53ms] SEND seq=142 len=512
+[1.54ms] ACK ack_num=123 cwnd=21.732618 ssthresh=16.000000
+[1.54ms] SEND seq=143 len=512
+[1.55ms] ACK ack_num=124 cwnd=21.778632 ssthresh=16.000000
+[1.55ms] SEND seq=144 len=512
+[1.55ms] ACK ack_num=125 cwnd=21.824548 ssthresh=16.000000
+[1.56ms] SEND seq=145 len=512
+[1.56ms] ACK ack_num=126 cwnd=21.870368 ssthresh=16.000000
+[1.56ms] SEND seq=146 len=512
+[1.57ms] ACK ack_num=127 cwnd=21.916092 ssthresh=16.000000
+[1.57ms] SEND seq=147 len=512
+[1.57ms] ACK ack_num=128 cwnd=21.961721 ssthresh=16.000000
+[1.58ms] SEND seq=148 len=512
+[1.58ms] ACK ack_num=129 cwnd=22.007254 ssthresh=16.000000
+[1.58ms] SEND seq=149 len=512
+[1.59ms] SEND seq=150 len=512
+[1.59ms] ACK ack_num=130 cwnd=22.052694 ssthresh=16.000000
+[1.59ms] SEND seq=151 len=512
+[1.60ms] ACK ack_num=131 cwnd=22.098040 ssthresh=16.000000
+[1.60ms] SEND seq=152 len=512
+[1.60ms] ACK ack_num=132 cwnd=22.143293 ssthresh=16.000000
+[1.60ms] SEND seq=153 len=512
+[1.61ms] ACK ack_num=133 cwnd=22.188453 ssthresh=16.000000
+[1.61ms] SEND seq=154 len=512
+[1.61ms] ACK ack_num=134 cwnd=22.233522 ssthresh=16.000000
+[1.62ms] SEND seq=155 len=512
+[1.63ms] ACK ack_num=135 cwnd=22.278499 ssthresh=16.000000
+[1.63ms] SEND seq=156 len=512
+[1.64ms] ACK ack_num=136 cwnd=22.323385 ssthresh=16.000000
+[1.64ms] SEND seq=157 len=512
+[1.64ms] ACK ack_num=137 cwnd=22.368181 ssthresh=16.000000
+[1.65ms] SEND seq=158 len=512
+[1.65ms] ACK ack_num=138 cwnd=22.412888 ssthresh=16.000000
+[1.65ms] SEND seq=159 len=512
+[1.66ms] ACK ack_num=139 cwnd=22.457505 ssthresh=16.000000
+[1.66ms] SEND seq=160 len=512
+[1.66ms] ACK ack_num=140 cwnd=22.502033 ssthresh=16.000000
+[1.67ms] SEND seq=161 len=512
+[1.67ms] ACK ack_num=141 cwnd=22.546474 ssthresh=16.000000
+[1.68ms] SEND seq=162 len=512
+[1.68ms] ACK ack_num=142 cwnd=22.590827 ssthresh=16.000000
+[1.68ms] SEND seq=163 len=512
+[1.69ms] ACK ack_num=143 cwnd=22.635092 ssthresh=16.000000
+[1.69ms] SEND seq=164 len=512
+[1.69ms] ACK ack_num=144 cwnd=22.679271 ssthresh=16.000000
+[1.69ms] SEND seq=165 len=512
+[1.70ms] ACK ack_num=145 cwnd=22.723365 ssthresh=16.000000
+[1.70ms] SEND seq=166 len=512
+[1.70ms] ACK ack_num=146 cwnd=22.767372 ssthresh=16.000000
+[1.71ms] SEND seq=167 len=512
+[1.71ms] ACK ack_num=147 cwnd=22.811295 ssthresh=16.000000
+[1.71ms] SEND seq=168 len=512
+[1.72ms] ACK ack_num=148 cwnd=22.855133 ssthresh=16.000000
+[1.72ms] SEND seq=169 len=512
+[1.73ms] ACK ack_num=149 cwnd=22.898886 ssthresh=16.000000
+[1.74ms] SEND seq=170 len=512
+[1.75ms] ACK ack_num=150 cwnd=22.942557 ssthresh=16.000000
+[1.75ms] SEND seq=171 len=512
+[1.76ms] ACK ack_num=151 cwnd=22.986144 ssthresh=16.000000
+[1.76ms] SEND seq=172 len=512
+[1.76ms] ACK ack_num=152 cwnd=23.029648 ssthresh=16.000000
+[1.76ms] SEND seq=173 len=512
+[1.77ms] SEND seq=174 len=512
+[1.77ms] ACK ack_num=153 cwnd=23.073071 ssthresh=16.000000
+[1.77ms] SEND seq=175 len=512
+[1.78ms] ACK ack_num=154 cwnd=23.116411 ssthresh=16.000000
+[1.78ms] SEND seq=176 len=512
+[1.79ms] ACK ack_num=155 cwnd=23.159670 ssthresh=16.000000
+[1.79ms] SEND seq=177 len=512
+[1.79ms] ACK ack_num=156 cwnd=23.202849 ssthresh=16.000000
+[1.80ms] SEND seq=178 len=512
+[1.80ms] ACK ack_num=157 cwnd=23.245947 ssthresh=16.000000
+[1.80ms] SEND seq=179 len=512
+[1.81ms] ACK ack_num=158 cwnd=23.288965 ssthresh=16.000000
+[1.81ms] SEND seq=180 len=512
+[1.81ms] ACK ack_num=159 cwnd=23.331904 ssthresh=16.000000
+[1.82ms] SEND seq=181 len=512
+[1.82ms] ACK ack_num=160 cwnd=23.374764 ssthresh=16.000000
+[1.82ms] SEND seq=182 len=512
+[1.83ms] ACK ack_num=161 cwnd=23.417545 ssthresh=16.000000
+[1.83ms] SEND seq=183 len=512
+[1.83ms] ACK ack_num=162 cwnd=23.460248 ssthresh=16.000000
+[1.84ms] SEND seq=184 len=512
+[1.84ms] ACK ack_num=163 cwnd=23.502873 ssthresh=16.000000
+[1.84ms] SEND seq=185 len=512
+[1.85ms] ACK ack_num=164 cwnd=23.545421 ssthresh=16.000000
+[1.85ms] SEND seq=186 len=512
+[1.85ms] ACK ack_num=165 cwnd=23.587893 ssthresh=16.000000
+[1.86ms] SEND seq=187 len=512
+[1.86ms] ACK ack_num=166 cwnd=23.630287 ssthresh=16.000000
+[1.86ms] SEND seq=188 len=512
+[1.87ms] ACK ack_num=167 cwnd=23.672606 ssthresh=16.000000
+[1.87ms] SEND seq=189 len=512
+[1.87ms] ACK ack_num=168 cwnd=23.714849 ssthresh=16.000000
+[1.88ms] SEND seq=190 len=512
+[1.88ms] ACK ack_num=169 cwnd=23.757016 ssthresh=16.000000
+[1.89ms] SEND seq=191 len=512
+[1.89ms] ACK ack_num=170 cwnd=23.799109 ssthresh=16.000000
+[1.89ms] SEND seq=192 len=512
+[1.90ms] ACK ack_num=171 cwnd=23.841128 ssthresh=16.000000
+[1.90ms] SEND seq=193 len=512
+[1.91ms] ACK ack_num=172 cwnd=23.883072 ssthresh=16.000000
+[1.91ms] SEND seq=194 len=512
+[1.91ms] ACK ack_num=173 cwnd=23.924943 ssthresh=16.000000
+[1.91ms] SEND seq=195 len=512
+[1.92ms] ACK ack_num=174 cwnd=23.966740 ssthresh=16.000000
+[1.92ms] SEND seq=196 len=512
+[1.92ms] ACK ack_num=175 cwnd=24.008464 ssthresh=16.000000
+[1.93ms] SEND seq=197 len=512
+[1.93ms] SEND seq=198 len=512
+[1.93ms] ACK ack_num=176 cwnd=24.050116 ssthresh=16.000000
+[1.94ms] SEND seq=199 len=512
+[1.94ms] ACK ack_num=177 cwnd=24.091696 ssthresh=16.000000
+[1.94ms] SEND seq=200 len=512
+[1.95ms] ACK ack_num=178 cwnd=24.133204 ssthresh=16.000000
+[1.95ms] SEND seq=201 len=512
+[1.95ms] ACK ack_num=179 cwnd=24.174641 ssthresh=16.000000
+[1.96ms] SEND seq=202 len=512
+[1.97ms] ACK ack_num=180 cwnd=24.216007 ssthresh=16.000000
+[1.97ms] SEND seq=203 len=512
+[1.98ms] ACK ack_num=181 cwnd=24.257302 ssthresh=16.000000
+[1.98ms] SEND seq=204 len=512
+[1.98ms] ACK ack_num=182 cwnd=24.298526 ssthresh=16.000000
+[1.98ms] SEND seq=205 len=512
+[1.99ms] ACK ack_num=183 cwnd=24.339681 ssthresh=16.000000
+[1.99ms] SEND seq=206 len=512
+[1.99ms] ACK ack_num=184 cwnd=24.380766 ssthresh=16.000000
+[2.00ms] SEND seq=207 len=512
+[2.00ms] ACK ack_num=185 cwnd=24.421782 ssthresh=16.000000
+[2.00ms] SEND seq=208 len=512
+[2.01ms] ACK ack_num=186 cwnd=24.462729 ssthresh=16.000000
+[2.01ms] SEND seq=209 len=512
+[2.01ms] ACK ack_num=187 cwnd=24.503608 ssthresh=16.000000
+[2.02ms] SEND seq=210 len=512
+[2.02ms] ACK ack_num=188 cwnd=24.544418 ssthresh=16.000000
+[2.02ms] SEND seq=211 len=512
+[2.03ms] ACK ack_num=189 cwnd=24.585161 ssthresh=16.000000
+[2.03ms] SEND seq=212 len=512
+[2.04ms] ACK ack_num=190 cwnd=24.625835 ssthresh=16.000000
+[2.04ms] SEND seq=213 len=512
+[2.04ms] ACK ack_num=191 cwnd=24.666443 ssthresh=16.000000
+[2.04ms] SEND seq=214 len=512
+[2.05ms] ACK ack_num=192 cwnd=24.706984 ssthresh=16.000000
+[2.05ms] SEND seq=215 len=512
+[2.05ms] ACK ack_num=193 cwnd=24.747459 ssthresh=16.000000
+[2.06ms] SEND seq=216 len=512
+[2.06ms] ACK ack_num=194 cwnd=24.787867 ssthresh=16.000000
+[2.06ms] SEND seq=217 len=512
+[2.07ms] ACK ack_num=195 cwnd=24.828209 ssthresh=16.000000
+[2.07ms] SEND seq=218 len=512
+[2.07ms] ACK ack_num=196 cwnd=24.868486 ssthresh=16.000000
+[2.08ms] SEND seq=219 len=512
+[2.08ms] ACK ack_num=197 cwnd=24.908697 ssthresh=16.000000
+[2.08ms] SEND seq=220 len=512
+[2.09ms] ACK ack_num=198 cwnd=24.948844 ssthresh=16.000000
+[2.09ms] SEND seq=221 len=512
+[2.10ms] ACK ack_num=199 cwnd=24.988926 ssthresh=16.000000
+[2.10ms] SEND seq=222 len=512
+[2.10ms] ACK ack_num=200 cwnd=25.028944 ssthresh=16.000000
+[2.10ms] SEND seq=223 len=512
+[2.10ms] SEND seq=224 len=512
+[2.11ms] ACK ack_num=201 cwnd=25.068897 ssthresh=16.000000
+[2.11ms] SEND seq=225 len=512
+[2.11ms] ACK ack_num=202 cwnd=25.108788 ssthresh=16.000000
+[2.12ms] SEND seq=226 len=512
+[2.12ms] ACK ack_num=203 cwnd=25.148614 ssthresh=16.000000
+[2.12ms] SEND seq=227 len=512
+[2.13ms] ACK ack_num=204 cwnd=25.188378 ssthresh=16.000000
+[2.13ms] SEND seq=228 len=512
+[2.13ms] ACK ack_num=205 cwnd=25.228079 ssthresh=16.000000
+[2.14ms] SEND seq=229 len=512
+[2.14ms] ACK ack_num=206 cwnd=25.267717 ssthresh=16.000000
+[2.14ms] SEND seq=230 len=512
+[2.15ms] ACK ack_num=207 cwnd=25.307293 ssthresh=16.000000
+[2.15ms] SEND seq=231 len=512
+[2.16ms] ACK ack_num=208 cwnd=25.346808 ssthresh=16.000000
+[2.16ms] SEND seq=232 len=512
+[2.16ms] ACK ack_num=209 cwnd=25.386260 ssthresh=16.000000
+[2.17ms] SEND seq=233 len=512
+[2.17ms] ACK ack_num=210 cwnd=25.425652 ssthresh=16.000000
+[2.17ms] SEND seq=234 len=512
+[2.18ms] ACK ack_num=211 cwnd=25.464982 ssthresh=16.000000
+[2.18ms] SEND seq=235 len=512
+[2.18ms] ACK ack_num=212 cwnd=25.504252 ssthresh=16.000000
+[2.19ms] SEND seq=236 len=512
+[2.19ms] ACK ack_num=213 cwnd=25.543461 ssthresh=16.000000
+[2.19ms] SEND seq=237 len=512
+[2.20ms] ACK ack_num=214 cwnd=25.582610 ssthresh=16.000000
+[2.20ms] SEND seq=238 len=512
+[2.20ms] ACK ack_num=215 cwnd=25.621699 ssthresh=16.000000
+[2.21ms] SEND seq=239 len=512
+[2.22ms] ACK ack_num=216 cwnd=25.660728 ssthresh=16.000000
+[2.22ms] SEND seq=240 len=512
+[2.22ms] ACK ack_num=217 cwnd=25.699698 ssthresh=16.000000
+[2.22ms] SEND seq=241 len=512
+[2.23ms] ACK ack_num=218 cwnd=25.738609 ssthresh=16.000000
+[2.23ms] SEND seq=242 len=512
+[2.24ms] ACK ack_num=219 cwnd=25.777461 ssthresh=16.000000
+[2.24ms] SEND seq=243 len=512
+[2.24ms] ACK ack_num=220 cwnd=25.816255 ssthresh=16.000000
+[2.25ms] SEND seq=244 len=512
+[2.25ms] ACK ack_num=221 cwnd=25.854990 ssthresh=16.000000
+[2.25ms] SEND seq=245 len=512
+[2.26ms] ACK ack_num=222 cwnd=25.893667 ssthresh=16.000000
+[2.26ms] SEND seq=246 len=512
+[2.26ms] ACK ack_num=223 cwnd=25.932287 ssthresh=16.000000
+[2.26ms] SEND seq=247 len=512
+[2.27ms] ACK ack_num=224 cwnd=25.970849 ssthresh=16.000000
+[2.27ms] SEND seq=248 len=512
+[2.27ms] ACK ack_num=225 cwnd=26.009354 ssthresh=16.000000
+[2.28ms] SEND seq=249 len=512
+[2.28ms] SEND seq=250 len=512
+[2.28ms] ACK ack_num=226 cwnd=26.047801 ssthresh=16.000000
+[2.29ms] SEND seq=251 len=512
+[2.29ms] ACK ack_num=227 cwnd=26.086192 ssthresh=16.000000
+[2.29ms] SEND seq=252 len=512
+[2.30ms] ACK ack_num=228 cwnd=26.124527 ssthresh=16.000000
+[2.30ms] SEND seq=253 len=512
+[2.31ms] ACK ack_num=229 cwnd=26.162805 ssthresh=16.000000
+[2.31ms] SEND seq=254 len=512
+[2.31ms] ACK ack_num=230 cwnd=26.201027 ssthresh=16.000000
+[2.31ms] SEND seq=255 len=512
+[2.32ms] ACK ack_num=231 cwnd=26.239194 ssthresh=16.000000
+[2.32ms] SEND seq=256 len=512
+[2.32ms] ACK ack_num=232 cwnd=26.277305 ssthresh=16.000000
+[2.33ms] SEND seq=257 len=512
+[2.33ms] ACK ack_num=233 cwnd=26.315360 ssthresh=16.000000
+[2.33ms] SEND seq=258 len=512
+[2.34ms] ACK ack_num=234 cwnd=26.353361 ssthresh=16.000000
+[2.34ms] SEND seq=259 len=512
+[2.34ms] ACK ack_num=235 cwnd=26.391307 ssthresh=16.000000
+[2.35ms] SEND seq=260 len=512
+[2.35ms] ACK ack_num=236 cwnd=26.429198 ssthresh=16.000000
+[2.36ms] SEND seq=261 len=512
+[2.36ms] ACK ack_num=237 cwnd=26.467035 ssthresh=16.000000
+[2.36ms] SEND seq=262 len=512
+[2.37ms] ACK ack_num=238 cwnd=26.504818 ssthresh=16.000000
+[2.37ms] SEND seq=263 len=512
+[2.37ms] ACK ack_num=239 cwnd=26.542547 ssthresh=16.000000
+[2.38ms] SEND seq=264 len=512
+[2.38ms] ACK ack_num=240 cwnd=26.580222 ssthresh=16.000000
+[2.38ms] SEND seq=265 len=512
+[2.39ms] ACK ack_num=241 cwnd=26.617844 ssthresh=16.000000
+[2.39ms] SEND seq=266 len=512
+[2.39ms] ACK ack_num=242 cwnd=26.655413 ssthresh=16.000000
+[2.40ms] SEND seq=267 len=512
+[2.40ms] ACK ack_num=243 cwnd=26.692929 ssthresh=16.000000
+[2.40ms] SEND seq=268 len=512
+[2.41ms] ACK ack_num=244 cwnd=26.730392 ssthresh=16.000000
+[2.41ms] SEND seq=269 len=512
+[2.41ms] ACK ack_num=245 cwnd=26.767802 ssthresh=16.000000
+[2.42ms] SEND seq=270 len=512
+[2.42ms] ACK ack_num=246 cwnd=26.805161 ssthresh=16.000000
+[2.43ms] SEND seq=271 len=512
+[2.43ms] ACK ack_num=247 cwnd=26.842467 ssthresh=16.000000
+[2.43ms] SEND seq=272 len=512
+[2.43ms] ACK ack_num=248 cwnd=26.879721 ssthresh=16.000000
+[2.44ms] SEND seq=273 len=512
+[2.46ms] ACK ack_num=249 cwnd=26.916924 ssthresh=16.000000
+[2.46ms] SEND seq=274 len=512
+[2.47ms] ACK ack_num=250 cwnd=26.954075 ssthresh=16.000000
+[2.47ms] SEND seq=275 len=512
+[2.47ms] ACK ack_num=251 cwnd=26.991176 ssthresh=16.000000
+[2.48ms] SEND seq=276 len=512
+[2.48ms] ACK ack_num=252 cwnd=27.028225 ssthresh=16.000000
+[2.48ms] SEND seq=277 len=512
+[2.49ms] SEND seq=278 len=512
+[2.49ms] ACK ack_num=253 cwnd=27.065223 ssthresh=16.000000
+[2.49ms] SEND seq=279 len=512
+[2.50ms] ACK ack_num=254 cwnd=27.102171 ssthresh=16.000000
+[2.50ms] SEND seq=280 len=512
+[2.50ms] ACK ack_num=255 cwnd=27.139068 ssthresh=16.000000
+[2.51ms] SEND seq=281 len=512
+[2.51ms] ACK ack_num=256 cwnd=27.175915 ssthresh=16.000000
+[2.52ms] SEND seq=282 len=512
+[2.52ms] ACK ack_num=257 cwnd=27.212713 ssthresh=16.000000
+[2.52ms] SEND seq=283 len=512
+[2.52ms] ACK ack_num=258 cwnd=27.249460 ssthresh=16.000000
+[2.53ms] SEND seq=284 len=512
+[2.53ms] ACK ack_num=259 cwnd=27.286158 ssthresh=16.000000
+[2.53ms] SEND seq=285 len=512
+[2.54ms] ACK ack_num=260 cwnd=27.322807 ssthresh=16.000000
+[2.54ms] SEND seq=286 len=512
+[2.54ms] ACK ack_num=261 cwnd=27.359406 ssthresh=16.000000
+[2.55ms] SEND seq=287 len=512
+[2.55ms] ACK ack_num=262 cwnd=27.395957 ssthresh=16.000000
+[2.55ms] SEND seq=288 len=512
+[2.56ms] ACK ack_num=263 cwnd=27.432459 ssthresh=16.000000
+[2.56ms] SEND seq=289 len=512
+[2.56ms] ACK ack_num=264 cwnd=27.468912 ssthresh=16.000000
+[2.57ms] SEND seq=290 len=512
+[2.57ms] ACK ack_num=265 cwnd=27.505317 ssthresh=16.000000
+[2.58ms] SEND seq=291 len=512
+[2.58ms] ACK ack_num=266 cwnd=27.541673 ssthresh=16.000000
+[2.58ms] SEND seq=292 len=512
+[2.59ms] ACK ack_num=267 cwnd=27.577982 ssthresh=16.000000
+[2.59ms] SEND seq=293 len=512
+[2.59ms] ACK ack_num=268 cwnd=27.614243 ssthresh=16.000000
+[2.60ms] SEND seq=294 len=512
+[2.60ms] ACK ack_num=269 cwnd=27.650456 ssthresh=16.000000
+[2.60ms] SEND seq=295 len=512
+[2.61ms] ACK ack_num=270 cwnd=27.686622 ssthresh=16.000000
+[2.61ms] SEND seq=296 len=512
+[2.61ms] ACK ack_num=271 cwnd=27.722740 ssthresh=16.000000
+[2.63ms] SEND seq=297 len=512
+[2.63ms] ACK ack_num=272 cwnd=27.758812 ssthresh=16.000000
+[2.65ms] SEND seq=298 len=512
+[2.65ms] ACK ack_num=273 cwnd=27.794836 ssthresh=16.000000
+[2.66ms] SEND seq=299 len=512
+[2.66ms] ACK ack_num=274 cwnd=27.830814 ssthresh=16.000000
+[2.67ms] SEND seq=300 len=512
+[2.67ms] ACK ack_num=275 cwnd=27.866745 ssthresh=16.000000
+[2.67ms] SEND seq=301 len=512
+[2.68ms] ACK ack_num=276 cwnd=27.902631 ssthresh=16.000000
+[2.68ms] SEND seq=302 len=512
+[2.68ms] ACK ack_num=277 cwnd=27.938469 ssthresh=16.000000
+[2.69ms] SEND seq=303 len=512
+[2.69ms] ACK ack_num=278 cwnd=27.974262 ssthresh=16.000000
+[2.69ms] SEND seq=304 len=512
+[2.70ms] ACK ack_num=279 cwnd=28.010010 ssthresh=16.000000
+[2.70ms] SEND seq=305 len=512
+[2.70ms] SEND seq=306 len=512
+[2.70ms] ACK ack_num=280 cwnd=28.045711 ssthresh=16.000000
+[2.71ms] SEND seq=307 len=512
+[2.71ms] ACK ack_num=281 cwnd=28.081367 ssthresh=16.000000
+[2.71ms] SEND seq=308 len=512
+[2.72ms] ACK ack_num=282 cwnd=28.116978 ssthresh=16.000000
+[2.72ms] SEND seq=309 len=512
+[2.72ms] ACK ack_num=283 cwnd=28.152544 ssthresh=16.000000
+[2.73ms] SEND seq=310 len=512
+[2.73ms] ACK ack_num=284 cwnd=28.188064 ssthresh=16.000000
+[2.73ms] SEND seq=311 len=512
+[2.74ms] ACK ack_num=285 cwnd=28.223540 ssthresh=16.000000
+[2.74ms] SEND seq=312 len=512
+[2.74ms] ACK ack_num=286 cwnd=28.258972 ssthresh=16.000000
+[2.75ms] SEND seq=313 len=512
+[2.75ms] ACK ack_num=287 cwnd=28.294359 ssthresh=16.000000
+[2.75ms] SEND seq=314 len=512
+[2.76ms] ACK ack_num=288 cwnd=28.329702 ssthresh=16.000000
+[2.76ms] SEND seq=315 len=512
+[2.77ms] ACK ack_num=289 cwnd=28.365000 ssthresh=16.000000
+[2.77ms] SEND seq=316 len=512
+[2.77ms] ACK ack_num=290 cwnd=28.400255 ssthresh=16.000000
+[2.77ms] SEND seq=317 len=512
+[2.78ms] ACK ack_num=291 cwnd=28.435466 ssthresh=16.000000
+[2.78ms] SEND seq=318 len=512
+[2.78ms] ACK ack_num=292 cwnd=28.470633 ssthresh=16.000000
+[2.79ms] SEND seq=319 len=512
+[2.79ms] ACK ack_num=293 cwnd=28.505757 ssthresh=16.000000
+[2.79ms] SEND seq=320 len=512
+[2.80ms] ACK ack_num=294 cwnd=28.540838 ssthresh=16.000000
+[2.80ms] SEND seq=321 len=512
+[2.81ms] ACK ack_num=295 cwnd=28.575875 ssthresh=16.000000
+[2.81ms] SEND seq=322 len=512
+[2.81ms] ACK ack_num=296 cwnd=28.610870 ssthresh=16.000000
+[2.82ms] SEND seq=323 len=512
+[2.82ms] ACK ack_num=297 cwnd=28.645822 ssthresh=16.000000
+[2.82ms] SEND seq=324 len=512
+[2.83ms] ACK ack_num=298 cwnd=28.680731 ssthresh=16.000000
+[2.83ms] SEND seq=325 len=512
+[2.84ms] ACK ack_num=299 cwnd=28.715597 ssthresh=16.000000
+[2.84ms] SEND seq=326 len=512
+[2.84ms] ACK ack_num=300 cwnd=28.750422 ssthresh=16.000000
+[2.85ms] SEND seq=327 len=512
+[2.85ms] ACK ack_num=301 cwnd=28.785204 ssthresh=16.000000
+[2.85ms] SEND seq=328 len=512
+[2.86ms] ACK ack_num=302 cwnd=28.819944 ssthresh=16.000000
+[2.86ms] SEND seq=329 len=512
+[2.86ms] ACK ack_num=303 cwnd=28.854642 ssthresh=16.000000
+[2.86ms] SEND seq=330 len=512
+[2.87ms] ACK ack_num=304 cwnd=28.889298 ssthresh=16.000000
+[2.87ms] SEND seq=331 len=512
+[2.88ms] ACK ack_num=305 cwnd=28.923913 ssthresh=16.000000
+[2.88ms] SEND seq=332 len=512
+[2.88ms] ACK ack_num=306 cwnd=28.958487 ssthresh=16.000000
+[2.89ms] SEND seq=333 len=512
+[2.89ms] ACK ack_num=307 cwnd=28.993019 ssthresh=16.000000
+[2.89ms] SEND seq=334 len=512
+[2.90ms] ACK ack_num=308 cwnd=29.027510 ssthresh=16.000000
+[2.90ms] SEND seq=335 len=512
+[2.90ms] SEND seq=336 len=512
+[2.91ms] ACK ack_num=309 cwnd=29.061960 ssthresh=16.000000
+[2.91ms] SEND seq=337 len=512
+[2.91ms] ACK ack_num=310 cwnd=29.096369 ssthresh=16.000000
+[2.92ms] SEND seq=338 len=512
+[2.92ms] ACK ack_num=311 cwnd=29.130738 ssthresh=16.000000
+[2.92ms] SEND seq=339 len=512
+[2.93ms] ACK ack_num=312 cwnd=29.165066 ssthresh=16.000000
+[2.93ms] SEND seq=340 len=512
+[2.93ms] ACK ack_num=313 cwnd=29.199353 ssthresh=16.000000
+[2.93ms] SEND seq=341 len=512
+[2.94ms] ACK ack_num=314 cwnd=29.233601 ssthresh=16.000000
+[2.94ms] SEND seq=342 len=512
+[2.95ms] ACK ack_num=315 cwnd=29.267808 ssthresh=16.000000
+[2.95ms] SEND seq=343 len=512
+[2.95ms] ACK ack_num=316 cwnd=29.301975 ssthresh=16.000000
+[2.96ms] SEND seq=344 len=512
+[2.96ms] ACK ack_num=317 cwnd=29.336103 ssthresh=16.000000
+[2.96ms] SEND seq=345 len=512
+[2.97ms] ACK ack_num=318 cwnd=29.370190 ssthresh=16.000000
+[2.97ms] SEND seq=346 len=512
+[2.98ms] ACK ack_num=319 cwnd=29.404238 ssthresh=16.000000
+[2.98ms] SEND seq=347 len=512
+[2.98ms] ACK ack_num=320 cwnd=29.438247 ssthresh=16.000000
+[2.99ms] SEND seq=348 len=512
+[2.99ms] ACK ack_num=321 cwnd=29.472217 ssthresh=16.000000
+[2.99ms] SEND seq=349 len=512
+[3.00ms] ACK ack_num=322 cwnd=29.506147 ssthresh=16.000000
+[3.00ms] SEND seq=350 len=512
+[3.00ms] ACK ack_num=323 cwnd=29.540038 ssthresh=16.000000
+[3.01ms] SEND seq=351 len=512
+[3.01ms] ACK ack_num=324 cwnd=29.573890 ssthresh=16.000000
+[3.01ms] SEND seq=352 len=512
+[3.02ms] ACK ack_num=325 cwnd=29.607704 ssthresh=16.000000
+[3.03ms] SEND seq=353 len=512
+[3.03ms] ACK ack_num=326 cwnd=29.641479 ssthresh=16.000000
+[3.04ms] SEND seq=354 len=512
+[3.04ms] ACK ack_num=327 cwnd=29.675216 ssthresh=16.000000
+[3.04ms] SEND seq=355 len=512
+[3.05ms] ACK ack_num=328 cwnd=29.708914 ssthresh=16.000000
+[3.05ms] SEND seq=356 len=512
+[3.05ms] ACK ack_num=329 cwnd=29.742574 ssthresh=16.000000
+[3.06ms] SEND seq=357 len=512
+[3.06ms] ACK ack_num=330 cwnd=29.776195 ssthresh=16.000000
+[3.06ms] SEND seq=358 len=512
+[3.07ms] ACK ack_num=331 cwnd=29.809779 ssthresh=16.000000
+[3.07ms] SEND seq=359 len=512
+[3.08ms] ACK ack_num=332 cwnd=29.843325 ssthresh=16.000000
+[3.08ms] SEND seq=360 len=512
+[3.08ms] ACK ack_num=333 cwnd=29.876834 ssthresh=16.000000
+[3.09ms] SEND seq=361 len=512
+[3.09ms] ACK ack_num=334 cwnd=29.910304 ssthresh=16.000000
+[3.09ms] SEND seq=362 len=512
+[3.10ms] ACK ack_num=335 cwnd=29.943738 ssthresh=16.000000
+[3.10ms] SEND seq=363 len=512
+[3.10ms] ACK ack_num=336 cwnd=29.977134 ssthresh=16.000000
+[3.10ms] SEND seq=364 len=512
+[3.11ms] ACK ack_num=337 cwnd=30.010492 ssthresh=16.000000
+[3.11ms] SEND seq=365 len=512
+[3.11ms] SEND seq=366 len=512
+[3.12ms] ACK ack_num=338 cwnd=30.043814 ssthresh=16.000000
+[3.12ms] SEND seq=367 len=512
+[3.13ms] ACK ack_num=339 cwnd=30.077099 ssthresh=16.000000
+[3.13ms] SEND seq=368 len=512
+[3.14ms] ACK ack_num=340 cwnd=30.110347 ssthresh=16.000000
+[3.14ms] SEND seq=369 len=512
+[3.15ms] ACK ack_num=341 cwnd=30.143558 ssthresh=16.000000
+[3.15ms] SEND seq=370 len=512
+[3.15ms] ACK ack_num=342 cwnd=30.176733 ssthresh=16.000000
+[3.16ms] SEND seq=371 len=512
+[3.16ms] ACK ack_num=343 cwnd=30.209871 ssthresh=16.000000
+[3.16ms] SEND seq=372 len=512
+[3.17ms] ACK ack_num=344 cwnd=30.242972 ssthresh=16.000000
+[3.17ms] SEND seq=373 len=512
+[3.17ms] ACK ack_num=345 cwnd=30.276038 ssthresh=16.000000
+[3.18ms] SEND seq=374 len=512
+[3.18ms] ACK ack_num=346 cwnd=30.309067 ssthresh=16.000000
+[3.19ms] SEND seq=375 len=512
+[3.19ms] ACK ack_num=347 cwnd=30.342061 ssthresh=16.000000
+[3.19ms] SEND seq=376 len=512
+[3.20ms] ACK ack_num=348 cwnd=30.375018 ssthresh=16.000000
+[3.22ms] SEND seq=377 len=512
+[3.22ms] ACK ack_num=349 cwnd=30.407940 ssthresh=16.000000
+[3.23ms] SEND seq=378 len=512
+[3.23ms] ACK ack_num=350 cwnd=30.440826 ssthresh=16.000000
+[3.23ms] SEND seq=379 len=512
+[3.24ms] ACK ack_num=351 cwnd=30.473677 ssthresh=16.000000
+[3.24ms] SEND seq=380 len=512
+[3.24ms] ACK ack_num=352 cwnd=30.506492 ssthresh=16.000000
+[3.25ms] SEND seq=381 len=512
+[3.25ms] ACK ack_num=353 cwnd=30.539272 ssthresh=16.000000
+[3.25ms] SEND seq=382 len=512
+[3.26ms] ACK ack_num=354 cwnd=30.572017 ssthresh=16.000000
+[3.26ms] SEND seq=383 len=512
+[3.29ms] ACK ack_num=355 cwnd=30.604726 ssthresh=16.000000
+[3.30ms] SEND seq=384 len=512
+[3.30ms] ACK ack_num=356 cwnd=30.637401 ssthresh=16.000000
+[3.31ms] SEND seq=385 len=512
+[3.31ms] ACK ack_num=357 cwnd=30.670041 ssthresh=16.000000
+[3.32ms] SEND seq=386 len=512
+[3.32ms] ACK ack_num=358 cwnd=30.702646 ssthresh=16.000000
+[3.32ms] SEND seq=387 len=512
+[3.33ms] ACK ack_num=359 cwnd=30.735217 ssthresh=16.000000
+[3.33ms] SEND seq=388 len=512
+[3.33ms] ACK ack_num=360 cwnd=30.767752 ssthresh=16.000000
+[3.34ms] SEND seq=389 len=512
+[3.34ms] ACK ack_num=361 cwnd=30.800254 ssthresh=16.000000
+[3.35ms] SEND seq=390 len=512
+[3.35ms] ACK ack_num=362 cwnd=30.832721 ssthresh=16.000000
+[3.35ms] SEND seq=391 len=512
+[3.37ms] ACK ack_num=363 cwnd=30.865154 ssthresh=16.000000
+[3.38ms] SEND seq=392 len=512
+[3.39ms] ACK ack_num=364 cwnd=30.897553 ssthresh=16.000000
+[3.39ms] SEND seq=393 len=512
+[3.40ms] ACK ack_num=365 cwnd=30.929918 ssthresh=16.000000
+[3.41ms] SEND seq=394 len=512
+[3.42ms] ACK ack_num=366 cwnd=30.962250 ssthresh=16.000000
+[3.43ms] SEND seq=395 len=512
+[3.46ms] ACK ack_num=367 cwnd=30.994547 ssthresh=16.000000
+[3.47ms] SEND seq=396 len=512
+[3.48ms] ACK ack_num=368 cwnd=31.026811 ssthresh=16.000000
+[3.49ms] SEND seq=397 len=512
+[3.50ms] SEND seq=398 len=512
+[3.50ms] ACK ack_num=369 cwnd=31.059041 ssthresh=16.000000
+[3.52ms] SEND seq=399 len=512
+[3.52ms] ACK ack_num=370 cwnd=31.091238 ssthresh=16.000000
+[3.53ms] SEND seq=400 len=512
+[3.53ms] ACK ack_num=371 cwnd=31.123401 ssthresh=16.000000
+[3.54ms] SEND seq=401 len=512
+[3.54ms] ACK ack_num=372 cwnd=31.155531 ssthresh=16.000000
+[3.56ms] SEND seq=402 len=512
+[3.56ms] ACK ack_num=373 cwnd=31.187628 ssthresh=16.000000
+[3.58ms] SEND seq=403 len=512
+[3.58ms] ACK ack_num=374 cwnd=31.219692 ssthresh=16.000000
+[3.60ms] SEND seq=404 len=512
+[3.61ms] ACK ack_num=375 cwnd=31.251723 ssthresh=16.000000
+[3.62ms] SEND seq=405 len=512
+[3.63ms] ACK ack_num=376 cwnd=31.283722 ssthresh=16.000000
+[3.64ms] SEND seq=406 len=512
+[3.65ms] ACK ack_num=377 cwnd=31.315687 ssthresh=16.000000
+[3.67ms] SEND seq=407 len=512
+[3.67ms] ACK ack_num=378 cwnd=31.347620 ssthresh=16.000000
+[3.69ms] SEND seq=408 len=512
+[3.69ms] ACK ack_num=379 cwnd=31.379520 ssthresh=16.000000
+[3.71ms] SEND seq=409 len=512
+[3.72ms] ACK ack_num=380 cwnd=31.411388 ssthresh=16.000000
+[3.73ms] SEND seq=410 len=512
+[3.74ms] ACK ack_num=381 cwnd=31.443224 ssthresh=16.000000
+[3.75ms] SEND seq=411 len=512
+[3.76ms] ACK ack_num=382 cwnd=31.475027 ssthresh=16.000000
+[3.77ms] SEND seq=412 len=512
+[3.78ms] ACK ack_num=383 cwnd=31.506798 ssthresh=16.000000
+[3.79ms] SEND seq=413 len=512
+[3.80ms] ACK ack_num=384 cwnd=31.538538 ssthresh=16.000000
+[3.81ms] SEND seq=414 len=512
+[3.82ms] ACK ack_num=385 cwnd=31.570245 ssthresh=16.000000
+[3.84ms] SEND seq=415 len=512
+[3.84ms] ACK ack_num=386 cwnd=31.601920 ssthresh=16.000000
+[3.85ms] SEND seq=416 len=512
+[3.85ms] ACK ack_num=387 cwnd=31.633564 ssthresh=16.000000
+[3.87ms] SEND seq=417 len=512
+[3.87ms] ACK ack_num=388 cwnd=31.665176 ssthresh=16.000000
+[3.89ms] SEND seq=418 len=512
+[3.90ms] ACK ack_num=389 cwnd=31.696756 ssthresh=16.000000
+[3.91ms] SEND seq=419 len=512
+[3.92ms] ACK ack_num=390 cwnd=31.728305 ssthresh=16.000000
+[3.93ms] SEND seq=420 len=512
+[3.94ms] ACK ack_num=391 cwnd=31.759823 ssthresh=16.000000
+[3.95ms] SEND seq=421 len=512
+[3.96ms] ACK ack_num=392 cwnd=31.791309 ssthresh=16.000000
+[3.97ms] SEND seq=422 len=512
+[3.98ms] ACK ack_num=393 cwnd=31.822764 ssthresh=16.000000
+[3.99ms] SEND seq=423 len=512
+[4.00ms] ACK ack_num=394 cwnd=31.854188 ssthresh=16.000000
+[4.02ms] SEND seq=424 len=512
+[4.02ms] ACK ack_num=395 cwnd=31.885581 ssthresh=16.000000
+[4.04ms] SEND seq=425 len=512
+[4.06ms] ACK ack_num=396 cwnd=31.916943 ssthresh=16.000000
+[4.07ms] SEND seq=426 len=512
+[4.08ms] ACK ack_num=397 cwnd=31.948275 ssthresh=16.000000
+[4.09ms] SEND seq=427 len=512
+[4.11ms] ACK ack_num=398 cwnd=31.979575 ssthresh=16.000000
+[4.15ms] SEND seq=428 len=512
+[4.15ms] ACK ack_num=399 cwnd=32.010845 ssthresh=16.000000
+[4.16ms] SEND seq=429 len=512
+[4.16ms] SEND seq=430 len=512
+[4.17ms] ACK ack_num=400 cwnd=32.042085 ssthresh=16.000000
+[4.17ms] SEND seq=431 len=512
+[4.17ms] ACK ack_num=401 cwnd=32.073294 ssthresh=16.000000
+[4.18ms] SEND seq=432 len=512
+[4.18ms] ACK ack_num=402 cwnd=32.104472 ssthresh=16.000000
+[4.18ms] SEND seq=433 len=512
+[4.19ms] ACK ack_num=403 cwnd=32.135621 ssthresh=16.000000
+[4.20ms] SEND seq=434 len=512
+[4.21ms] ACK ack_num=404 cwnd=32.166739 ssthresh=16.000000
+[4.21ms] SEND seq=435 len=512
+[4.22ms] ACK ack_num=405 cwnd=32.197827 ssthresh=16.000000
+[4.23ms] SEND seq=436 len=512
+[4.24ms] ACK ack_num=406 cwnd=32.228885 ssthresh=16.000000
+[4.25ms] SEND seq=437 len=512
+[4.26ms] ACK ack_num=407 cwnd=32.259913 ssthresh=16.000000
+[4.27ms] SEND seq=438 len=512
+[4.28ms] ACK ack_num=408 cwnd=32.290911 ssthresh=16.000000
+[4.29ms] SEND seq=439 len=512
+[4.30ms] ACK ack_num=409 cwnd=32.321880 ssthresh=16.000000
+[4.31ms] SEND seq=440 len=512
+[4.32ms] ACK ack_num=410 cwnd=32.352818 ssthresh=16.000000
+[4.33ms] SEND seq=441 len=512
+[4.33ms] ACK ack_num=411 cwnd=32.383728 ssthresh=16.000000
+[4.34ms] SEND seq=442 len=512
+[4.35ms] ACK ack_num=412 cwnd=32.414607 ssthresh=16.000000
+[4.36ms] SEND seq=443 len=512
+[4.37ms] ACK ack_num=413 cwnd=32.445457 ssthresh=16.000000
+[4.39ms] SEND seq=444 len=512
+[4.39ms] ACK ack_num=414 cwnd=32.476278 ssthresh=16.000000
+[4.41ms] SEND seq=445 len=512
+[4.41ms] ACK ack_num=415 cwnd=32.507070 ssthresh=16.000000
+[4.43ms] SEND seq=446 len=512
+[4.44ms] ACK ack_num=416 cwnd=32.537833 ssthresh=16.000000
+[4.45ms] SEND seq=447 len=512
+[4.46ms] ACK ack_num=417 cwnd=32.568566 ssthresh=16.000000
+[4.46ms] SEND seq=448 len=512
+[4.47ms] ACK ack_num=418 cwnd=32.599271 ssthresh=16.000000
+[4.48ms] SEND seq=449 len=512
+[4.49ms] ACK ack_num=419 cwnd=32.629946 ssthresh=16.000000
+[4.51ms] SEND seq=450 len=512
+[4.51ms] ACK ack_num=420 cwnd=32.660593 ssthresh=16.000000
+[4.52ms] SEND seq=451 len=512
+[4.52ms] ACK ack_num=421 cwnd=32.691211 ssthresh=16.000000
+[4.52ms] SEND seq=452 len=512
+[4.53ms] ACK ack_num=422 cwnd=32.721800 ssthresh=16.000000
+[4.53ms] SEND seq=453 len=512
+[4.54ms] ACK ack_num=423 cwnd=32.752361 ssthresh=16.000000
+[4.55ms] SEND seq=454 len=512
+[4.56ms] ACK ack_num=424 cwnd=32.782893 ssthresh=16.000000
+[4.59ms] SEND seq=455 len=512
+[4.60ms] ACK ack_num=425 cwnd=32.813397 ssthresh=16.000000
+[4.62ms] SEND seq=456 len=512
+[4.63ms] ACK ack_num=426 cwnd=32.843872 ssthresh=16.000000
+[4.64ms] SEND seq=457 len=512
+[4.65ms] ACK ack_num=427 cwnd=32.874319 ssthresh=16.000000
+[4.66ms] SEND seq=458 len=512
+[4.67ms] ACK ack_num=428 cwnd=32.904738 ssthresh=16.000000
+[4.68ms] SEND seq=459 len=512
+[4.68ms] ACK ack_num=429 cwnd=32.935129 ssthresh=16.000000
+[4.69ms] SEND seq=460 len=512
+[4.70ms] ACK ack_num=430 cwnd=32.965491 ssthresh=16.000000
+[4.71ms] SEND seq=461 len=512
+[4.72ms] ACK ack_num=431 cwnd=32.995826 ssthresh=16.000000
+[4.74ms] SEND seq=462 len=512
+[4.74ms] ACK ack_num=432 cwnd=33.026133 ssthresh=16.000000
+[4.76ms] SEND seq=463 len=512
+[4.76ms] SEND seq=464 len=512
+[4.77ms] ACK ack_num=433 cwnd=33.056412 ssthresh=16.000000
+[4.77ms] SEND seq=465 len=512
+[4.78ms] ACK ack_num=434 cwnd=33.086663 ssthresh=16.000000
+[4.78ms] SEND seq=466 len=512
+[4.78ms] ACK ack_num=435 cwnd=33.116887 ssthresh=16.000000
+[4.79ms] SEND seq=467 len=512
+[4.80ms] ACK ack_num=436 cwnd=33.147083 ssthresh=16.000000
+[4.82ms] SEND seq=468 len=512
+[4.82ms] ACK ack_num=437 cwnd=33.177252 ssthresh=16.000000
+[4.84ms] SEND seq=469 len=512
+[4.85ms] ACK ack_num=438 cwnd=33.207393 ssthresh=16.000000
+[4.86ms] SEND seq=470 len=512
+[4.87ms] ACK ack_num=439 cwnd=33.237507 ssthresh=16.000000
+[4.88ms] SEND seq=471 len=512
+[4.89ms] ACK ack_num=440 cwnd=33.267593 ssthresh=16.000000
+[4.90ms] SEND seq=472 len=512
+[4.91ms] ACK ack_num=441 cwnd=33.297652 ssthresh=16.000000
+[4.93ms] SEND seq=473 len=512
+[4.93ms] ACK ack_num=442 cwnd=33.327684 ssthresh=16.000000
+[4.95ms] SEND seq=474 len=512
+[4.95ms] ACK ack_num=443 cwnd=33.357690 ssthresh=16.000000
+[4.97ms] SEND seq=475 len=512
+[4.97ms] ACK ack_num=444 cwnd=33.387668 ssthresh=16.000000
+[4.99ms] SEND seq=476 len=512
+[5.00ms] ACK ack_num=445 cwnd=33.417619 ssthresh=16.000000
+[5.01ms] SEND seq=477 len=512
+[5.02ms] ACK ack_num=446 cwnd=33.447543 ssthresh=16.000000
+[5.03ms] SEND seq=478 len=512
+[5.04ms] ACK ack_num=447 cwnd=33.477441 ssthresh=16.000000
+[5.05ms] SEND seq=479 len=512
+[5.06ms] ACK ack_num=448 cwnd=33.507312 ssthresh=16.000000
+[5.06ms] SEND seq=480 len=512
+[5.07ms] ACK ack_num=449 cwnd=33.537156 ssthresh=16.000000
+[5.07ms] SEND seq=481 len=512
+[5.08ms] ACK ack_num=450 cwnd=33.566974 ssthresh=16.000000
+[5.09ms] SEND seq=482 len=512
+[5.10ms] ACK ack_num=451 cwnd=33.596765 ssthresh=16.000000
+[5.11ms] SEND seq=483 len=512
+[5.12ms] ACK ack_num=452 cwnd=33.626529 ssthresh=16.000000
+[5.13ms] SEND seq=484 len=512
+[5.14ms] ACK ack_num=453 cwnd=33.656268 ssthresh=16.000000
+[5.14ms] SEND seq=485 len=512
+[5.15ms] ACK ack_num=454 cwnd=33.685980 ssthresh=16.000000
+[5.17ms] SEND seq=486 len=512
+[5.17ms] ACK ack_num=455 cwnd=33.715666 ssthresh=16.000000
+[5.19ms] SEND seq=487 len=512
+[5.20ms] ACK ack_num=456 cwnd=33.745326 ssthresh=16.000000
+[5.21ms] SEND seq=488 len=512
+[5.22ms] ACK ack_num=457 cwnd=33.774960 ssthresh=16.000000
+[5.23ms] SEND seq=489 len=512
+[5.24ms] ACK ack_num=458 cwnd=33.804567 ssthresh=16.000000
+[5.25ms] SEND seq=490 len=512
+[5.26ms] ACK ack_num=459 cwnd=33.834149 ssthresh=16.000000
+[5.27ms] SEND seq=491 len=512
+[5.28ms] ACK ack_num=460 cwnd=33.863705 ssthresh=16.000000
+[5.28ms] SEND seq=492 len=512
+[5.29ms] ACK ack_num=461 cwnd=33.893235 ssthresh=16.000000
+[5.30ms] SEND seq=493 len=512
+[5.31ms] ACK ack_num=462 cwnd=33.922740 ssthresh=16.000000
+[5.32ms] SEND seq=494 len=512
+[5.33ms] ACK ack_num=463 cwnd=33.952218 ssthresh=16.000000
+[5.34ms] SEND seq=495 len=512
+[5.35ms] ACK ack_num=464 cwnd=33.981671 ssthresh=16.000000
+[5.35ms] SEND seq=496 len=512
+[5.36ms] ACK ack_num=465 cwnd=34.011099 ssthresh=16.000000
+[5.36ms] SEND seq=497 len=512
+[5.36ms] SEND seq=498 len=512
+[5.37ms] ACK ack_num=466 cwnd=34.040501 ssthresh=16.000000
+[5.38ms] SEND seq=499 len=512
+[5.39ms] ACK ack_num=467 cwnd=34.069878 ssthresh=16.000000
+[5.40ms] SEND seq=500 len=512
+[5.41ms] ACK ack_num=468 cwnd=34.099229 ssthresh=16.000000
+[5.42ms] SEND seq=501 len=512
+[5.43ms] ACK ack_num=469 cwnd=34.128556 ssthresh=16.000000
+[5.46ms] SEND seq=502 len=512
+[5.46ms] ACK ack_num=470 cwnd=34.157857 ssthresh=16.000000
+[5.48ms] SEND seq=503 len=512
+[5.49ms] ACK ack_num=471 cwnd=34.187132 ssthresh=16.000000
+[5.50ms] SEND seq=504 len=512
+[5.51ms] ACK ack_num=472 cwnd=34.216383 ssthresh=16.000000
+[5.51ms] SEND seq=505 len=512
+[5.52ms] ACK ack_num=473 cwnd=34.245609 ssthresh=16.000000
+[5.53ms] SEND seq=506 len=512
+[5.54ms] ACK ack_num=474 cwnd=34.274810 ssthresh=16.000000
+[5.54ms] SEND seq=507 len=512
+[5.55ms] ACK ack_num=475 cwnd=34.303986 ssthresh=16.000000
+[5.56ms] SEND seq=508 len=512
+[5.57ms] ACK ack_num=476 cwnd=34.333137 ssthresh=16.000000
+[5.58ms] SEND seq=509 len=512
+[5.59ms] ACK ack_num=477 cwnd=34.362263 ssthresh=16.000000
+[5.60ms] SEND seq=510 len=512
+[5.61ms] ACK ack_num=478 cwnd=34.391365 ssthresh=16.000000
+[5.63ms] SEND seq=511 len=512
+[5.63ms] ACK ack_num=479 cwnd=34.420442 ssthresh=16.000000
+[5.64ms] SEND seq=512 len=512
+[5.64ms] ACK ack_num=480 cwnd=34.449495 ssthresh=16.000000
+[5.66ms] SEND seq=513 len=512
+[5.68ms] ACK ack_num=481 cwnd=34.478523 ssthresh=16.000000
+[5.70ms] SEND seq=514 len=512
+[5.70ms] ACK ack_num=482 cwnd=34.507526 ssthresh=16.000000
+[5.72ms] SEND seq=515 len=512
+[5.73ms] ACK ack_num=483 cwnd=34.536505 ssthresh=16.000000
+[5.74ms] SEND seq=516 len=512
+[5.75ms] ACK ack_num=484 cwnd=34.565460 ssthresh=16.000000
+[5.76ms] SEND seq=517 len=512
+[5.77ms] ACK ack_num=485 cwnd=34.594391 ssthresh=16.000000
+[5.78ms] SEND seq=518 len=512
+[5.79ms] ACK ack_num=486 cwnd=34.623297 ssthresh=16.000000
+[5.80ms] SEND seq=519 len=512
+[5.81ms] ACK ack_num=487 cwnd=34.652179 ssthresh=16.000000
+[5.83ms] SEND seq=520 len=512
+[5.84ms] ACK ack_num=488 cwnd=34.681038 ssthresh=16.000000
+[5.84ms] SEND seq=521 len=512
+[5.85ms] ACK ack_num=489 cwnd=34.709872 ssthresh=16.000000
+[5.85ms] SEND seq=522 len=512
+[5.86ms] ACK ack_num=490 cwnd=34.738682 ssthresh=16.000000
+[5.87ms] SEND seq=523 len=512
+[5.88ms] ACK ack_num=491 cwnd=34.767468 ssthresh=16.000000
+[5.89ms] SEND seq=524 len=512
+[5.90ms] ACK ack_num=492 cwnd=34.796231 ssthresh=16.000000
+[5.90ms] SEND seq=525 len=512
+[5.91ms] ACK ack_num=493 cwnd=34.824970 ssthresh=16.000000
+[5.92ms] SEND seq=526 len=512
+[5.93ms] ACK ack_num=494 cwnd=34.853685 ssthresh=16.000000
+[5.94ms] SEND seq=527 len=512
+[5.95ms] ACK ack_num=495 cwnd=34.882376 ssthresh=16.000000
+[5.95ms] SEND seq=528 len=512
+[5.96ms] ACK ack_num=496 cwnd=34.911044 ssthresh=16.000000
+[5.96ms] SEND seq=529 len=512
+[5.97ms] ACK ack_num=497 cwnd=34.939688 ssthresh=16.000000
+[5.98ms] SEND seq=530 len=512
+[5.99ms] ACK ack_num=498 cwnd=34.968309 ssthresh=16.000000
+[6.01ms] SEND seq=531 len=512
+[6.02ms] ACK ack_num=499 cwnd=34.996906 ssthresh=16.000000
+[6.03ms] SEND seq=532 len=512
+[6.04ms] ACK ack_num=500 cwnd=35.025480 ssthresh=16.000000
+[6.06ms] SEND seq=533 len=512
+[6.06ms] SEND seq=534 len=512
+[6.07ms] ACK ack_num=501 cwnd=35.054031 ssthresh=16.000000
+[6.08ms] SEND seq=535 len=512
+[6.09ms] ACK ack_num=502 cwnd=35.082558 ssthresh=16.000000
+[6.10ms] SEND seq=536 len=512
+[6.11ms] ACK ack_num=503 cwnd=35.111062 ssthresh=16.000000
+[6.12ms] SEND seq=537 len=512
+[6.13ms] ACK ack_num=504 cwnd=35.139543 ssthresh=16.000000
+[6.14ms] SEND seq=538 len=512
+[6.14ms] ACK ack_num=505 cwnd=35.168001 ssthresh=16.000000
+[6.15ms] SEND seq=539 len=512
+[6.16ms] ACK ack_num=506 cwnd=35.196436 ssthresh=16.000000
+[6.17ms] SEND seq=540 len=512
+[6.17ms] ACK ack_num=507 cwnd=35.224848 ssthresh=16.000000
+[6.18ms] SEND seq=541 len=512
+[6.18ms] ACK ack_num=508 cwnd=35.253237 ssthresh=16.000000
+[6.18ms] SEND seq=542 len=512
+[6.19ms] ACK ack_num=509 cwnd=35.281604 ssthresh=16.000000
+[6.19ms] SEND seq=543 len=512
+[6.19ms] ACK ack_num=510 cwnd=35.309947 ssthresh=16.000000
+[6.19ms] SEND seq=544 len=512
+[6.20ms] ACK ack_num=511 cwnd=35.338268 ssthresh=16.000000
+[6.20ms] SEND seq=545 len=512
+[6.21ms] ACK ack_num=512 cwnd=35.366566 ssthresh=16.000000
+[6.21ms] SEND seq=546 len=512
+[6.21ms] ACK ack_num=513 cwnd=35.394841 ssthresh=16.000000
+[6.22ms] SEND seq=547 len=512
+[6.22ms] ACK ack_num=514 cwnd=35.423094 ssthresh=16.000000
+[6.24ms] SEND seq=548 len=512
+[6.24ms] ACK ack_num=515 cwnd=35.451324 ssthresh=16.000000
+[6.25ms] SEND seq=549 len=512
+[6.25ms] ACK ack_num=516 cwnd=35.479531 ssthresh=16.000000
+[6.25ms] SEND seq=550 len=512
+[6.26ms] ACK ack_num=517 cwnd=35.507717 ssthresh=16.000000
+[6.26ms] SEND seq=551 len=512
+[6.26ms] ACK ack_num=518 cwnd=35.535880 ssthresh=16.000000
+[6.27ms] SEND seq=552 len=512
+[6.27ms] ACK ack_num=519 cwnd=35.564020 ssthresh=16.000000
+[6.27ms] SEND seq=553 len=512
+[6.28ms] ACK ack_num=520 cwnd=35.592138 ssthresh=16.000000
+[6.28ms] SEND seq=554 len=512
+[6.29ms] ACK ack_num=521 cwnd=35.620235 ssthresh=16.000000
+[6.30ms] SEND seq=555 len=512
+[6.31ms] ACK ack_num=522 cwnd=35.648308 ssthresh=16.000000
+[6.32ms] SEND seq=556 len=512
+[6.33ms] ACK ack_num=523 cwnd=35.676360 ssthresh=16.000000
+[6.33ms] SEND seq=557 len=512
+[6.34ms] ACK ack_num=524 cwnd=35.704390 ssthresh=16.000000
+[6.35ms] SEND seq=558 len=512
+[6.36ms] ACK ack_num=525 cwnd=35.732398 ssthresh=16.000000
+[6.37ms] SEND seq=559 len=512
+[6.38ms] ACK ack_num=526 cwnd=35.760384 ssthresh=16.000000
+[6.40ms] SEND seq=560 len=512
+[6.41ms] ACK ack_num=527 cwnd=35.788347 ssthresh=16.000000
+[6.42ms] SEND seq=561 len=512
+[6.43ms] ACK ack_num=528 cwnd=35.816290 ssthresh=16.000000
+[6.46ms] SEND seq=562 len=512
+[6.47ms] ACK ack_num=529 cwnd=35.844210 ssthresh=16.000000
+[6.47ms] SEND seq=563 len=512
+[6.48ms] ACK ack_num=530 cwnd=35.872108 ssthresh=16.000000
+[6.50ms] SEND seq=564 len=512
+[6.50ms] ACK ack_num=531 cwnd=35.899985 ssthresh=16.000000
+[6.52ms] SEND seq=565 len=512
+[6.52ms] ACK ack_num=532 cwnd=35.927840 ssthresh=16.000000
+[6.54ms] SEND seq=566 len=512
+[6.55ms] ACK ack_num=533 cwnd=35.955674 ssthresh=16.000000
+[6.57ms] SEND seq=567 len=512
+[6.58ms] ACK ack_num=534 cwnd=35.983486 ssthresh=16.000000
+[6.59ms] SEND seq=568 len=512
+[6.60ms] ACK ack_num=535 cwnd=36.011276 ssthresh=16.000000
+[6.61ms] SEND seq=569 len=512
+[6.62ms] SEND seq=570 len=512
+[6.63ms] ACK ack_num=536 cwnd=36.039045 ssthresh=16.000000
+[6.64ms] SEND seq=571 len=512
+[6.65ms] ACK ack_num=537 cwnd=36.066793 ssthresh=16.000000
+[6.66ms] SEND seq=572 len=512
+[6.66ms] ACK ack_num=538 cwnd=36.094520 ssthresh=16.000000
+[6.67ms] SEND seq=573 len=512
+[6.68ms] ACK ack_num=539 cwnd=36.122225 ssthresh=16.000000
+[6.68ms] SEND seq=574 len=512
+[6.69ms] ACK ack_num=540 cwnd=36.149908 ssthresh=16.000000
+[6.69ms] SEND seq=575 len=512
+[6.70ms] ACK ack_num=541 cwnd=36.177571 ssthresh=16.000000
+[6.70ms] SEND seq=576 len=512
+[6.70ms] ACK ack_num=542 cwnd=36.205212 ssthresh=16.000000
+[6.71ms] SEND seq=577 len=512
+[6.71ms] ACK ack_num=543 cwnd=36.232833 ssthresh=16.000000
+[6.72ms] SEND seq=578 len=512
+[6.72ms] ACK ack_num=544 cwnd=36.260432 ssthresh=16.000000
+[6.73ms] SEND seq=579 len=512
+[6.74ms] ACK ack_num=545 cwnd=36.288010 ssthresh=16.000000
+[6.75ms] SEND seq=580 len=512
+[6.77ms] ACK ack_num=546 cwnd=36.315568 ssthresh=16.000000
+[6.78ms] SEND seq=581 len=512
+[6.79ms] ACK ack_num=547 cwnd=36.343104 ssthresh=16.000000
+[6.80ms] SEND seq=582 len=512
+[6.80ms] ACK ack_num=548 cwnd=36.370619 ssthresh=16.000000
+[6.80ms] SEND seq=583 len=512
+[6.81ms] ACK ack_num=549 cwnd=36.398114 ssthresh=16.000000
+[6.81ms] SEND seq=584 len=512
+[6.81ms] ACK ack_num=550 cwnd=36.425588 ssthresh=16.000000
+[6.82ms] SEND seq=585 len=480
+[6.82ms] ACK ack_num=551 cwnd=36.453041 ssthresh=16.000000
+[6.82ms] ACK ack_num=552 cwnd=36.480474 ssthresh=16.000000
+[6.83ms] ACK ack_num=553 cwnd=36.507886 ssthresh=16.000000
+[6.83ms] ACK ack_num=554 cwnd=36.535277 ssthresh=16.000000
+[6.84ms] ACK ack_num=555 cwnd=36.562648 ssthresh=16.000000
+[6.84ms] ACK ack_num=556 cwnd=36.589998 ssthresh=16.000000
+[6.85ms] ACK ack_num=557 cwnd=36.617328 ssthresh=16.000000
+[6.85ms] ACK ack_num=558 cwnd=36.644638 ssthresh=16.000000
+[6.85ms] ACK ack_num=559 cwnd=36.671927 ssthresh=16.000000
+[6.86ms] ACK ack_num=560 cwnd=36.699196 ssthresh=16.000000
+[6.86ms] ACK ack_num=561 cwnd=36.726444 ssthresh=16.000000
+[6.86ms] ACK ack_num=562 cwnd=36.753673 ssthresh=16.000000
+[6.87ms] ACK ack_num=563 cwnd=36.780881 ssthresh=16.000000
+[6.87ms] ACK ack_num=564 cwnd=36.808069 ssthresh=16.000000
+[6.88ms] ACK ack_num=565 cwnd=36.835237 ssthresh=16.000000
+[6.88ms] ACK ack_num=566 cwnd=36.862385 ssthresh=16.000000
+[6.88ms] ACK ack_num=567 cwnd=36.889513 ssthresh=16.000000
+[6.89ms] ACK ack_num=568 cwnd=36.916620 ssthresh=16.000000
+[6.89ms] ACK ack_num=569 cwnd=36.943709 ssthresh=16.000000
+[6.89ms] ACK ack_num=570 cwnd=36.970777 ssthresh=16.000000
+[6.90ms] ACK ack_num=571 cwnd=36.997825 ssthresh=16.000000
+[6.90ms] ACK ack_num=572 cwnd=37.024854 ssthresh=16.000000
+[6.90ms] ACK ack_num=573 cwnd=37.051863 ssthresh=16.000000
+[6.91ms] ACK ack_num=574 cwnd=37.078852 ssthresh=16.000000
+[6.91ms] ACK ack_num=575 cwnd=37.105821 ssthresh=16.000000
+[6.92ms] ACK ack_num=576 cwnd=37.132771 ssthresh=16.000000
+[6.92ms] ACK ack_num=577 cwnd=37.159702 ssthresh=16.000000
+[6.92ms] ACK ack_num=578 cwnd=37.186613 ssthresh=16.000000
+[6.93ms] ACK ack_num=579 cwnd=37.213504 ssthresh=16.000000
+[6.93ms] ACK ack_num=580 cwnd=37.240376 ssthresh=16.000000
+[6.93ms] ACK ack_num=581 cwnd=37.267229 ssthresh=16.000000
+[6.94ms] ACK ack_num=582 cwnd=37.294062 ssthresh=16.000000
+[6.94ms] ACK ack_num=583 cwnd=37.320876 ssthresh=16.000000
+[6.94ms] ACK ack_num=584 cwnd=37.347670 ssthresh=16.000000
+[6.95ms] ACK ack_num=585 cwnd=37.374446 ssthresh=16.000000
+[6.96ms] ACK ack_num=586 cwnd=37.401202 ssthresh=16.000000
+[6.97ms] SEND_FIN attempt=1
+[7.02ms] FIN_ACK received

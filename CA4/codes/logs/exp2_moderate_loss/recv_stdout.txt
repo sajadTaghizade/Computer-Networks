@@ -1,0 +1,9 @@
+[receiver] listening on port 9302 -> output_exp2_moderate_loss.bin (loss=0.08, delay=50ms)
+[receiver] transfer complete
+  bytes written        : 300000
+  packets received     : 854
+  packets accepted     : 586
+  packets dropped(loss): 81
+  corrupt packets      : 0
+  duplicate/out-of-order: 186
+  elapsed time (ms)    : 51711.1

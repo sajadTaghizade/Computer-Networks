@@ -1,0 +1,9 @@
+[receiver] listening on port 9303 -> output_exp3_high_loss.bin (loss=0.2, delay=100ms)
+[receiver] transfer complete
+  bytes written        : 300000
+  packets received     : 1057
+  packets accepted     : 586
+  packets dropped(loss): 210
+  corrupt packets      : 0
+  duplicate/out-of-order: 260
+  elapsed time (ms)    : 104316
