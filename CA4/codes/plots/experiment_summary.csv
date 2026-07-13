@@ -1,0 +1,4 @@
+name,label,file_matches,total_packets,packets_sent,retransmissions,fast_retransmits,timeouts,elapsed_ms,throughput_bps
+exp1_no_loss,"loss=0%, delay=0ms",True,586,586,0,0,0,7.01979,4.27363e+07
+exp2_moderate_loss,"loss=8%, delay=50ms",True,586,853,267,39,57,51408.9,5835.57
+exp3_high_loss,"loss=20%, delay=100ms",True,586,1056,470,12,148,104013,2884.25

@@ -1,0 +1,9 @@
+[receiver] listening on port 9301 -> output_exp1_no_loss.bin (loss=0, delay=0ms)
+[receiver] transfer complete
+  bytes written        : 300000
+  packets received     : 587
+  packets accepted     : 586
+  packets dropped(loss): 0
+  corrupt packets      : 0
+  duplicate/out-of-order: 0
+  elapsed time (ms)    : 308.982
