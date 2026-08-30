@@ -1,0 +1,12 @@
+[sender] transfer complete
+  mode                 : stop-and-wait
+  total packets        : 223
+  total bytes           : 114000
+  packets sent (w/ rtx) : 223
+  retransmissions       : 0
+  fast retransmits      : 0
+  timeouts              : 0
+  acks received         : 223
+  elapsed time (ms)     : 18.2886
+  throughput (bytes/s)  : 6.2334e+06
+MATCH stopwait

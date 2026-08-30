@@ -1,0 +1,1353 @@
+[0.07ms] SEND seq=0 len=512
+[0.10ms] SEND seq=1 len=512
+[0.10ms] SEND seq=2 len=512
+[0.11ms] SEND seq=3 len=512
+[0.11ms] SEND seq=4 len=512
+[0.11ms] SEND seq=5 len=512
+[0.11ms] SEND seq=6 len=512
+[0.11ms] SEND seq=7 len=512
+[20.66ms] ACK ack_num=1 cwnd=1.000000 ssthresh=16.000000
+[20.70ms] SEND seq=8 len=512
+[40.88ms] ACK ack_num=2 cwnd=1.000000 ssthresh=16.000000
+[40.92ms] SEND seq=9 len=512
+[61.10ms] ACK ack_num=3 cwnd=1.000000 ssthresh=16.000000
+[61.13ms] SEND seq=10 len=512
+[81.49ms] ACK ack_num=4 cwnd=1.000000 ssthresh=16.000000
+[81.54ms] SEND seq=11 len=512
+[101.67ms] ACK ack_num=5 cwnd=1.000000 ssthresh=16.000000
+[101.70ms] SEND seq=12 len=512
+[121.93ms] ACK ack_num=6 cwnd=1.000000 ssthresh=16.000000
+[121.97ms] SEND seq=13 len=512
+[142.11ms] ACK ack_num=7 cwnd=1.000000 ssthresh=16.000000
+[142.15ms] SEND seq=14 len=512
+[162.30ms] ACK ack_num=8 cwnd=1.000000 ssthresh=16.000000
+[162.34ms] SEND seq=15 len=512
+[182.54ms] ACK ack_num=9 cwnd=1.000000 ssthresh=16.000000
+[182.64ms] SEND seq=16 len=512
+[202.70ms] ACK ack_num=10 cwnd=1.000000 ssthresh=16.000000
+[202.74ms] SEND seq=17 len=512
+[222.95ms] ACK ack_num=11 cwnd=1.000000 ssthresh=16.000000
+[223.00ms] SEND seq=18 len=512
+[243.26ms] DUP_ACK ack_num=11 count=1
+[263.54ms] DUP_ACK ack_num=11 count=2
+[283.68ms] DUP_ACK ack_num=11 count=3
+[303.94ms] DUP_ACK ack_num=11 count=4
+[324.21ms] DUP_ACK ack_num=11 count=5
+[344.54ms] DUP_ACK ack_num=11 count=6
+[523.24ms] TIMEOUT sendBase=11 nextSeq=19
+[523.33ms] RETRANSMIT seq=11 len=512 [RETRANSMIT]
+[523.34ms] RETRANSMIT seq=12 len=512 [RETRANSMIT]
+[523.34ms] RETRANSMIT seq=13 len=512 [RETRANSMIT]
+[523.34ms] RETRANSMIT seq=14 len=512 [RETRANSMIT]
+[523.34ms] RETRANSMIT seq=15 len=512 [RETRANSMIT]
+[523.34ms] RETRANSMIT seq=16 len=512 [RETRANSMIT]
+[523.35ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[523.35ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[543.75ms] ACK ack_num=12 cwnd=1.000000 ssthresh=16.000000
+[543.81ms] SEND seq=19 len=512
+[564.01ms] ACK ack_num=13 cwnd=1.000000 ssthresh=16.000000
+[564.05ms] SEND seq=20 len=512
+[584.22ms] ACK ack_num=14 cwnd=1.000000 ssthresh=16.000000
+[584.26ms] SEND seq=21 len=512
+[604.65ms] DUP_ACK ack_num=14 count=1
+[624.85ms] DUP_ACK ack_num=14 count=2
+[645.23ms] DUP_ACK ack_num=14 count=3
+[665.35ms] DUP_ACK ack_num=14 count=4
+[685.54ms] DUP_ACK ack_num=14 count=5
+[884.62ms] TIMEOUT sendBase=14 nextSeq=22
+[884.73ms] RETRANSMIT seq=14 len=512 [RETRANSMIT]
+[884.74ms] RETRANSMIT seq=15 len=512 [RETRANSMIT]
+[884.74ms] RETRANSMIT seq=16 len=512 [RETRANSMIT]
+[884.76ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[884.76ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[884.77ms] RETRANSMIT seq=19 len=512 [RETRANSMIT]
+[884.77ms] RETRANSMIT seq=20 len=512 [RETRANSMIT]
+[884.77ms] RETRANSMIT seq=21 len=512 [RETRANSMIT]
+[905.22ms] ACK ack_num=15 cwnd=1.000000 ssthresh=16.000000
+[905.27ms] SEND seq=22 len=512
+[925.54ms] ACK ack_num=16 cwnd=1.000000 ssthresh=16.000000
+[925.62ms] SEND seq=23 len=512
+[945.83ms] ACK ack_num=17 cwnd=1.000000 ssthresh=16.000000
+[945.88ms] SEND seq=24 len=512
+[966.18ms] DUP_ACK ack_num=17 count=1
+[986.45ms] DUP_ACK ack_num=17 count=2
+[1006.82ms] DUP_ACK ack_num=17 count=3
+[1027.25ms] DUP_ACK ack_num=17 count=4
+[1047.28ms] DUP_ACK ack_num=17 count=5
+[1246.39ms] TIMEOUT sendBase=17 nextSeq=25
+[1246.49ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[1246.50ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[1246.50ms] RETRANSMIT seq=19 len=512 [RETRANSMIT]
+[1246.51ms] RETRANSMIT seq=20 len=512 [RETRANSMIT]
+[1246.51ms] RETRANSMIT seq=21 len=512 [RETRANSMIT]
+[1246.51ms] RETRANSMIT seq=22 len=512 [RETRANSMIT]
+[1246.51ms] RETRANSMIT seq=23 len=512 [RETRANSMIT]
+[1246.52ms] RETRANSMIT seq=24 len=512 [RETRANSMIT]
+[1267.01ms] DUP_ACK ack_num=17 count=1
+[1287.22ms] DUP_ACK ack_num=17 count=2
+[1307.54ms] DUP_ACK ack_num=17 count=3
+[1327.85ms] DUP_ACK ack_num=17 count=4
+[1348.20ms] DUP_ACK ack_num=17 count=5
+[1368.42ms] DUP_ACK ack_num=17 count=6
+[1388.62ms] DUP_ACK ack_num=17 count=7
+[1546.79ms] TIMEOUT sendBase=17 nextSeq=25
+[1546.90ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[1546.91ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[1546.91ms] RETRANSMIT seq=19 len=512 [RETRANSMIT]
+[1546.92ms] RETRANSMIT seq=20 len=512 [RETRANSMIT]
+[1546.92ms] RETRANSMIT seq=21 len=512 [RETRANSMIT]
+[1546.92ms] RETRANSMIT seq=22 len=512 [RETRANSMIT]
+[1546.92ms] RETRANSMIT seq=23 len=512 [RETRANSMIT]
+[1546.93ms] RETRANSMIT seq=24 len=512 [RETRANSMIT]
+[1567.33ms] DUP_ACK ack_num=17 count=1
+[1587.71ms] DUP_ACK ack_num=17 count=2
+[1607.81ms] DUP_ACK ack_num=17 count=3
+[1627.99ms] DUP_ACK ack_num=17 count=4
+[1648.25ms] DUP_ACK ack_num=17 count=5
+[1668.49ms] DUP_ACK ack_num=17 count=6
+[1688.72ms] DUP_ACK ack_num=17 count=7
+[1847.23ms] TIMEOUT sendBase=17 nextSeq=25
+[1847.35ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[1847.36ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[1847.36ms] RETRANSMIT seq=19 len=512 [RETRANSMIT]
+[1847.36ms] RETRANSMIT seq=20 len=512 [RETRANSMIT]
+[1847.37ms] RETRANSMIT seq=21 len=512 [RETRANSMIT]
+[1847.38ms] RETRANSMIT seq=22 len=512 [RETRANSMIT]
+[1847.38ms] RETRANSMIT seq=23 len=512 [RETRANSMIT]
+[1847.38ms] RETRANSMIT seq=24 len=512 [RETRANSMIT]
+[1913.01ms] DUP_ACK ack_num=17 count=1
+[1933.28ms] DUP_ACK ack_num=17 count=2
+[1953.51ms] DUP_ACK ack_num=17 count=3
+[1973.74ms] DUP_ACK ack_num=17 count=4
+[1993.98ms] DUP_ACK ack_num=17 count=5
+[2014.27ms] DUP_ACK ack_num=17 count=6
+[2147.61ms] TIMEOUT sendBase=17 nextSeq=25
+[2147.70ms] RETRANSMIT seq=17 len=512 [RETRANSMIT]
+[2147.71ms] RETRANSMIT seq=18 len=512 [RETRANSMIT]
+[2147.71ms] RETRANSMIT seq=19 len=512 [RETRANSMIT]
+[2147.72ms] RETRANSMIT seq=20 len=512 [RETRANSMIT]
+[2147.72ms] RETRANSMIT seq=21 len=512 [RETRANSMIT]
+[2147.72ms] RETRANSMIT seq=22 len=512 [RETRANSMIT]
+[2147.72ms] RETRANSMIT seq=23 len=512 [RETRANSMIT]
+[2147.73ms] RETRANSMIT seq=24 len=512 [RETRANSMIT]
+[2168.15ms] ACK ack_num=18 cwnd=1.000000 ssthresh=16.000000
+[2168.19ms] SEND seq=25 len=512
+[2188.36ms] ACK ack_num=19 cwnd=1.000000 ssthresh=16.000000
+[2188.41ms] SEND seq=26 len=512
+[2208.54ms] ACK ack_num=20 cwnd=1.000000 ssthresh=16.000000
+[2208.58ms] SEND seq=27 len=512
+[2228.94ms] ACK ack_num=21 cwnd=1.000000 ssthresh=16.000000
+[2228.98ms] SEND seq=28 len=512
+[2249.17ms] ACK ack_num=22 cwnd=1.000000 ssthresh=16.000000
+[2249.21ms] SEND seq=29 len=512
+[2269.43ms] DUP_ACK ack_num=22 count=1
+[2289.69ms] DUP_ACK ack_num=22 count=2
+[2309.92ms] DUP_ACK ack_num=22 count=3
+[2330.16ms] DUP_ACK ack_num=22 count=4
+[2549.56ms] TIMEOUT sendBase=22 nextSeq=30
+[2549.70ms] RETRANSMIT seq=22 len=512 [RETRANSMIT]
+[2549.71ms] RETRANSMIT seq=23 len=512 [RETRANSMIT]
+[2549.71ms] RETRANSMIT seq=24 len=512 [RETRANSMIT]
+[2549.72ms] RETRANSMIT seq=25 len=512 [RETRANSMIT]
+[2549.72ms] RETRANSMIT seq=26 len=512 [RETRANSMIT]
+[2549.73ms] RETRANSMIT seq=27 len=512 [RETRANSMIT]
+[2549.73ms] RETRANSMIT seq=28 len=512 [RETRANSMIT]
+[2549.73ms] RETRANSMIT seq=29 len=512 [RETRANSMIT]
+[2570.20ms] ACK ack_num=23 cwnd=1.000000 ssthresh=16.000000
+[2570.26ms] SEND seq=30 len=512
+[2590.44ms] ACK ack_num=24 cwnd=1.000000 ssthresh=16.000000
+[2590.49ms] SEND seq=31 len=512
+[2610.79ms] ACK ack_num=25 cwnd=1.000000 ssthresh=16.000000
+[2610.83ms] SEND seq=32 len=512
+[2631.00ms] ACK ack_num=26 cwnd=1.000000 ssthresh=16.000000
+[2631.04ms] SEND seq=33 len=512
+[2651.13ms] ACK ack_num=27 cwnd=1.000000 ssthresh=16.000000
+[2651.16ms] SEND seq=34 len=512
+[2671.32ms] ACK ack_num=28 cwnd=1.000000 ssthresh=16.000000
+[2671.35ms] SEND seq=35 len=512
+[2691.54ms] DUP_ACK ack_num=28 count=1
+[2711.71ms] DUP_ACK ack_num=28 count=2
+[2731.95ms] DUP_ACK ack_num=28 count=3
+[2752.17ms] DUP_ACK ack_num=28 count=4
+[2772.33ms] DUP_ACK ack_num=28 count=5
+[2792.53ms] DUP_ACK ack_num=28 count=6
+[2971.68ms] TIMEOUT sendBase=28 nextSeq=36
+[2971.77ms] RETRANSMIT seq=28 len=512 [RETRANSMIT]
+[2971.77ms] RETRANSMIT seq=29 len=512 [RETRANSMIT]
+[2971.78ms] RETRANSMIT seq=30 len=512 [RETRANSMIT]
+[2971.78ms] RETRANSMIT seq=31 len=512 [RETRANSMIT]
+[2971.78ms] RETRANSMIT seq=32 len=512 [RETRANSMIT]
+[2971.78ms] RETRANSMIT seq=33 len=512 [RETRANSMIT]
+[2971.79ms] RETRANSMIT seq=34 len=512 [RETRANSMIT]
+[2971.79ms] RETRANSMIT seq=35 len=512 [RETRANSMIT]
+[2992.23ms] ACK ack_num=29 cwnd=1.000000 ssthresh=16.000000
+[2992.30ms] SEND seq=36 len=512
+[3012.50ms] ACK ack_num=30 cwnd=1.000000 ssthresh=16.000000
+[3012.54ms] SEND seq=37 len=512
+[3032.77ms] DUP_ACK ack_num=30 count=1
+[3052.94ms] DUP_ACK ack_num=30 count=2
+[3073.27ms] DUP_ACK ack_num=30 count=3
+[3093.49ms] DUP_ACK ack_num=30 count=4
+[3113.67ms] DUP_ACK ack_num=30 count=5
+[3133.83ms] DUP_ACK ack_num=30 count=6
+[3153.98ms] DUP_ACK ack_num=30 count=7
+[3312.76ms] TIMEOUT sendBase=30 nextSeq=38
+[3312.85ms] RETRANSMIT seq=30 len=512 [RETRANSMIT]
+[3312.86ms] RETRANSMIT seq=31 len=512 [RETRANSMIT]
+[3312.86ms] RETRANSMIT seq=32 len=512 [RETRANSMIT]
+[3312.86ms] RETRANSMIT seq=33 len=512 [RETRANSMIT]
+[3312.87ms] RETRANSMIT seq=34 len=512 [RETRANSMIT]
+[3312.87ms] RETRANSMIT seq=35 len=512 [RETRANSMIT]
+[3312.87ms] RETRANSMIT seq=36 len=512 [RETRANSMIT]
+[3312.87ms] RETRANSMIT seq=37 len=512 [RETRANSMIT]
+[3333.30ms] ACK ack_num=31 cwnd=1.000000 ssthresh=16.000000
+[3333.35ms] SEND seq=38 len=512
+[3353.66ms] ACK ack_num=32 cwnd=1.000000 ssthresh=16.000000
+[3353.71ms] SEND seq=39 len=512
+[3373.80ms] DUP_ACK ack_num=32 count=1
+[3394.00ms] DUP_ACK ack_num=32 count=2
+[3414.20ms] DUP_ACK ack_num=32 count=3
+[3434.35ms] DUP_ACK ack_num=32 count=4
+[3653.97ms] TIMEOUT sendBase=32 nextSeq=40
+[3654.06ms] RETRANSMIT seq=32 len=512 [RETRANSMIT]
+[3654.07ms] RETRANSMIT seq=33 len=512 [RETRANSMIT]
+[3654.07ms] RETRANSMIT seq=34 len=512 [RETRANSMIT]
+[3654.07ms] RETRANSMIT seq=35 len=512 [RETRANSMIT]
+[3654.08ms] RETRANSMIT seq=36 len=512 [RETRANSMIT]
+[3654.08ms] RETRANSMIT seq=37 len=512 [RETRANSMIT]
+[3654.08ms] RETRANSMIT seq=38 len=512 [RETRANSMIT]
+[3654.08ms] RETRANSMIT seq=39 len=512 [RETRANSMIT]
+[3674.47ms] DUP_ACK ack_num=32 count=1
+[3694.70ms] DUP_ACK ack_num=32 count=2
+[3714.91ms] DUP_ACK ack_num=32 count=3
+[3735.09ms] DUP_ACK ack_num=32 count=4
+[3755.36ms] DUP_ACK ack_num=32 count=5
+[3775.54ms] DUP_ACK ack_num=32 count=6
+[3795.77ms] DUP_ACK ack_num=32 count=7
+[3954.32ms] TIMEOUT sendBase=32 nextSeq=40
+[3954.41ms] RETRANSMIT seq=32 len=512 [RETRANSMIT]
+[3954.42ms] RETRANSMIT seq=33 len=512 [RETRANSMIT]
+[3954.42ms] RETRANSMIT seq=34 len=512 [RETRANSMIT]
+[3954.42ms] RETRANSMIT seq=35 len=512 [RETRANSMIT]
+[3954.42ms] RETRANSMIT seq=36 len=512 [RETRANSMIT]
+[3954.43ms] RETRANSMIT seq=37 len=512 [RETRANSMIT]
+[3954.43ms] RETRANSMIT seq=38 len=512 [RETRANSMIT]
+[3954.43ms] RETRANSMIT seq=39 len=512 [RETRANSMIT]
+[3974.81ms] ACK ack_num=33 cwnd=1.000000 ssthresh=16.000000
+[3974.84ms] SEND seq=40 len=512
+[3995.02ms] ACK ack_num=34 cwnd=1.000000 ssthresh=16.000000
+[3995.07ms] SEND seq=41 len=512
+[4015.24ms] ACK ack_num=35 cwnd=1.000000 ssthresh=16.000000
+[4015.29ms] SEND seq=42 len=512
+[4035.47ms] ACK ack_num=36 cwnd=1.000000 ssthresh=16.000000
+[4035.55ms] SEND seq=43 len=512
+[4055.73ms] ACK ack_num=37 cwnd=1.000000 ssthresh=16.000000
+[4055.77ms] SEND seq=44 len=512
+[4075.89ms] ACK ack_num=38 cwnd=1.000000 ssthresh=16.000000
+[4075.93ms] SEND seq=45 len=512
+[4096.13ms] ACK ack_num=39 cwnd=1.000000 ssthresh=16.000000
+[4096.17ms] SEND seq=46 len=512
+[4116.30ms] ACK ack_num=40 cwnd=1.000000 ssthresh=16.000000
+[4116.34ms] SEND seq=47 len=512
+[4136.47ms] DUP_ACK ack_num=40 count=1
+[4156.63ms] DUP_ACK ack_num=40 count=2
+[4176.84ms] DUP_ACK ack_num=40 count=3
+[4196.98ms] DUP_ACK ack_num=40 count=4
+[4217.20ms] DUP_ACK ack_num=40 count=5
+[4237.33ms] DUP_ACK ack_num=40 count=6
+[4257.52ms] DUP_ACK ack_num=40 count=7
+[4416.56ms] TIMEOUT sendBase=40 nextSeq=48
+[4416.68ms] RETRANSMIT seq=40 len=512 [RETRANSMIT]
+[4416.69ms] RETRANSMIT seq=41 len=512 [RETRANSMIT]
+[4416.69ms] RETRANSMIT seq=42 len=512 [RETRANSMIT]
+[4416.70ms] RETRANSMIT seq=43 len=512 [RETRANSMIT]
+[4416.70ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[4416.70ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[4416.71ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[4416.73ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[4437.10ms] ACK ack_num=41 cwnd=1.000000 ssthresh=16.000000
+[4437.16ms] SEND seq=48 len=512
+[4457.29ms] ACK ack_num=42 cwnd=1.000000 ssthresh=16.000000
+[4457.33ms] SEND seq=49 len=512
+[4477.48ms] ACK ack_num=43 cwnd=1.000000 ssthresh=16.000000
+[4477.50ms] SEND seq=50 len=512
+[4497.70ms] ACK ack_num=44 cwnd=1.000000 ssthresh=16.000000
+[4497.73ms] SEND seq=51 len=512
+[4517.93ms] DUP_ACK ack_num=44 count=1
+[4538.16ms] DUP_ACK ack_num=44 count=2
+[4558.33ms] DUP_ACK ack_num=44 count=3
+[4578.53ms] DUP_ACK ack_num=44 count=4
+[4598.77ms] DUP_ACK ack_num=44 count=5
+[4618.96ms] DUP_ACK ack_num=44 count=6
+[4797.97ms] TIMEOUT sendBase=44 nextSeq=52
+[4798.06ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[4798.07ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[4798.07ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[4798.08ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[4798.08ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[4798.08ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[4798.08ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[4798.09ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[4818.45ms] DUP_ACK ack_num=44 count=1
+[4838.79ms] DUP_ACK ack_num=44 count=2
+[4859.01ms] DUP_ACK ack_num=44 count=3
+[4879.24ms] DUP_ACK ack_num=44 count=4
+[4899.54ms] DUP_ACK ack_num=44 count=5
+[4919.73ms] DUP_ACK ack_num=44 count=6
+[4939.91ms] DUP_ACK ack_num=44 count=7
+[5098.38ms] TIMEOUT sendBase=44 nextSeq=52
+[5098.46ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[5098.47ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[5098.47ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[5098.48ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[5098.48ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[5098.48ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[5098.48ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[5098.49ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[5118.96ms] DUP_ACK ack_num=44 count=1
+[5139.16ms] DUP_ACK ack_num=44 count=2
+[5159.35ms] DUP_ACK ack_num=44 count=3
+[5179.53ms] DUP_ACK ack_num=44 count=4
+[5199.78ms] DUP_ACK ack_num=44 count=5
+[5398.81ms] TIMEOUT sendBase=44 nextSeq=52
+[5398.90ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[5398.91ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[5398.91ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[5398.92ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[5398.94ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[5398.94ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[5398.95ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[5398.95ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[5419.45ms] DUP_ACK ack_num=44 count=1
+[5439.67ms] DUP_ACK ack_num=44 count=2
+[5459.86ms] DUP_ACK ack_num=44 count=3
+[5480.04ms] DUP_ACK ack_num=44 count=4
+[5500.29ms] DUP_ACK ack_num=44 count=5
+[5520.54ms] DUP_ACK ack_num=44 count=6
+[5699.29ms] TIMEOUT sendBase=44 nextSeq=52
+[5699.38ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[5699.39ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[5699.39ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[5699.39ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[5699.39ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[5699.40ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[5699.40ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[5699.40ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[5719.90ms] DUP_ACK ack_num=44 count=1
+[5740.11ms] DUP_ACK ack_num=44 count=2
+[5760.37ms] DUP_ACK ack_num=44 count=3
+[5780.58ms] DUP_ACK ack_num=44 count=4
+[5800.81ms] DUP_ACK ack_num=44 count=5
+[5821.03ms] DUP_ACK ack_num=44 count=6
+[5999.68ms] TIMEOUT sendBase=44 nextSeq=52
+[5999.79ms] RETRANSMIT seq=44 len=512 [RETRANSMIT]
+[5999.79ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[5999.79ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[5999.80ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[5999.80ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[5999.80ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[5999.80ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[5999.81ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[6020.33ms] ACK ack_num=45 cwnd=1.000000 ssthresh=16.000000
+[6020.36ms] SEND seq=52 len=512
+[6040.76ms] DUP_ACK ack_num=45 count=1
+[6060.95ms] DUP_ACK ack_num=45 count=2
+[6081.20ms] DUP_ACK ack_num=45 count=3
+[6101.42ms] DUP_ACK ack_num=45 count=4
+[6121.64ms] DUP_ACK ack_num=45 count=5
+[6141.87ms] DUP_ACK ack_num=45 count=6
+[6320.69ms] TIMEOUT sendBase=45 nextSeq=53
+[6320.79ms] RETRANSMIT seq=45 len=512 [RETRANSMIT]
+[6320.80ms] RETRANSMIT seq=46 len=512 [RETRANSMIT]
+[6320.80ms] RETRANSMIT seq=47 len=512 [RETRANSMIT]
+[6320.81ms] RETRANSMIT seq=48 len=512 [RETRANSMIT]
+[6320.81ms] RETRANSMIT seq=49 len=512 [RETRANSMIT]
+[6320.86ms] RETRANSMIT seq=50 len=512 [RETRANSMIT]
+[6320.86ms] RETRANSMIT seq=51 len=512 [RETRANSMIT]
+[6320.86ms] RETRANSMIT seq=52 len=512 [RETRANSMIT]
+[6341.25ms] ACK ack_num=46 cwnd=1.000000 ssthresh=16.000000
+[6341.30ms] SEND seq=53 len=512
+[6361.47ms] ACK ack_num=47 cwnd=1.000000 ssthresh=16.000000
+[6361.51ms] SEND seq=54 len=512
+[6381.86ms] ACK ack_num=48 cwnd=1.000000 ssthresh=16.000000
+[6381.89ms] SEND seq=55 len=512
+[6402.09ms] ACK ack_num=49 cwnd=1.000000 ssthresh=16.000000
+[6402.13ms] SEND seq=56 len=512
+[6422.41ms] ACK ack_num=50 cwnd=1.000000 ssthresh=16.000000
+[6422.44ms] SEND seq=57 len=512
+[6442.66ms] ACK ack_num=51 cwnd=1.000000 ssthresh=16.000000
+[6442.70ms] SEND seq=58 len=512
+[6462.83ms] ACK ack_num=52 cwnd=1.000000 ssthresh=16.000000
+[6462.87ms] SEND seq=59 len=512
+[6483.06ms] DUP_ACK ack_num=52 count=1
+[6503.58ms] DUP_ACK ack_num=52 count=2
+[6523.67ms] DUP_ACK ack_num=52 count=3
+[6543.81ms] DUP_ACK ack_num=52 count=4
+[6563.99ms] DUP_ACK ack_num=52 count=5
+[6584.21ms] DUP_ACK ack_num=52 count=6
+[6604.42ms] DUP_ACK ack_num=52 count=7
+[6763.11ms] TIMEOUT sendBase=52 nextSeq=60
+[6763.19ms] RETRANSMIT seq=52 len=512 [RETRANSMIT]
+[6763.20ms] RETRANSMIT seq=53 len=512 [RETRANSMIT]
+[6763.20ms] RETRANSMIT seq=54 len=512 [RETRANSMIT]
+[6763.21ms] RETRANSMIT seq=55 len=512 [RETRANSMIT]
+[6763.21ms] RETRANSMIT seq=56 len=512 [RETRANSMIT]
+[6763.21ms] RETRANSMIT seq=57 len=512 [RETRANSMIT]
+[6763.21ms] RETRANSMIT seq=58 len=512 [RETRANSMIT]
+[6763.22ms] RETRANSMIT seq=59 len=512 [RETRANSMIT]
+[6783.62ms] ACK ack_num=53 cwnd=1.000000 ssthresh=16.000000
+[6783.66ms] SEND seq=60 len=512
+[6803.88ms] ACK ack_num=54 cwnd=1.000000 ssthresh=16.000000
+[6803.93ms] SEND seq=61 len=512
+[6824.13ms] ACK ack_num=55 cwnd=1.000000 ssthresh=16.000000
+[6824.16ms] SEND seq=62 len=512
+[6844.36ms] ACK ack_num=56 cwnd=1.000000 ssthresh=16.000000
+[6844.39ms] SEND seq=63 len=512
+[6901.93ms] ACK ack_num=57 cwnd=1.000000 ssthresh=16.000000
+[6902.03ms] SEND seq=64 len=512
+[6922.26ms] ACK ack_num=58 cwnd=1.000000 ssthresh=16.000000
+[6922.31ms] SEND seq=65 len=512
+[6942.47ms] ACK ack_num=59 cwnd=1.000000 ssthresh=16.000000
+[6942.52ms] SEND seq=66 len=512
+[6962.82ms] DUP_ACK ack_num=59 count=1
+[6983.04ms] DUP_ACK ack_num=59 count=2
+[7003.29ms] DUP_ACK ack_num=59 count=3
+[7023.54ms] DUP_ACK ack_num=59 count=4
+[7043.84ms] DUP_ACK ack_num=59 count=5
+[7242.78ms] TIMEOUT sendBase=59 nextSeq=67
+[7242.87ms] RETRANSMIT seq=59 len=512 [RETRANSMIT]
+[7242.87ms] RETRANSMIT seq=60 len=512 [RETRANSMIT]
+[7242.88ms] RETRANSMIT seq=61 len=512 [RETRANSMIT]
+[7242.88ms] RETRANSMIT seq=62 len=512 [RETRANSMIT]
+[7242.88ms] RETRANSMIT seq=63 len=512 [RETRANSMIT]
+[7242.88ms] RETRANSMIT seq=64 len=512 [RETRANSMIT]
+[7242.89ms] RETRANSMIT seq=65 len=512 [RETRANSMIT]
+[7242.89ms] RETRANSMIT seq=66 len=512 [RETRANSMIT]
+[7263.26ms] DUP_ACK ack_num=59 count=1
+[7283.47ms] DUP_ACK ack_num=59 count=2
+[7303.62ms] DUP_ACK ack_num=59 count=3
+[7323.82ms] DUP_ACK ack_num=59 count=4
+[7343.98ms] DUP_ACK ack_num=59 count=5
+[7543.23ms] TIMEOUT sendBase=59 nextSeq=67
+[7543.35ms] RETRANSMIT seq=59 len=512 [RETRANSMIT]
+[7543.36ms] RETRANSMIT seq=60 len=512 [RETRANSMIT]
+[7543.37ms] RETRANSMIT seq=61 len=512 [RETRANSMIT]
+[7543.37ms] RETRANSMIT seq=62 len=512 [RETRANSMIT]
+[7543.38ms] RETRANSMIT seq=63 len=512 [RETRANSMIT]
+[7543.38ms] RETRANSMIT seq=64 len=512 [RETRANSMIT]
+[7543.39ms] RETRANSMIT seq=65 len=512 [RETRANSMIT]
+[7543.39ms] RETRANSMIT seq=66 len=512 [RETRANSMIT]
+[7563.86ms] ACK ack_num=60 cwnd=1.000000 ssthresh=16.000000
+[7563.90ms] SEND seq=67 len=512
+[7584.04ms] ACK ack_num=61 cwnd=1.000000 ssthresh=16.000000
+[7584.09ms] SEND seq=68 len=512
+[7604.31ms] ACK ack_num=62 cwnd=1.000000 ssthresh=16.000000
+[7604.36ms] SEND seq=69 len=512
+[7624.51ms] ACK ack_num=63 cwnd=1.000000 ssthresh=16.000000
+[7624.55ms] SEND seq=70 len=512
+[7644.73ms] ACK ack_num=64 cwnd=1.000000 ssthresh=16.000000
+[7644.76ms] SEND seq=71 len=512
+[7664.95ms] DUP_ACK ack_num=64 count=1
+[7685.16ms] DUP_ACK ack_num=64 count=2
+[7709.98ms] DUP_ACK ack_num=64 count=3
+[7730.12ms] DUP_ACK ack_num=64 count=4
+[7750.27ms] DUP_ACK ack_num=64 count=5
+[7770.45ms] DUP_ACK ack_num=64 count=6
+[7790.75ms] DUP_ACK ack_num=64 count=7
+[7944.95ms] TIMEOUT sendBase=64 nextSeq=72
+[7945.03ms] RETRANSMIT seq=64 len=512 [RETRANSMIT]
+[7945.04ms] RETRANSMIT seq=65 len=512 [RETRANSMIT]
+[7945.04ms] RETRANSMIT seq=66 len=512 [RETRANSMIT]
+[7945.05ms] RETRANSMIT seq=67 len=512 [RETRANSMIT]
+[7945.05ms] RETRANSMIT seq=68 len=512 [RETRANSMIT]
+[7945.05ms] RETRANSMIT seq=69 len=512 [RETRANSMIT]
+[7945.05ms] RETRANSMIT seq=70 len=512 [RETRANSMIT]
+[7945.06ms] RETRANSMIT seq=71 len=512 [RETRANSMIT]
+[7965.36ms] ACK ack_num=65 cwnd=1.000000 ssthresh=16.000000
+[7965.40ms] SEND seq=72 len=512
+[7985.70ms] ACK ack_num=66 cwnd=1.000000 ssthresh=16.000000
+[7985.75ms] SEND seq=73 len=512
+[8005.97ms] ACK ack_num=67 cwnd=1.000000 ssthresh=16.000000
+[8006.03ms] SEND seq=74 len=512
+[8026.20ms] ACK ack_num=68 cwnd=1.000000 ssthresh=16.000000
+[8026.24ms] SEND seq=75 len=512
+[8046.44ms] ACK ack_num=69 cwnd=1.000000 ssthresh=16.000000
+[8046.48ms] SEND seq=76 len=512
+[8066.74ms] ACK ack_num=70 cwnd=1.000000 ssthresh=16.000000
+[8066.77ms] SEND seq=77 len=512
+[8086.85ms] ACK ack_num=71 cwnd=1.000000 ssthresh=16.000000
+[8086.88ms] SEND seq=78 len=512
+[8107.07ms] ACK ack_num=72 cwnd=1.000000 ssthresh=16.000000
+[8107.11ms] SEND seq=79 len=512
+[8127.28ms] DUP_ACK ack_num=72 count=1
+[8147.55ms] DUP_ACK ack_num=72 count=2
+[8167.74ms] DUP_ACK ack_num=72 count=3
+[8187.91ms] DUP_ACK ack_num=72 count=4
+[8208.26ms] DUP_ACK ack_num=72 count=5
+[8407.45ms] TIMEOUT sendBase=72 nextSeq=80
+[8407.57ms] RETRANSMIT seq=72 len=512 [RETRANSMIT]
+[8407.57ms] RETRANSMIT seq=73 len=512 [RETRANSMIT]
+[8407.58ms] RETRANSMIT seq=74 len=512 [RETRANSMIT]
+[8407.58ms] RETRANSMIT seq=75 len=512 [RETRANSMIT]
+[8407.58ms] RETRANSMIT seq=76 len=512 [RETRANSMIT]
+[8407.58ms] RETRANSMIT seq=77 len=512 [RETRANSMIT]
+[8407.61ms] RETRANSMIT seq=78 len=512 [RETRANSMIT]
+[8407.61ms] RETRANSMIT seq=79 len=512 [RETRANSMIT]
+[8428.06ms] DUP_ACK ack_num=72 count=1
+[8448.34ms] DUP_ACK ack_num=72 count=2
+[8468.54ms] DUP_ACK ack_num=72 count=3
+[8488.68ms] DUP_ACK ack_num=72 count=4
+[8508.96ms] DUP_ACK ack_num=72 count=5
+[8707.93ms] TIMEOUT sendBase=72 nextSeq=80
+[8708.02ms] RETRANSMIT seq=72 len=512 [RETRANSMIT]
+[8708.02ms] RETRANSMIT seq=73 len=512 [RETRANSMIT]
+[8708.03ms] RETRANSMIT seq=74 len=512 [RETRANSMIT]
+[8708.03ms] RETRANSMIT seq=75 len=512 [RETRANSMIT]
+[8708.03ms] RETRANSMIT seq=76 len=512 [RETRANSMIT]
+[8708.04ms] RETRANSMIT seq=77 len=512 [RETRANSMIT]
+[8708.04ms] RETRANSMIT seq=78 len=512 [RETRANSMIT]
+[8708.04ms] RETRANSMIT seq=79 len=512 [RETRANSMIT]
+[8728.44ms] ACK ack_num=73 cwnd=1.000000 ssthresh=16.000000
+[8728.48ms] SEND seq=80 len=512
+[8748.72ms] ACK ack_num=74 cwnd=1.000000 ssthresh=16.000000
+[8748.76ms] SEND seq=81 len=512
+[8768.99ms] ACK ack_num=75 cwnd=1.000000 ssthresh=16.000000
+[8769.03ms] SEND seq=82 len=512
+[8789.24ms] ACK ack_num=76 cwnd=1.000000 ssthresh=16.000000
+[8789.28ms] SEND seq=83 len=512
+[8809.44ms] ACK ack_num=77 cwnd=1.000000 ssthresh=16.000000
+[8809.48ms] SEND seq=84 len=512
+[8829.61ms] ACK ack_num=78 cwnd=1.000000 ssthresh=16.000000
+[8829.65ms] SEND seq=85 len=512
+[8849.87ms] ACK ack_num=79 cwnd=1.000000 ssthresh=16.000000
+[8849.91ms] SEND seq=86 len=512
+[8870.10ms] DUP_ACK ack_num=79 count=1
+[8890.42ms] DUP_ACK ack_num=79 count=2
+[8910.58ms] DUP_ACK ack_num=79 count=3
+[8930.90ms] DUP_ACK ack_num=79 count=4
+[9150.17ms] TIMEOUT sendBase=79 nextSeq=87
+[9150.25ms] RETRANSMIT seq=79 len=512 [RETRANSMIT]
+[9150.26ms] RETRANSMIT seq=80 len=512 [RETRANSMIT]
+[9150.26ms] RETRANSMIT seq=81 len=512 [RETRANSMIT]
+[9150.27ms] RETRANSMIT seq=82 len=512 [RETRANSMIT]
+[9150.27ms] RETRANSMIT seq=83 len=512 [RETRANSMIT]
+[9150.27ms] RETRANSMIT seq=84 len=512 [RETRANSMIT]
+[9150.28ms] RETRANSMIT seq=85 len=512 [RETRANSMIT]
+[9150.28ms] RETRANSMIT seq=86 len=512 [RETRANSMIT]
+[9170.83ms] DUP_ACK ack_num=79 count=1
+[9191.10ms] DUP_ACK ack_num=79 count=2
+[9211.39ms] DUP_ACK ack_num=79 count=3
+[9231.67ms] DUP_ACK ack_num=79 count=4
+[9251.92ms] DUP_ACK ack_num=79 count=5
+[9272.20ms] DUP_ACK ack_num=79 count=6
+[9292.49ms] DUP_ACK ack_num=79 count=7
+[9450.51ms] TIMEOUT sendBase=79 nextSeq=87
+[9450.61ms] RETRANSMIT seq=79 len=512 [RETRANSMIT]
+[9450.62ms] RETRANSMIT seq=80 len=512 [RETRANSMIT]
+[9450.62ms] RETRANSMIT seq=81 len=512 [RETRANSMIT]
+[9450.63ms] RETRANSMIT seq=82 len=512 [RETRANSMIT]
+[9450.63ms] RETRANSMIT seq=83 len=512 [RETRANSMIT]
+[9450.63ms] RETRANSMIT seq=84 len=512 [RETRANSMIT]
+[9450.63ms] RETRANSMIT seq=85 len=512 [RETRANSMIT]
+[9450.64ms] RETRANSMIT seq=86 len=512 [RETRANSMIT]
+[9471.23ms] ACK ack_num=80 cwnd=1.000000 ssthresh=16.000000
+[9471.27ms] SEND seq=87 len=512
+[9491.45ms] DUP_ACK ack_num=80 count=1
+[9511.78ms] DUP_ACK ack_num=80 count=2
+[9532.09ms] DUP_ACK ack_num=80 count=3
+[9552.25ms] DUP_ACK ack_num=80 count=4
+[9572.47ms] DUP_ACK ack_num=80 count=5
+[9592.71ms] DUP_ACK ack_num=80 count=6
+[9612.94ms] DUP_ACK ack_num=80 count=7
+[9771.54ms] TIMEOUT sendBase=80 nextSeq=88
+[9771.65ms] RETRANSMIT seq=80 len=512 [RETRANSMIT]
+[9771.66ms] RETRANSMIT seq=81 len=512 [RETRANSMIT]
+[9771.66ms] RETRANSMIT seq=82 len=512 [RETRANSMIT]
+[9771.67ms] RETRANSMIT seq=83 len=512 [RETRANSMIT]
+[9771.67ms] RETRANSMIT seq=84 len=512 [RETRANSMIT]
+[9771.68ms] RETRANSMIT seq=85 len=512 [RETRANSMIT]
+[9771.68ms] RETRANSMIT seq=86 len=512 [RETRANSMIT]
+[9771.68ms] RETRANSMIT seq=87 len=512 [RETRANSMIT]
+[9792.02ms] ACK ack_num=81 cwnd=1.000000 ssthresh=16.000000
+[9792.04ms] SEND seq=88 len=512
+[9812.20ms] ACK ack_num=82 cwnd=1.000000 ssthresh=16.000000
+[9812.22ms] SEND seq=89 len=512
+[9832.34ms] DUP_ACK ack_num=82 count=1
+[9852.53ms] DUP_ACK ack_num=82 count=2
+[9872.73ms] DUP_ACK ack_num=82 count=3
+[9892.91ms] DUP_ACK ack_num=82 count=4
+[9913.10ms] DUP_ACK ack_num=82 count=5
+[10112.53ms] TIMEOUT sendBase=82 nextSeq=90
+[10112.66ms] RETRANSMIT seq=82 len=512 [RETRANSMIT]
+[10112.67ms] RETRANSMIT seq=83 len=512 [RETRANSMIT]
+[10112.67ms] RETRANSMIT seq=84 len=512 [RETRANSMIT]
+[10112.68ms] RETRANSMIT seq=85 len=512 [RETRANSMIT]
+[10112.68ms] RETRANSMIT seq=86 len=512 [RETRANSMIT]
+[10112.68ms] RETRANSMIT seq=87 len=512 [RETRANSMIT]
+[10112.69ms] RETRANSMIT seq=88 len=512 [RETRANSMIT]
+[10112.69ms] RETRANSMIT seq=89 len=512 [RETRANSMIT]
+[10133.10ms] ACK ack_num=83 cwnd=1.000000 ssthresh=16.000000
+[10133.13ms] SEND seq=90 len=512
+[10153.33ms] ACK ack_num=84 cwnd=1.000000 ssthresh=16.000000
+[10153.36ms] SEND seq=91 len=512
+[10173.57ms] ACK ack_num=85 cwnd=1.000000 ssthresh=16.000000
+[10173.62ms] SEND seq=92 len=512
+[10193.82ms] ACK ack_num=86 cwnd=1.000000 ssthresh=16.000000
+[10193.84ms] SEND seq=93 len=512
+[10214.09ms] DUP_ACK ack_num=86 count=1
+[10234.23ms] DUP_ACK ack_num=86 count=2
+[10254.41ms] DUP_ACK ack_num=86 count=3
+[10274.62ms] DUP_ACK ack_num=86 count=4
+[10494.18ms] TIMEOUT sendBase=86 nextSeq=94
+[10494.28ms] RETRANSMIT seq=86 len=512 [RETRANSMIT]
+[10494.29ms] RETRANSMIT seq=87 len=512 [RETRANSMIT]
+[10494.29ms] RETRANSMIT seq=88 len=512 [RETRANSMIT]
+[10494.30ms] RETRANSMIT seq=89 len=512 [RETRANSMIT]
+[10494.30ms] RETRANSMIT seq=90 len=512 [RETRANSMIT]
+[10494.30ms] RETRANSMIT seq=91 len=512 [RETRANSMIT]
+[10494.31ms] RETRANSMIT seq=92 len=512 [RETRANSMIT]
+[10494.31ms] RETRANSMIT seq=93 len=512 [RETRANSMIT]
+[10514.73ms] ACK ack_num=87 cwnd=1.000000 ssthresh=16.000000
+[10514.76ms] SEND seq=94 len=512
+[10534.95ms] DUP_ACK ack_num=87 count=1
+[10555.16ms] DUP_ACK ack_num=87 count=2
+[10575.37ms] DUP_ACK ack_num=87 count=3
+[10595.54ms] DUP_ACK ack_num=87 count=4
+[10615.77ms] DUP_ACK ack_num=87 count=5
+[10815.11ms] TIMEOUT sendBase=87 nextSeq=95
+[10815.23ms] RETRANSMIT seq=87 len=512 [RETRANSMIT]
+[10815.24ms] RETRANSMIT seq=88 len=512 [RETRANSMIT]
+[10815.24ms] RETRANSMIT seq=89 len=512 [RETRANSMIT]
+[10815.25ms] RETRANSMIT seq=90 len=512 [RETRANSMIT]
+[10815.27ms] RETRANSMIT seq=91 len=512 [RETRANSMIT]
+[10815.27ms] RETRANSMIT seq=92 len=512 [RETRANSMIT]
+[10815.28ms] RETRANSMIT seq=93 len=512 [RETRANSMIT]
+[10815.28ms] RETRANSMIT seq=94 len=512 [RETRANSMIT]
+[10835.69ms] ACK ack_num=88 cwnd=1.000000 ssthresh=16.000000
+[10835.72ms] SEND seq=95 len=512
+[10855.85ms] ACK ack_num=89 cwnd=1.000000 ssthresh=16.000000
+[10855.87ms] SEND seq=96 len=512
+[10876.05ms] ACK ack_num=90 cwnd=1.000000 ssthresh=16.000000
+[10876.08ms] SEND seq=97 len=512
+[10896.19ms] ACK ack_num=91 cwnd=1.000000 ssthresh=16.000000
+[10896.21ms] SEND seq=98 len=512
+[10916.45ms] ACK ack_num=92 cwnd=1.000000 ssthresh=16.000000
+[10916.49ms] SEND seq=99 len=512
+[10936.67ms] DUP_ACK ack_num=92 count=1
+[10956.85ms] DUP_ACK ack_num=92 count=2
+[10977.08ms] DUP_ACK ack_num=92 count=3
+[10997.25ms] DUP_ACK ack_num=92 count=4
+[11017.35ms] DUP_ACK ack_num=92 count=5
+[11037.49ms] DUP_ACK ack_num=92 count=6
+[11216.79ms] TIMEOUT sendBase=92 nextSeq=100
+[11216.88ms] RETRANSMIT seq=92 len=512 [RETRANSMIT]
+[11216.89ms] RETRANSMIT seq=93 len=512 [RETRANSMIT]
+[11216.89ms] RETRANSMIT seq=94 len=512 [RETRANSMIT]
+[11216.89ms] RETRANSMIT seq=95 len=512 [RETRANSMIT]
+[11216.90ms] RETRANSMIT seq=96 len=512 [RETRANSMIT]
+[11216.90ms] RETRANSMIT seq=97 len=512 [RETRANSMIT]
+[11216.90ms] RETRANSMIT seq=98 len=512 [RETRANSMIT]
+[11216.91ms] RETRANSMIT seq=99 len=512 [RETRANSMIT]
+[11237.23ms] ACK ack_num=93 cwnd=1.000000 ssthresh=16.000000
+[11237.25ms] SEND seq=100 len=512
+[11257.38ms] ACK ack_num=94 cwnd=1.000000 ssthresh=16.000000
+[11257.40ms] SEND seq=101 len=512
+[11277.58ms] ACK ack_num=95 cwnd=1.000000 ssthresh=16.000000
+[11277.63ms] SEND seq=102 len=512
+[11297.99ms] ACK ack_num=96 cwnd=1.000000 ssthresh=16.000000
+[11298.00ms] SEND seq=103 len=512
+[11318.12ms] DUP_ACK ack_num=96 count=1
+[11338.24ms] DUP_ACK ack_num=96 count=2
+[11358.40ms] DUP_ACK ack_num=96 count=3
+[11378.57ms] DUP_ACK ack_num=96 count=4
+[11398.71ms] DUP_ACK ack_num=96 count=5
+[11598.32ms] TIMEOUT sendBase=96 nextSeq=104
+[11598.41ms] RETRANSMIT seq=96 len=512 [RETRANSMIT]
+[11598.42ms] RETRANSMIT seq=97 len=512 [RETRANSMIT]
+[11598.43ms] RETRANSMIT seq=98 len=512 [RETRANSMIT]
+[11598.43ms] RETRANSMIT seq=99 len=512 [RETRANSMIT]
+[11598.43ms] RETRANSMIT seq=100 len=512 [RETRANSMIT]
+[11598.44ms] RETRANSMIT seq=101 len=512 [RETRANSMIT]
+[11598.44ms] RETRANSMIT seq=102 len=512 [RETRANSMIT]
+[11598.44ms] RETRANSMIT seq=103 len=512 [RETRANSMIT]
+[11618.74ms] ACK ack_num=97 cwnd=1.000000 ssthresh=16.000000
+[11618.75ms] SEND seq=104 len=512
+[11638.90ms] ACK ack_num=98 cwnd=1.000000 ssthresh=16.000000
+[11638.91ms] SEND seq=105 len=512
+[11659.09ms] DUP_ACK ack_num=98 count=1
+[11679.26ms] DUP_ACK ack_num=98 count=2
+[11699.52ms] DUP_ACK ack_num=98 count=3
+[11939.26ms] TIMEOUT sendBase=98 nextSeq=106
+[11939.36ms] RETRANSMIT seq=98 len=512 [RETRANSMIT]
+[11939.37ms] RETRANSMIT seq=99 len=512 [RETRANSMIT]
+[11939.38ms] RETRANSMIT seq=100 len=512 [RETRANSMIT]
+[11939.38ms] RETRANSMIT seq=101 len=512 [RETRANSMIT]
+[11939.39ms] RETRANSMIT seq=102 len=512 [RETRANSMIT]
+[11939.39ms] RETRANSMIT seq=103 len=512 [RETRANSMIT]
+[11939.39ms] RETRANSMIT seq=104 len=512 [RETRANSMIT]
+[11939.40ms] RETRANSMIT seq=105 len=512 [RETRANSMIT]
+[11959.72ms] ACK ack_num=99 cwnd=1.000000 ssthresh=16.000000
+[11959.76ms] SEND seq=106 len=512
+[11979.97ms] DUP_ACK ack_num=99 count=1
+[12000.19ms] DUP_ACK ack_num=99 count=2
+[12020.38ms] DUP_ACK ack_num=99 count=3
+[12040.57ms] DUP_ACK ack_num=99 count=4
+[12060.74ms] DUP_ACK ack_num=99 count=5
+[12080.93ms] DUP_ACK ack_num=99 count=6
+[12260.01ms] TIMEOUT sendBase=99 nextSeq=107
+[12260.10ms] RETRANSMIT seq=99 len=512 [RETRANSMIT]
+[12260.11ms] RETRANSMIT seq=100 len=512 [RETRANSMIT]
+[12260.11ms] RETRANSMIT seq=101 len=512 [RETRANSMIT]
+[12260.12ms] RETRANSMIT seq=102 len=512 [RETRANSMIT]
+[12260.12ms] RETRANSMIT seq=103 len=512 [RETRANSMIT]
+[12260.12ms] RETRANSMIT seq=104 len=512 [RETRANSMIT]
+[12260.12ms] RETRANSMIT seq=105 len=512 [RETRANSMIT]
+[12260.13ms] RETRANSMIT seq=106 len=512 [RETRANSMIT]
+[12280.50ms] ACK ack_num=100 cwnd=1.000000 ssthresh=16.000000
+[12280.53ms] SEND seq=107 len=512
+[12300.79ms] ACK ack_num=101 cwnd=1.000000 ssthresh=16.000000
+[12300.84ms] SEND seq=108 len=512
+[12320.96ms] ACK ack_num=102 cwnd=1.000000 ssthresh=16.000000
+[12321.02ms] SEND seq=109 len=512
+[12341.15ms] ACK ack_num=103 cwnd=1.000000 ssthresh=16.000000
+[12341.20ms] SEND seq=110 len=512
+[12361.21ms] ACK ack_num=104 cwnd=1.000000 ssthresh=16.000000
+[12361.23ms] SEND seq=111 len=512
+[12381.42ms] ACK ack_num=105 cwnd=1.000000 ssthresh=16.000000
+[12381.48ms] SEND seq=112 len=512
+[12401.66ms] DUP_ACK ack_num=105 count=1
+[12421.76ms] DUP_ACK ack_num=105 count=2
+[12441.95ms] DUP_ACK ack_num=105 count=3
+[12462.18ms] DUP_ACK ack_num=105 count=4
+[12482.36ms] DUP_ACK ack_num=105 count=5
+[12502.51ms] DUP_ACK ack_num=105 count=6
+[12522.72ms] DUP_ACK ack_num=105 count=7
+[12681.71ms] TIMEOUT sendBase=105 nextSeq=113
+[12681.81ms] RETRANSMIT seq=105 len=512 [RETRANSMIT]
+[12681.82ms] RETRANSMIT seq=106 len=512 [RETRANSMIT]
+[12681.82ms] RETRANSMIT seq=107 len=512 [RETRANSMIT]
+[12681.82ms] RETRANSMIT seq=108 len=512 [RETRANSMIT]
+[12681.83ms] RETRANSMIT seq=109 len=512 [RETRANSMIT]
+[12681.83ms] RETRANSMIT seq=110 len=512 [RETRANSMIT]
+[12681.83ms] RETRANSMIT seq=111 len=512 [RETRANSMIT]
+[12681.83ms] RETRANSMIT seq=112 len=512 [RETRANSMIT]
+[12702.17ms] ACK ack_num=106 cwnd=1.000000 ssthresh=16.000000
+[12702.22ms] SEND seq=113 len=512
+[12722.42ms] DUP_ACK ack_num=106 count=1
+[12742.64ms] DUP_ACK ack_num=106 count=2
+[12762.75ms] DUP_ACK ack_num=106 count=3
+[12782.94ms] DUP_ACK ack_num=106 count=4
+[12803.16ms] DUP_ACK ack_num=106 count=5
+[12823.41ms] DUP_ACK ack_num=106 count=6
+[13002.46ms] TIMEOUT sendBase=106 nextSeq=114
+[13002.54ms] RETRANSMIT seq=106 len=512 [RETRANSMIT]
+[13002.55ms] RETRANSMIT seq=107 len=512 [RETRANSMIT]
+[13002.56ms] RETRANSMIT seq=108 len=512 [RETRANSMIT]
+[13002.56ms] RETRANSMIT seq=109 len=512 [RETRANSMIT]
+[13002.56ms] RETRANSMIT seq=110 len=512 [RETRANSMIT]
+[13002.57ms] RETRANSMIT seq=111 len=512 [RETRANSMIT]
+[13002.57ms] RETRANSMIT seq=112 len=512 [RETRANSMIT]
+[13002.57ms] RETRANSMIT seq=113 len=512 [RETRANSMIT]
+[13022.97ms] ACK ack_num=107 cwnd=1.000000 ssthresh=16.000000
+[13023.02ms] SEND seq=114 len=512
+[13043.18ms] ACK ack_num=108 cwnd=1.000000 ssthresh=16.000000
+[13043.22ms] SEND seq=115 len=512
+[13063.33ms] DUP_ACK ack_num=108 count=1
+[13083.55ms] DUP_ACK ack_num=108 count=2
+[13103.72ms] DUP_ACK ack_num=108 count=3
+[13123.92ms] DUP_ACK ack_num=108 count=4
+[13144.25ms] DUP_ACK ack_num=108 count=5
+[13164.50ms] DUP_ACK ack_num=108 count=6
+[13343.54ms] TIMEOUT sendBase=108 nextSeq=116
+[13343.67ms] RETRANSMIT seq=108 len=512 [RETRANSMIT]
+[13343.68ms] RETRANSMIT seq=109 len=512 [RETRANSMIT]
+[13343.68ms] RETRANSMIT seq=110 len=512 [RETRANSMIT]
+[13343.68ms] RETRANSMIT seq=111 len=512 [RETRANSMIT]
+[13343.69ms] RETRANSMIT seq=112 len=512 [RETRANSMIT]
+[13343.69ms] RETRANSMIT seq=113 len=512 [RETRANSMIT]
+[13343.69ms] RETRANSMIT seq=114 len=512 [RETRANSMIT]
+[13343.70ms] RETRANSMIT seq=115 len=512 [RETRANSMIT]
+[13364.07ms] ACK ack_num=109 cwnd=1.000000 ssthresh=16.000000
+[13364.12ms] SEND seq=116 len=512
+[13384.28ms] ACK ack_num=110 cwnd=1.000000 ssthresh=16.000000
+[13384.31ms] SEND seq=117 len=512
+[13404.48ms] ACK ack_num=111 cwnd=1.000000 ssthresh=16.000000
+[13404.50ms] SEND seq=118 len=512
+[13424.74ms] ACK ack_num=112 cwnd=1.000000 ssthresh=16.000000
+[13424.77ms] SEND seq=119 len=512
+[13444.92ms] ACK ack_num=113 cwnd=1.000000 ssthresh=16.000000
+[13444.95ms] SEND seq=120 len=512
+[13465.10ms] ACK ack_num=114 cwnd=1.000000 ssthresh=16.000000
+[13465.13ms] SEND seq=121 len=512
+[13485.28ms] ACK ack_num=115 cwnd=1.000000 ssthresh=16.000000
+[13485.31ms] SEND seq=122 len=512
+[13505.54ms] ACK ack_num=116 cwnd=1.000000 ssthresh=16.000000
+[13505.58ms] SEND seq=123 len=512
+[13525.76ms] ACK ack_num=117 cwnd=1.000000 ssthresh=16.000000
+[13525.79ms] SEND seq=124 len=512
+[13545.95ms] ACK ack_num=118 cwnd=1.000000 ssthresh=16.000000
+[13545.98ms] SEND seq=125 len=512
+[13566.14ms] ACK ack_num=119 cwnd=1.000000 ssthresh=16.000000
+[13566.18ms] SEND seq=126 len=512
+[13586.39ms] ACK ack_num=120 cwnd=1.000000 ssthresh=16.000000
+[13586.42ms] SEND seq=127 len=512
+[13606.58ms] DUP_ACK ack_num=120 count=1
+[13626.82ms] DUP_ACK ack_num=120 count=2
+[13647.44ms] DUP_ACK ack_num=120 count=3
+[13886.76ms] TIMEOUT sendBase=120 nextSeq=128
+[13886.85ms] RETRANSMIT seq=120 len=512 [RETRANSMIT]
+[13886.86ms] RETRANSMIT seq=121 len=512 [RETRANSMIT]
+[13886.87ms] RETRANSMIT seq=122 len=512 [RETRANSMIT]
+[13886.87ms] RETRANSMIT seq=123 len=512 [RETRANSMIT]
+[13886.87ms] RETRANSMIT seq=124 len=512 [RETRANSMIT]
+[13886.88ms] RETRANSMIT seq=125 len=512 [RETRANSMIT]
+[13886.88ms] RETRANSMIT seq=126 len=512 [RETRANSMIT]
+[13886.88ms] RETRANSMIT seq=127 len=512 [RETRANSMIT]
+[13907.31ms] ACK ack_num=121 cwnd=1.000000 ssthresh=16.000000
+[13907.36ms] SEND seq=128 len=512
+[13927.53ms] ACK ack_num=122 cwnd=1.000000 ssthresh=16.000000
+[13927.56ms] SEND seq=129 len=512
+[13947.77ms] ACK ack_num=123 cwnd=1.000000 ssthresh=16.000000
+[13947.80ms] SEND seq=130 len=512
+[13967.99ms] ACK ack_num=124 cwnd=1.000000 ssthresh=16.000000
+[13968.03ms] SEND seq=131 len=512
+[13988.23ms] ACK ack_num=125 cwnd=1.000000 ssthresh=16.000000
+[13988.27ms] SEND seq=132 len=512
+[14008.57ms] DUP_ACK ack_num=125 count=1
+[14028.77ms] DUP_ACK ack_num=125 count=2
+[14048.97ms] DUP_ACK ack_num=125 count=3
+[14069.67ms] DUP_ACK ack_num=125 count=4
+[14089.65ms] DUP_ACK ack_num=125 count=5
+[14110.03ms] DUP_ACK ack_num=125 count=6
+[14130.24ms] DUP_ACK ack_num=125 count=7
+[14288.54ms] TIMEOUT sendBase=125 nextSeq=133
+[14288.65ms] RETRANSMIT seq=125 len=512 [RETRANSMIT]
+[14288.66ms] RETRANSMIT seq=126 len=512 [RETRANSMIT]
+[14288.67ms] RETRANSMIT seq=127 len=512 [RETRANSMIT]
+[14288.67ms] RETRANSMIT seq=128 len=512 [RETRANSMIT]
+[14288.67ms] RETRANSMIT seq=129 len=512 [RETRANSMIT]
+[14288.67ms] RETRANSMIT seq=130 len=512 [RETRANSMIT]
+[14288.68ms] RETRANSMIT seq=131 len=512 [RETRANSMIT]
+[14288.68ms] RETRANSMIT seq=132 len=512 [RETRANSMIT]
+[14309.17ms] DUP_ACK ack_num=125 count=1
+[14329.33ms] DUP_ACK ack_num=125 count=2
+[14349.57ms] DUP_ACK ack_num=125 count=3
+[14369.83ms] DUP_ACK ack_num=125 count=4
+[14390.09ms] DUP_ACK ack_num=125 count=5
+[14589.02ms] TIMEOUT sendBase=125 nextSeq=133
+[14589.12ms] RETRANSMIT seq=125 len=512 [RETRANSMIT]
+[14589.12ms] RETRANSMIT seq=126 len=512 [RETRANSMIT]
+[14589.12ms] RETRANSMIT seq=127 len=512 [RETRANSMIT]
+[14589.13ms] RETRANSMIT seq=128 len=512 [RETRANSMIT]
+[14589.13ms] RETRANSMIT seq=129 len=512 [RETRANSMIT]
+[14589.13ms] RETRANSMIT seq=130 len=512 [RETRANSMIT]
+[14589.14ms] RETRANSMIT seq=131 len=512 [RETRANSMIT]
+[14589.14ms] RETRANSMIT seq=132 len=512 [RETRANSMIT]
+[14609.63ms] ACK ack_num=126 cwnd=1.000000 ssthresh=16.000000
+[14609.68ms] SEND seq=133 len=512
+[14629.89ms] DUP_ACK ack_num=126 count=1
+[14650.05ms] DUP_ACK ack_num=126 count=2
+[14670.21ms] DUP_ACK ack_num=126 count=3
+[14690.41ms] DUP_ACK ack_num=126 count=4
+[14710.55ms] DUP_ACK ack_num=126 count=5
+[14730.83ms] DUP_ACK ack_num=126 count=6
+[14751.04ms] DUP_ACK ack_num=126 count=7
+[14909.89ms] TIMEOUT sendBase=126 nextSeq=134
+[14909.98ms] RETRANSMIT seq=126 len=512 [RETRANSMIT]
+[14909.98ms] RETRANSMIT seq=127 len=512 [RETRANSMIT]
+[14909.99ms] RETRANSMIT seq=128 len=512 [RETRANSMIT]
+[14909.99ms] RETRANSMIT seq=129 len=512 [RETRANSMIT]
+[14909.99ms] RETRANSMIT seq=130 len=512 [RETRANSMIT]
+[14910.00ms] RETRANSMIT seq=131 len=512 [RETRANSMIT]
+[14910.00ms] RETRANSMIT seq=132 len=512 [RETRANSMIT]
+[14910.01ms] RETRANSMIT seq=133 len=512 [RETRANSMIT]
+[14930.44ms] DUP_ACK ack_num=126 count=1
+[14950.56ms] DUP_ACK ack_num=126 count=2
+[14970.81ms] DUP_ACK ack_num=126 count=3
+[14991.03ms] DUP_ACK ack_num=126 count=4
+[15011.23ms] DUP_ACK ack_num=126 count=5
+[15031.44ms] DUP_ACK ack_num=126 count=6
+[15210.32ms] TIMEOUT sendBase=126 nextSeq=134
+[15210.42ms] RETRANSMIT seq=126 len=512 [RETRANSMIT]
+[15210.43ms] RETRANSMIT seq=127 len=512 [RETRANSMIT]
+[15210.43ms] RETRANSMIT seq=128 len=512 [RETRANSMIT]
+[15210.44ms] RETRANSMIT seq=129 len=512 [RETRANSMIT]
+[15210.44ms] RETRANSMIT seq=130 len=512 [RETRANSMIT]
+[15210.44ms] RETRANSMIT seq=131 len=512 [RETRANSMIT]
+[15210.44ms] RETRANSMIT seq=132 len=512 [RETRANSMIT]
+[15210.45ms] RETRANSMIT seq=133 len=512 [RETRANSMIT]
+[15230.91ms] ACK ack_num=127 cwnd=1.000000 ssthresh=16.000000
+[15230.94ms] SEND seq=134 len=512
+[15251.11ms] ACK ack_num=128 cwnd=1.000000 ssthresh=16.000000
+[15251.14ms] SEND seq=135 len=512
+[15271.36ms] ACK ack_num=129 cwnd=1.000000 ssthresh=16.000000
+[15271.40ms] SEND seq=136 len=512
+[15291.62ms] ACK ack_num=130 cwnd=1.000000 ssthresh=16.000000
+[15291.68ms] SEND seq=137 len=512
+[15311.81ms] ACK ack_num=131 cwnd=1.000000 ssthresh=16.000000
+[15311.85ms] SEND seq=138 len=512
+[15332.01ms] ACK ack_num=132 cwnd=1.000000 ssthresh=16.000000
+[15332.04ms] SEND seq=139 len=512
+[15352.19ms] ACK ack_num=133 cwnd=1.000000 ssthresh=16.000000
+[15352.22ms] SEND seq=140 len=512
+[15372.35ms] DUP_ACK ack_num=133 count=1
+[15393.69ms] DUP_ACK ack_num=133 count=2
+[15412.81ms] DUP_ACK ack_num=133 count=3
+[15432.95ms] DUP_ACK ack_num=133 count=4
+[15453.14ms] DUP_ACK ack_num=133 count=5
+[15652.48ms] TIMEOUT sendBase=133 nextSeq=141
+[15652.57ms] RETRANSMIT seq=133 len=512 [RETRANSMIT]
+[15652.58ms] RETRANSMIT seq=134 len=512 [RETRANSMIT]
+[15652.58ms] RETRANSMIT seq=135 len=512 [RETRANSMIT]
+[15652.58ms] RETRANSMIT seq=136 len=512 [RETRANSMIT]
+[15652.58ms] RETRANSMIT seq=137 len=512 [RETRANSMIT]
+[15652.59ms] RETRANSMIT seq=138 len=512 [RETRANSMIT]
+[15652.61ms] RETRANSMIT seq=139 len=512 [RETRANSMIT]
+[15652.61ms] RETRANSMIT seq=140 len=512 [RETRANSMIT]
+[15673.02ms] DUP_ACK ack_num=133 count=1
+[15693.23ms] DUP_ACK ack_num=133 count=2
+[15713.39ms] DUP_ACK ack_num=133 count=3
+[15733.69ms] DUP_ACK ack_num=133 count=4
+[15753.88ms] DUP_ACK ack_num=133 count=5
+[15774.13ms] DUP_ACK ack_num=133 count=6
+[15952.90ms] TIMEOUT sendBase=133 nextSeq=141
+[15953.00ms] RETRANSMIT seq=133 len=512 [RETRANSMIT]
+[15953.01ms] RETRANSMIT seq=134 len=512 [RETRANSMIT]
+[15953.01ms] RETRANSMIT seq=135 len=512 [RETRANSMIT]
+[15953.02ms] RETRANSMIT seq=136 len=512 [RETRANSMIT]
+[15953.02ms] RETRANSMIT seq=137 len=512 [RETRANSMIT]
+[15953.02ms] RETRANSMIT seq=138 len=512 [RETRANSMIT]
+[15953.03ms] RETRANSMIT seq=139 len=512 [RETRANSMIT]
+[15953.03ms] RETRANSMIT seq=140 len=512 [RETRANSMIT]
+[15973.33ms] ACK ack_num=134 cwnd=1.000000 ssthresh=16.000000
+[15973.38ms] SEND seq=141 len=512
+[15993.63ms] ACK ack_num=135 cwnd=1.000000 ssthresh=16.000000
+[15993.69ms] SEND seq=142 len=512
+[16013.84ms] DUP_ACK ack_num=135 count=1
+[16034.04ms] DUP_ACK ack_num=135 count=2
+[16054.30ms] DUP_ACK ack_num=135 count=3
+[16074.55ms] DUP_ACK ack_num=135 count=4
+[16094.83ms] DUP_ACK ack_num=135 count=5
+[16114.99ms] DUP_ACK ack_num=135 count=6
+[16293.94ms] TIMEOUT sendBase=135 nextSeq=143
+[16294.05ms] RETRANSMIT seq=135 len=512 [RETRANSMIT]
+[16294.06ms] RETRANSMIT seq=136 len=512 [RETRANSMIT]
+[16294.06ms] RETRANSMIT seq=137 len=512 [RETRANSMIT]
+[16294.06ms] RETRANSMIT seq=138 len=512 [RETRANSMIT]
+[16294.07ms] RETRANSMIT seq=139 len=512 [RETRANSMIT]
+[16294.07ms] RETRANSMIT seq=140 len=512 [RETRANSMIT]
+[16294.07ms] RETRANSMIT seq=141 len=512 [RETRANSMIT]
+[16294.08ms] RETRANSMIT seq=142 len=512 [RETRANSMIT]
+[16314.44ms] ACK ack_num=136 cwnd=1.000000 ssthresh=16.000000
+[16314.49ms] SEND seq=143 len=512
+[16334.70ms] DUP_ACK ack_num=136 count=1
+[16355.58ms] DUP_ACK ack_num=136 count=2
+[16375.07ms] DUP_ACK ack_num=136 count=3
+[16395.28ms] DUP_ACK ack_num=136 count=4
+[16614.85ms] TIMEOUT sendBase=136 nextSeq=144
+[16614.95ms] RETRANSMIT seq=136 len=512 [RETRANSMIT]
+[16614.96ms] RETRANSMIT seq=137 len=512 [RETRANSMIT]
+[16614.97ms] RETRANSMIT seq=138 len=512 [RETRANSMIT]
+[16614.97ms] RETRANSMIT seq=139 len=512 [RETRANSMIT]
+[16614.97ms] RETRANSMIT seq=140 len=512 [RETRANSMIT]
+[16614.98ms] RETRANSMIT seq=141 len=512 [RETRANSMIT]
+[16614.98ms] RETRANSMIT seq=142 len=512 [RETRANSMIT]
+[16614.98ms] RETRANSMIT seq=143 len=512 [RETRANSMIT]
+[16635.37ms] ACK ack_num=137 cwnd=1.000000 ssthresh=16.000000
+[16635.40ms] SEND seq=144 len=512
+[16655.63ms] ACK ack_num=138 cwnd=1.000000 ssthresh=16.000000
+[16655.68ms] SEND seq=145 len=512
+[16675.93ms] ACK ack_num=139 cwnd=1.000000 ssthresh=16.000000
+[16675.97ms] SEND seq=146 len=512
+[16696.01ms] ACK ack_num=140 cwnd=1.000000 ssthresh=16.000000
+[16696.05ms] SEND seq=147 len=512
+[16716.19ms] ACK ack_num=141 cwnd=1.000000 ssthresh=16.000000
+[16716.23ms] SEND seq=148 len=512
+[16736.41ms] ACK ack_num=142 cwnd=1.000000 ssthresh=16.000000
+[16736.44ms] SEND seq=149 len=512
+[16756.58ms] ACK ack_num=143 cwnd=1.000000 ssthresh=16.000000
+[16756.65ms] SEND seq=150 len=512
+[16776.96ms] ACK ack_num=144 cwnd=1.000000 ssthresh=16.000000
+[16777.00ms] SEND seq=151 len=512
+[16797.15ms] ACK ack_num=145 cwnd=1.000000 ssthresh=16.000000
+[16797.20ms] SEND seq=152 len=512
+[16817.33ms] ACK ack_num=146 cwnd=1.000000 ssthresh=16.000000
+[16817.38ms] SEND seq=153 len=512
+[16837.46ms] DUP_ACK ack_num=146 count=1
+[16857.65ms] DUP_ACK ack_num=146 count=2
+[16877.88ms] DUP_ACK ack_num=146 count=3
+[16898.08ms] DUP_ACK ack_num=146 count=4
+[16918.29ms] DUP_ACK ack_num=146 count=5
+[16938.52ms] DUP_ACK ack_num=146 count=6
+[17117.70ms] TIMEOUT sendBase=146 nextSeq=154
+[17117.81ms] RETRANSMIT seq=146 len=512 [RETRANSMIT]
+[17117.82ms] RETRANSMIT seq=147 len=512 [RETRANSMIT]
+[17117.82ms] RETRANSMIT seq=148 len=512 [RETRANSMIT]
+[17117.82ms] RETRANSMIT seq=149 len=512 [RETRANSMIT]
+[17117.83ms] RETRANSMIT seq=150 len=512 [RETRANSMIT]
+[17117.83ms] RETRANSMIT seq=151 len=512 [RETRANSMIT]
+[17117.83ms] RETRANSMIT seq=152 len=512 [RETRANSMIT]
+[17117.83ms] RETRANSMIT seq=153 len=512 [RETRANSMIT]
+[17138.36ms] ACK ack_num=147 cwnd=1.000000 ssthresh=16.000000
+[17138.40ms] SEND seq=154 len=512
+[17158.64ms] ACK ack_num=148 cwnd=1.000000 ssthresh=16.000000
+[17158.69ms] SEND seq=155 len=512
+[17178.79ms] ACK ack_num=149 cwnd=1.000000 ssthresh=16.000000
+[17178.81ms] SEND seq=156 len=512
+[17199.30ms] ACK ack_num=150 cwnd=1.000000 ssthresh=16.000000
+[17199.38ms] SEND seq=157 len=512
+[17219.57ms] ACK ack_num=151 cwnd=1.000000 ssthresh=16.000000
+[17219.63ms] SEND seq=158 len=512
+[17239.86ms] ACK ack_num=152 cwnd=1.000000 ssthresh=16.000000
+[17239.89ms] SEND seq=159 len=512
+[17260.10ms] DUP_ACK ack_num=152 count=1
+[17280.33ms] DUP_ACK ack_num=152 count=2
+[17300.63ms] DUP_ACK ack_num=152 count=3
+[17320.83ms] DUP_ACK ack_num=152 count=4
+[17341.04ms] DUP_ACK ack_num=152 count=5
+[17540.17ms] TIMEOUT sendBase=152 nextSeq=160
+[17540.25ms] RETRANSMIT seq=152 len=512 [RETRANSMIT]
+[17540.26ms] RETRANSMIT seq=153 len=512 [RETRANSMIT]
+[17540.26ms] RETRANSMIT seq=154 len=512 [RETRANSMIT]
+[17540.26ms] RETRANSMIT seq=155 len=512 [RETRANSMIT]
+[17540.27ms] RETRANSMIT seq=156 len=512 [RETRANSMIT]
+[17540.27ms] RETRANSMIT seq=157 len=512 [RETRANSMIT]
+[17540.27ms] RETRANSMIT seq=158 len=512 [RETRANSMIT]
+[17540.27ms] RETRANSMIT seq=159 len=512 [RETRANSMIT]
+[17560.58ms] ACK ack_num=153 cwnd=1.000000 ssthresh=16.000000
+[17560.63ms] SEND seq=160 len=512
+[17580.84ms] ACK ack_num=154 cwnd=1.000000 ssthresh=16.000000
+[17580.89ms] SEND seq=161 len=512
+[17601.13ms] ACK ack_num=155 cwnd=1.000000 ssthresh=16.000000
+[17601.17ms] SEND seq=162 len=512
+[17621.40ms] ACK ack_num=156 cwnd=1.000000 ssthresh=16.000000
+[17621.45ms] SEND seq=163 len=512
+[17641.57ms] ACK ack_num=157 cwnd=1.000000 ssthresh=16.000000
+[17641.63ms] SEND seq=164 len=512
+[17661.73ms] ACK ack_num=158 cwnd=1.000000 ssthresh=16.000000
+[17661.76ms] SEND seq=165 len=512
+[17681.89ms] ACK ack_num=159 cwnd=1.000000 ssthresh=16.000000
+[17681.92ms] SEND seq=166 len=512
+[17702.12ms] ACK ack_num=160 cwnd=1.000000 ssthresh=16.000000
+[17702.16ms] SEND seq=167 len=512
+[17722.31ms] DUP_ACK ack_num=160 count=1
+[17742.57ms] DUP_ACK ack_num=160 count=2
+[17762.74ms] DUP_ACK ack_num=160 count=3
+[17782.97ms] DUP_ACK ack_num=160 count=4
+[17803.16ms] DUP_ACK ack_num=160 count=5
+[18002.44ms] TIMEOUT sendBase=160 nextSeq=168
+[18002.55ms] RETRANSMIT seq=160 len=512 [RETRANSMIT]
+[18002.56ms] RETRANSMIT seq=161 len=512 [RETRANSMIT]
+[18002.56ms] RETRANSMIT seq=162 len=512 [RETRANSMIT]
+[18002.56ms] RETRANSMIT seq=163 len=512 [RETRANSMIT]
+[18002.57ms] RETRANSMIT seq=164 len=512 [RETRANSMIT]
+[18002.57ms] RETRANSMIT seq=165 len=512 [RETRANSMIT]
+[18002.57ms] RETRANSMIT seq=166 len=512 [RETRANSMIT]
+[18002.57ms] RETRANSMIT seq=167 len=512 [RETRANSMIT]
+[18023.05ms] ACK ack_num=161 cwnd=1.000000 ssthresh=16.000000
+[18023.10ms] SEND seq=168 len=512
+[18043.29ms] ACK ack_num=162 cwnd=1.000000 ssthresh=16.000000
+[18043.32ms] SEND seq=169 len=512
+[18063.56ms] ACK ack_num=163 cwnd=1.000000 ssthresh=16.000000
+[18063.63ms] SEND seq=170 len=512
+[18083.78ms] ACK ack_num=164 cwnd=1.000000 ssthresh=16.000000
+[18083.81ms] SEND seq=171 len=512
+[18103.97ms] ACK ack_num=165 cwnd=1.000000 ssthresh=16.000000
+[18104.01ms] SEND seq=172 len=512
+[18124.24ms] DUP_ACK ack_num=165 count=1
+[18144.47ms] DUP_ACK ack_num=165 count=2
+[18164.67ms] DUP_ACK ack_num=165 count=3
+[18184.91ms] DUP_ACK ack_num=165 count=4
+[18205.14ms] DUP_ACK ack_num=165 count=5
+[18225.35ms] DUP_ACK ack_num=165 count=6
+[18404.27ms] TIMEOUT sendBase=165 nextSeq=173
+[18404.36ms] RETRANSMIT seq=165 len=512 [RETRANSMIT]
+[18404.37ms] RETRANSMIT seq=166 len=512 [RETRANSMIT]
+[18404.37ms] RETRANSMIT seq=167 len=512 [RETRANSMIT]
+[18404.37ms] RETRANSMIT seq=168 len=512 [RETRANSMIT]
+[18404.37ms] RETRANSMIT seq=169 len=512 [RETRANSMIT]
+[18404.38ms] RETRANSMIT seq=170 len=512 [RETRANSMIT]
+[18404.38ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[18404.38ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[18424.81ms] ACK ack_num=166 cwnd=1.000000 ssthresh=16.000000
+[18424.84ms] SEND seq=173 len=512
+[18445.05ms] ACK ack_num=167 cwnd=1.000000 ssthresh=16.000000
+[18445.09ms] SEND seq=174 len=512
+[18465.26ms] ACK ack_num=168 cwnd=1.000000 ssthresh=16.000000
+[18465.29ms] SEND seq=175 len=512
+[18485.48ms] DUP_ACK ack_num=168 count=1
+[18505.72ms] DUP_ACK ack_num=168 count=2
+[18525.89ms] DUP_ACK ack_num=168 count=3
+[18546.07ms] DUP_ACK ack_num=168 count=4
+[18765.56ms] TIMEOUT sendBase=168 nextSeq=176
+[18765.67ms] RETRANSMIT seq=168 len=512 [RETRANSMIT]
+[18765.68ms] RETRANSMIT seq=169 len=512 [RETRANSMIT]
+[18765.68ms] RETRANSMIT seq=170 len=512 [RETRANSMIT]
+[18765.69ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[18765.69ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[18765.69ms] RETRANSMIT seq=173 len=512 [RETRANSMIT]
+[18765.69ms] RETRANSMIT seq=174 len=512 [RETRANSMIT]
+[18765.70ms] RETRANSMIT seq=175 len=512 [RETRANSMIT]
+[18786.01ms] DUP_ACK ack_num=168 count=1
+[18806.22ms] DUP_ACK ack_num=168 count=2
+[18826.45ms] DUP_ACK ack_num=168 count=3
+[18846.58ms] DUP_ACK ack_num=168 count=4
+[18866.79ms] DUP_ACK ack_num=168 count=5
+[18886.99ms] DUP_ACK ack_num=168 count=6
+[18907.19ms] DUP_ACK ack_num=168 count=7
+[19065.97ms] TIMEOUT sendBase=168 nextSeq=176
+[19066.08ms] RETRANSMIT seq=168 len=512 [RETRANSMIT]
+[19066.09ms] RETRANSMIT seq=169 len=512 [RETRANSMIT]
+[19066.09ms] RETRANSMIT seq=170 len=512 [RETRANSMIT]
+[19066.09ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[19066.10ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[19066.10ms] RETRANSMIT seq=173 len=512 [RETRANSMIT]
+[19066.10ms] RETRANSMIT seq=174 len=512 [RETRANSMIT]
+[19066.10ms] RETRANSMIT seq=175 len=512 [RETRANSMIT]
+[19086.51ms] DUP_ACK ack_num=168 count=1
+[19106.69ms] DUP_ACK ack_num=168 count=2
+[19126.96ms] DUP_ACK ack_num=168 count=3
+[19147.20ms] DUP_ACK ack_num=168 count=4
+[19167.43ms] DUP_ACK ack_num=168 count=5
+[19187.69ms] DUP_ACK ack_num=168 count=6
+[19207.88ms] DUP_ACK ack_num=168 count=7
+[19366.38ms] TIMEOUT sendBase=168 nextSeq=176
+[19366.48ms] RETRANSMIT seq=168 len=512 [RETRANSMIT]
+[19366.48ms] RETRANSMIT seq=169 len=512 [RETRANSMIT]
+[19366.49ms] RETRANSMIT seq=170 len=512 [RETRANSMIT]
+[19366.49ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[19366.49ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[19366.50ms] RETRANSMIT seq=173 len=512 [RETRANSMIT]
+[19366.50ms] RETRANSMIT seq=174 len=512 [RETRANSMIT]
+[19366.50ms] RETRANSMIT seq=175 len=512 [RETRANSMIT]
+[19386.97ms] ACK ack_num=169 cwnd=1.000000 ssthresh=16.000000
+[19387.02ms] SEND seq=176 len=512
+[19407.19ms] ACK ack_num=170 cwnd=1.000000 ssthresh=16.000000
+[19407.24ms] SEND seq=177 len=512
+[19427.42ms] DUP_ACK ack_num=170 count=1
+[19447.56ms] DUP_ACK ack_num=170 count=2
+[19467.74ms] DUP_ACK ack_num=170 count=3
+[19487.98ms] DUP_ACK ack_num=170 count=4
+[19508.18ms] DUP_ACK ack_num=170 count=5
+[19707.48ms] TIMEOUT sendBase=170 nextSeq=178
+[19707.61ms] RETRANSMIT seq=170 len=512 [RETRANSMIT]
+[19707.62ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[19707.62ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[19707.62ms] RETRANSMIT seq=173 len=512 [RETRANSMIT]
+[19707.63ms] RETRANSMIT seq=174 len=512 [RETRANSMIT]
+[19707.63ms] RETRANSMIT seq=175 len=512 [RETRANSMIT]
+[19707.63ms] RETRANSMIT seq=176 len=512 [RETRANSMIT]
+[19707.64ms] RETRANSMIT seq=177 len=512 [RETRANSMIT]
+[19728.12ms] ACK ack_num=171 cwnd=1.000000 ssthresh=16.000000
+[19728.16ms] SEND seq=178 len=512
+[19748.27ms] DUP_ACK ack_num=171 count=1
+[19768.45ms] DUP_ACK ack_num=171 count=2
+[19788.66ms] DUP_ACK ack_num=171 count=3
+[19808.79ms] DUP_ACK ack_num=171 count=4
+[19828.96ms] DUP_ACK ack_num=171 count=5
+[19849.13ms] DUP_ACK ack_num=171 count=6
+[19869.37ms] DUP_ACK ack_num=171 count=7
+[20028.40ms] TIMEOUT sendBase=171 nextSeq=179
+[20028.48ms] RETRANSMIT seq=171 len=512 [RETRANSMIT]
+[20028.49ms] RETRANSMIT seq=172 len=512 [RETRANSMIT]
+[20028.49ms] RETRANSMIT seq=173 len=512 [RETRANSMIT]
+[20028.49ms] RETRANSMIT seq=174 len=512 [RETRANSMIT]
+[20028.49ms] RETRANSMIT seq=175 len=512 [RETRANSMIT]
+[20028.50ms] RETRANSMIT seq=176 len=512 [RETRANSMIT]
+[20028.50ms] RETRANSMIT seq=177 len=512 [RETRANSMIT]
+[20028.50ms] RETRANSMIT seq=178 len=512 [RETRANSMIT]
+[20048.95ms] ACK ack_num=172 cwnd=1.000000 ssthresh=16.000000
+[20048.99ms] SEND seq=179 len=512
+[20069.09ms] ACK ack_num=173 cwnd=1.000000 ssthresh=16.000000
+[20069.12ms] SEND seq=180 len=512
+[20089.32ms] ACK ack_num=174 cwnd=1.000000 ssthresh=16.000000
+[20089.35ms] SEND seq=181 len=512
+[20109.46ms] ACK ack_num=175 cwnd=1.000000 ssthresh=16.000000
+[20109.49ms] SEND seq=182 len=512
+[20129.81ms] ACK ack_num=176 cwnd=1.000000 ssthresh=16.000000
+[20129.84ms] SEND seq=183 len=512
+[20149.94ms] ACK ack_num=177 cwnd=1.000000 ssthresh=16.000000
+[20149.98ms] SEND seq=184 len=512
+[20170.12ms] ACK ack_num=178 cwnd=1.000000 ssthresh=16.000000
+[20170.16ms] SEND seq=185 len=512
+[20190.31ms] ACK ack_num=179 cwnd=1.000000 ssthresh=16.000000
+[20190.35ms] SEND seq=186 len=512
+[20210.48ms] ACK ack_num=180 cwnd=1.000000 ssthresh=16.000000
+[20210.51ms] SEND seq=187 len=512
+[20230.68ms] ACK ack_num=181 cwnd=1.000000 ssthresh=16.000000
+[20230.72ms] SEND seq=188 len=512
+[20250.79ms] ACK ack_num=182 cwnd=1.000000 ssthresh=16.000000
+[20250.82ms] SEND seq=189 len=512
+[20270.98ms] ACK ack_num=183 cwnd=1.000000 ssthresh=16.000000
+[20271.00ms] SEND seq=190 len=512
+[20291.16ms] ACK ack_num=184 cwnd=1.000000 ssthresh=16.000000
+[20291.19ms] SEND seq=191 len=512
+[20311.27ms] ACK ack_num=185 cwnd=1.000000 ssthresh=16.000000
+[20311.28ms] SEND seq=192 len=512
+[20331.53ms] ACK ack_num=186 cwnd=1.000000 ssthresh=16.000000
+[20331.56ms] SEND seq=193 len=512
+[20351.59ms] ACK ack_num=187 cwnd=1.000000 ssthresh=16.000000
+[20351.63ms] SEND seq=194 len=512
+[20371.81ms] DUP_ACK ack_num=187 count=1
+[20391.97ms] DUP_ACK ack_num=187 count=2
+[20412.12ms] DUP_ACK ack_num=187 count=3
+[20432.26ms] DUP_ACK ack_num=187 count=4
+[20452.41ms] DUP_ACK ack_num=187 count=5
+[20472.58ms] DUP_ACK ack_num=187 count=6
+[20651.86ms] TIMEOUT sendBase=187 nextSeq=195
+[20651.95ms] RETRANSMIT seq=187 len=512 [RETRANSMIT]
+[20651.95ms] RETRANSMIT seq=188 len=512 [RETRANSMIT]
+[20651.95ms] RETRANSMIT seq=189 len=512 [RETRANSMIT]
+[20651.96ms] RETRANSMIT seq=190 len=512 [RETRANSMIT]
+[20651.96ms] RETRANSMIT seq=191 len=512 [RETRANSMIT]
+[20651.96ms] RETRANSMIT seq=192 len=512 [RETRANSMIT]
+[20651.96ms] RETRANSMIT seq=193 len=512 [RETRANSMIT]
+[20651.97ms] RETRANSMIT seq=194 len=512 [RETRANSMIT]
+[20672.32ms] ACK ack_num=188 cwnd=1.000000 ssthresh=16.000000
+[20672.36ms] SEND seq=195 len=512
+[20692.55ms] ACK ack_num=189 cwnd=1.000000 ssthresh=16.000000
+[20692.61ms] SEND seq=196 len=512
+[20712.74ms] ACK ack_num=190 cwnd=1.000000 ssthresh=16.000000
+[20712.77ms] SEND seq=197 len=512
+[20732.92ms] ACK ack_num=191 cwnd=1.000000 ssthresh=16.000000
+[20732.95ms] SEND seq=198 len=512
+[20753.24ms] ACK ack_num=192 cwnd=1.000000 ssthresh=16.000000
+[20753.27ms] SEND seq=199 len=512
+[20773.51ms] ACK ack_num=193 cwnd=1.000000 ssthresh=16.000000
+[20773.54ms] SEND seq=200 len=512
+[20793.74ms] ACK ack_num=194 cwnd=1.000000 ssthresh=16.000000
+[20793.78ms] SEND seq=201 len=512
+[20813.93ms] ACK ack_num=195 cwnd=1.000000 ssthresh=16.000000
+[20813.97ms] SEND seq=202 len=512
+[20834.04ms] DUP_ACK ack_num=195 count=1
+[20854.22ms] DUP_ACK ack_num=195 count=2
+[20874.40ms] DUP_ACK ack_num=195 count=3
+[20894.58ms] DUP_ACK ack_num=195 count=4
+[20914.76ms] DUP_ACK ack_num=195 count=5
+[20934.92ms] DUP_ACK ack_num=195 count=6
+[20955.07ms] DUP_ACK ack_num=195 count=7
+[21114.20ms] TIMEOUT sendBase=195 nextSeq=203
+[21114.28ms] RETRANSMIT seq=195 len=512 [RETRANSMIT]
+[21114.29ms] RETRANSMIT seq=196 len=512 [RETRANSMIT]
+[21114.34ms] RETRANSMIT seq=197 len=512 [RETRANSMIT]
+[21114.35ms] RETRANSMIT seq=198 len=512 [RETRANSMIT]
+[21114.35ms] RETRANSMIT seq=199 len=512 [RETRANSMIT]
+[21114.36ms] RETRANSMIT seq=200 len=512 [RETRANSMIT]
+[21114.36ms] RETRANSMIT seq=201 len=512 [RETRANSMIT]
+[21114.36ms] RETRANSMIT seq=202 len=512 [RETRANSMIT]
+[21134.71ms] ACK ack_num=196 cwnd=1.000000 ssthresh=16.000000
+[21134.75ms] SEND seq=203 len=512
+[21154.90ms] ACK ack_num=197 cwnd=1.000000 ssthresh=16.000000
+[21154.94ms] SEND seq=204 len=512
+[21175.15ms] DUP_ACK ack_num=197 count=1
+[21195.34ms] DUP_ACK ack_num=197 count=2
+[21215.56ms] DUP_ACK ack_num=197 count=3
+[21237.13ms] DUP_ACK ack_num=197 count=4
+[21257.29ms] DUP_ACK ack_num=197 count=5
+[21455.20ms] TIMEOUT sendBase=197 nextSeq=205
+[21455.29ms] RETRANSMIT seq=197 len=512 [RETRANSMIT]
+[21455.30ms] RETRANSMIT seq=198 len=512 [RETRANSMIT]
+[21455.30ms] RETRANSMIT seq=199 len=512 [RETRANSMIT]
+[21455.31ms] RETRANSMIT seq=200 len=512 [RETRANSMIT]
+[21455.31ms] RETRANSMIT seq=201 len=512 [RETRANSMIT]
+[21455.31ms] RETRANSMIT seq=202 len=512 [RETRANSMIT]
+[21455.31ms] RETRANSMIT seq=203 len=512 [RETRANSMIT]
+[21455.31ms] RETRANSMIT seq=204 len=512 [RETRANSMIT]
+[21475.71ms] ACK ack_num=198 cwnd=1.000000 ssthresh=16.000000
+[21475.74ms] SEND seq=205 len=512
+[21495.94ms] DUP_ACK ack_num=198 count=1
+[21516.10ms] DUP_ACK ack_num=198 count=2
+[21536.29ms] DUP_ACK ack_num=198 count=3
+[21556.54ms] DUP_ACK ack_num=198 count=4
+[21576.77ms] DUP_ACK ack_num=198 count=5
+[21776.02ms] TIMEOUT sendBase=198 nextSeq=206
+[21776.10ms] RETRANSMIT seq=198 len=512 [RETRANSMIT]
+[21776.11ms] RETRANSMIT seq=199 len=512 [RETRANSMIT]
+[21776.11ms] RETRANSMIT seq=200 len=512 [RETRANSMIT]
+[21776.12ms] RETRANSMIT seq=201 len=512 [RETRANSMIT]
+[21776.12ms] RETRANSMIT seq=202 len=512 [RETRANSMIT]
+[21776.12ms] RETRANSMIT seq=203 len=512 [RETRANSMIT]
+[21776.13ms] RETRANSMIT seq=204 len=512 [RETRANSMIT]
+[21776.13ms] RETRANSMIT seq=205 len=512 [RETRANSMIT]
+[21796.55ms] ACK ack_num=199 cwnd=1.000000 ssthresh=16.000000
+[21796.59ms] SEND seq=206 len=512
+[21816.74ms] ACK ack_num=200 cwnd=1.000000 ssthresh=16.000000
+[21816.77ms] SEND seq=207 len=512
+[21836.91ms] ACK ack_num=201 cwnd=1.000000 ssthresh=16.000000
+[21836.94ms] SEND seq=208 len=512
+[21857.13ms] ACK ack_num=202 cwnd=1.000000 ssthresh=16.000000
+[21857.17ms] SEND seq=209 len=512
+[21877.43ms] ACK ack_num=203 cwnd=1.000000 ssthresh=16.000000
+[21877.48ms] SEND seq=210 len=512
+[21897.63ms] ACK ack_num=204 cwnd=1.000000 ssthresh=16.000000
+[21897.67ms] SEND seq=211 len=512
+[21917.86ms] DUP_ACK ack_num=204 count=1
+[21938.97ms] DUP_ACK ack_num=204 count=2
+[21958.23ms] DUP_ACK ack_num=204 count=3
+[21978.44ms] DUP_ACK ack_num=204 count=4
+[21998.68ms] DUP_ACK ack_num=204 count=5
+[22018.86ms] DUP_ACK ack_num=204 count=6
+[22197.93ms] TIMEOUT sendBase=204 nextSeq=212
+[22198.02ms] RETRANSMIT seq=204 len=512 [RETRANSMIT]
+[22198.02ms] RETRANSMIT seq=205 len=512 [RETRANSMIT]
+[22198.03ms] RETRANSMIT seq=206 len=512 [RETRANSMIT]
+[22198.03ms] RETRANSMIT seq=207 len=512 [RETRANSMIT]
+[22198.03ms] RETRANSMIT seq=208 len=512 [RETRANSMIT]
+[22198.04ms] RETRANSMIT seq=209 len=512 [RETRANSMIT]
+[22198.04ms] RETRANSMIT seq=210 len=512 [RETRANSMIT]
+[22198.04ms] RETRANSMIT seq=211 len=512 [RETRANSMIT]
+[22218.52ms] ACK ack_num=205 cwnd=1.000000 ssthresh=16.000000
+[22218.55ms] SEND seq=212 len=512
+[22238.86ms] DUP_ACK ack_num=205 count=1
+[22259.00ms] DUP_ACK ack_num=205 count=2
+[22279.28ms] DUP_ACK ack_num=205 count=3
+[22299.54ms] DUP_ACK ack_num=205 count=4
+[22319.84ms] DUP_ACK ack_num=205 count=5
+[22340.05ms] DUP_ACK ack_num=205 count=6
+[22518.85ms] TIMEOUT sendBase=205 nextSeq=213
+[22518.96ms] RETRANSMIT seq=205 len=512 [RETRANSMIT]
+[22518.97ms] RETRANSMIT seq=206 len=512 [RETRANSMIT]
+[22518.97ms] RETRANSMIT seq=207 len=512 [RETRANSMIT]
+[22518.97ms] RETRANSMIT seq=208 len=512 [RETRANSMIT]
+[22518.98ms] RETRANSMIT seq=209 len=512 [RETRANSMIT]
+[22518.98ms] RETRANSMIT seq=210 len=512 [RETRANSMIT]
+[22518.98ms] RETRANSMIT seq=211 len=512 [RETRANSMIT]
+[22518.98ms] RETRANSMIT seq=212 len=512 [RETRANSMIT]
+[22539.45ms] ACK ack_num=206 cwnd=1.000000 ssthresh=16.000000
+[22539.56ms] SEND seq=213 len=512
+[22559.71ms] ACK ack_num=207 cwnd=1.000000 ssthresh=16.000000
+[22559.77ms] SEND seq=214 len=512
+[22580.16ms] ACK ack_num=208 cwnd=1.000000 ssthresh=16.000000
+[22580.20ms] SEND seq=215 len=512
+[22600.35ms] ACK ack_num=209 cwnd=1.000000 ssthresh=16.000000
+[22600.39ms] SEND seq=216 len=512
+[22620.57ms] ACK ack_num=210 cwnd=1.000000 ssthresh=16.000000
+[22620.63ms] SEND seq=217 len=512
+[22640.82ms] ACK ack_num=211 cwnd=1.000000 ssthresh=16.000000
+[22640.85ms] SEND seq=218 len=512
+[22661.01ms] ACK ack_num=212 cwnd=1.000000 ssthresh=16.000000
+[22661.04ms] SEND seq=219 len=512
+[22681.17ms] ACK ack_num=213 cwnd=1.000000 ssthresh=16.000000
+[22681.20ms] SEND seq=220 len=512
+[22701.32ms] ACK ack_num=214 cwnd=1.000000 ssthresh=16.000000
+[22701.35ms] SEND seq=221 len=512
+[22721.55ms] ACK ack_num=215 cwnd=1.000000 ssthresh=16.000000
+[22721.58ms] SEND seq=222 len=336
+[22741.78ms] ACK ack_num=216 cwnd=1.000000 ssthresh=16.000000
+[22761.99ms] ACK ack_num=217 cwnd=1.000000 ssthresh=16.000000
+[22782.21ms] ACK ack_num=218 cwnd=1.000000 ssthresh=16.000000
+[22802.45ms] ACK ack_num=219 cwnd=1.000000 ssthresh=16.000000
+[22822.67ms] DUP_ACK ack_num=219 count=1
+[22842.84ms] DUP_ACK ack_num=219 count=2
+[22863.05ms] DUP_ACK ack_num=219 count=3
+[23102.81ms] TIMEOUT sendBase=219 nextSeq=223
+[23102.91ms] RETRANSMIT seq=219 len=512 [RETRANSMIT]
+[23102.92ms] RETRANSMIT seq=220 len=512 [RETRANSMIT]
+[23102.92ms] RETRANSMIT seq=221 len=512 [RETRANSMIT]
+[23102.92ms] RETRANSMIT seq=222 len=336 [RETRANSMIT]
+[23123.44ms] ACK ack_num=220 cwnd=1.000000 ssthresh=16.000000
+[23143.70ms] ACK ack_num=221 cwnd=1.000000 ssthresh=16.000000
+[23164.00ms] ACK ack_num=222 cwnd=1.000000 ssthresh=16.000000
+[23184.27ms] ACK ack_num=223 cwnd=1.000000 ssthresh=16.000000
+[23184.33ms] SEND_FIN attempt=1
+[23184.42ms] FIN_ACK received

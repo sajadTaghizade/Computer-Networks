@@ -1,0 +1,11 @@
+[sender] transfer complete
+  mode                 : sliding-window
+  total packets        : 223
+  total bytes           : 114000
+  packets sent (w/ rtx) : 295
+  retransmissions       : 72
+  fast retransmits      : 0
+  timeouts              : 9
+  acks received         : 283
+  elapsed time (ms)     : 14226.1
+  throughput (bytes/s)  : 8013.47
